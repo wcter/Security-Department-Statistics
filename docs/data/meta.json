@@ -1,20 +1,21 @@
 {
   "ready": true,
-  "awaitingRoster": true,
+  "awaitingRoster": false,
   "title": "SCPF Security Department",
   "subtitle": "Group Intelligence Dashboard",
   "group": {
     "id": 4606666,
     "name": "[SCPF - Security Department]",
-    "memberCount": 583,
+    "memberCount": 587,
     "owner": {
+      "hasVerifiedBadge": false,
       "userId": 234810404,
       "username": "Toximay",
       "displayName": "Toximay"
     },
     "shout": null,
     "url": "https://www.roblox.com/communities/4606666/SCPF-Security-Department",
-    "description": "[SCPF] - Security Department\nThe Security Department is the Foundation's primary combative department. They are the shield of the Foundation and are entrusted with the safeguarding of all Foundation employees, assets, and facilities.\nFounded by Daxrentha. Created on 3/5/20."
+    "description": "[SCPF] - Security Department\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nThe Security Department is the Foundation’s primary combative department. They are the shield of the Foundation and are entrusted with the safeguarding of all Foundation employees, assets, and facilities. Security Department operatives are responsible for containing riots and defending against hostile raids. The Security Department often works closely alongside the Mobile Task Forces to ensure Pathos III’s security, by both defending Pathos III and attempting to drive hostile forces away from Pathos III by going on the offensive.\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nFounded by Daxrentha\nCreated on 3/5/20"
   },
   "roles": [
     {
@@ -24,7 +25,7 @@
       "tier": 0,
       "base": false,
       "divider": false,
-      "apiCount": 131
+      "apiCount": 134
     },
     {
       "id": 12884901889,
@@ -69,7 +70,7 @@
       "tier": 5,
       "base": false,
       "divider": false,
-      "apiCount": 85
+      "apiCount": 86
     },
     {
       "id": 30919801,
@@ -162,14 +163,14 @@
       "apiCount": 1
     }
   ],
-  "generatedAt": 1785893604799,
-  "trackingSince": 1785893604799,
+  "generatedAt": 1785940181734,
+  "trackingSince": 1785940060717,
   "trackedDays": 0,
-  "snapshotCount": 0,
+  "snapshotCount": 1,
   "eventCount": 0,
-  "trackedMembers": 0,
-  "activeMembers": 0,
+  "trackedMembers": 587,
+  "activeMembers": 587,
   "departedMembers": 0,
-  "bootstrapped": 0,
+  "bootstrapped": 587,
   "shards": 16
 }
