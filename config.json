@@ -1,0 +1,33 @@
+{
+  "groupId": 4606666,
+  "groupUrl": "https://www.roblox.com/communities/4606666/SCPF-Security-Department",
+  "tracking": {
+    "trackAllMembers": true,
+    "minTrackedRank": 0,
+    "watchlist": [],
+    "fetchAccountDetails": true,
+    "leaveGracePeriod": 2
+  },
+  "collection": {
+    "pageSize": 100,
+    "roleConcurrency": 4,
+    "maxRetries": 7,
+    "requestTimeoutMs": 25000,
+    "baseBackoffMs": 900,
+    "maxBackoffMs": 60000,
+    "politeDelayMs": 120
+  },
+  "site": {
+    "title": "SCPF Security Department",
+    "subtitle": "Group Intelligence Dashboard",
+    "recentEventsLimit": 3000,
+    "leaderboardSize": 25,
+    "memberShards": 16
+  },
+  "stats": {
+    "minSamplesForPrediction": 5,
+    "personalCadenceWeight": 0.4,
+    "stallMultiplier": 1.5,
+    "activeWindowDays": 30
+  }
+}

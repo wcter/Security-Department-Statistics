@@ -1,0 +1,11 @@
+# NDJSON state files are line-oriented on purpose: git delta-compresses them well,
+# so a snapshot that changes 40 members costs ~40 changed lines, not the whole file.
+*.ndjson text eol=lf diff
+*.json   text eol=lf
+*.mjs    text eol=lf
+*.js     text eol=lf
+*.css    text eol=lf
+*.html   text eol=lf
+
+docs/data/** linguist-generated=true -diff
+data/**      linguist-generated=true

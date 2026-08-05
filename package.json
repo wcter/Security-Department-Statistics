@@ -1,0 +1,17 @@
+{
+  "name": "roblox-group-stats",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static GitHub Pages dashboard tracking Roblox group membership, promotions and rank ascension over time.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "node --check scripts/collect.mjs && node --check scripts/build.mjs && node --check scripts/serve.mjs",
+    "test": "node tests/collector.test.mjs && node tests/ui.test.mjs"
+  }
+}

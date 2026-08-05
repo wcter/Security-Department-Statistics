@@ -1,0 +1,19 @@
+[
+  { "id": 30919762,    "name": "Guest",                   "rank": 0,   "memberCount": 0 },
+  { "id": 12884901889, "name": "Member",                  "rank": 1,   "memberCount": 583, "isBase": true },
+  { "id": 70762197,    "name": "Security Intern",         "rank": 1,   "memberCount": 131 },
+  { "id": 30919761,    "name": "Security Cadet",          "rank": 20,  "memberCount": 102 },
+  { "id": 30919798,    "name": "Security Agent",          "rank": 30,  "memberCount": 134 },
+  { "id": 135066020,   "name": "Security Guard",          "rank": 40,  "memberCount": 68 },
+  { "id": 135248009,   "name": "Security Sentry",         "rank": 50,  "memberCount": 85 },
+  { "id": 30919801,    "name": "Security Specialist",     "rank": 60,  "memberCount": 28 },
+  { "id": 105852384,   "name": "Security Corporal",       "rank": 100, "memberCount": 17 },
+  { "id": 30919802,    "name": "Security Officer",        "rank": 150, "memberCount": 9 },
+  { "id": 30919821,    "name": "Security Lieutenant",     "rank": 170, "memberCount": 4 },
+  { "id": 30919837,    "name": "Chief of Security",       "rank": 180, "memberCount": 1 },
+  { "id": 30919815,    "name": "--------------------",    "rank": 185, "memberCount": 1 },
+  { "id": 30919760,    "name": "O5 Council",              "rank": 252, "memberCount": 2 },
+  { "id": 668323001,   "name": "Overseer",                "rank": 253, "memberCount": 1, "color": 13 },
+  { "id": 523836081,   "name": "Chairman of the Council", "rank": 254, "memberCount": 1 },
+  { "id": 30919759,    "name": "The Administrator",       "rank": 255, "memberCount": 1 }
+]

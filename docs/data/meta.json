@@ -1,0 +1,175 @@
+{
+  "ready": true,
+  "awaitingRoster": true,
+  "title": "SCPF Security Department",
+  "subtitle": "Group Intelligence Dashboard",
+  "group": {
+    "id": 4606666,
+    "name": "[SCPF - Security Department]",
+    "memberCount": 583,
+    "owner": {
+      "userId": 234810404,
+      "username": "Toximay",
+      "displayName": "Toximay"
+    },
+    "shout": null,
+    "url": "https://www.roblox.com/communities/4606666/SCPF-Security-Department",
+    "description": "[SCPF] - Security Department\nThe Security Department is the Foundation's primary combative department. They are the shield of the Foundation and are entrusted with the safeguarding of all Foundation employees, assets, and facilities.\nFounded by Daxrentha. Created on 3/5/20."
+  },
+  "roles": [
+    {
+      "id": 70762197,
+      "name": "Security Intern",
+      "rank": 1,
+      "tier": 0,
+      "base": false,
+      "divider": false,
+      "apiCount": 131
+    },
+    {
+      "id": 12884901889,
+      "name": "Member",
+      "rank": 1,
+      "tier": 1,
+      "base": true,
+      "divider": false,
+      "apiCount": null
+    },
+    {
+      "id": 30919761,
+      "name": "Security Cadet",
+      "rank": 20,
+      "tier": 2,
+      "base": false,
+      "divider": false,
+      "apiCount": 102
+    },
+    {
+      "id": 30919798,
+      "name": "Security Agent",
+      "rank": 30,
+      "tier": 3,
+      "base": false,
+      "divider": false,
+      "apiCount": 134
+    },
+    {
+      "id": 135066020,
+      "name": "Security Guard",
+      "rank": 40,
+      "tier": 4,
+      "base": false,
+      "divider": false,
+      "apiCount": 68
+    },
+    {
+      "id": 135248009,
+      "name": "Security Sentry",
+      "rank": 50,
+      "tier": 5,
+      "base": false,
+      "divider": false,
+      "apiCount": 85
+    },
+    {
+      "id": 30919801,
+      "name": "Security Specialist",
+      "rank": 60,
+      "tier": 6,
+      "base": false,
+      "divider": false,
+      "apiCount": 28
+    },
+    {
+      "id": 105852384,
+      "name": "Security Corporal",
+      "rank": 100,
+      "tier": 7,
+      "base": false,
+      "divider": false,
+      "apiCount": 17
+    },
+    {
+      "id": 30919802,
+      "name": "Security Officer",
+      "rank": 150,
+      "tier": 8,
+      "base": false,
+      "divider": false,
+      "apiCount": 9
+    },
+    {
+      "id": 30919821,
+      "name": "Security Lieutenant",
+      "rank": 170,
+      "tier": 9,
+      "base": false,
+      "divider": false,
+      "apiCount": 4
+    },
+    {
+      "id": 30919837,
+      "name": "Chief of Security",
+      "rank": 180,
+      "tier": 10,
+      "base": false,
+      "divider": false,
+      "apiCount": 1
+    },
+    {
+      "id": 30919815,
+      "name": "--------------------",
+      "rank": 185,
+      "tier": 11,
+      "base": false,
+      "divider": true,
+      "apiCount": 1
+    },
+    {
+      "id": 30919760,
+      "name": "O5 Council",
+      "rank": 252,
+      "tier": 12,
+      "base": false,
+      "divider": false,
+      "apiCount": 2
+    },
+    {
+      "id": 668323001,
+      "name": "Overseer",
+      "rank": 253,
+      "tier": 13,
+      "base": false,
+      "divider": false,
+      "apiCount": 1
+    },
+    {
+      "id": 523836081,
+      "name": "Chairman of the Council",
+      "rank": 254,
+      "tier": 14,
+      "base": false,
+      "divider": false,
+      "apiCount": 1
+    },
+    {
+      "id": 30919759,
+      "name": "The Administrator",
+      "rank": 255,
+      "tier": 15,
+      "base": false,
+      "divider": false,
+      "apiCount": 1
+    }
+  ],
+  "generatedAt": 1785893604799,
+  "trackingSince": 1785893604799,
+  "trackedDays": 0,
+  "snapshotCount": 0,
+  "eventCount": 0,
+  "trackedMembers": 0,
+  "activeMembers": 0,
+  "departedMembers": 0,
+  "bootstrapped": 0,
+  "shards": 16
+}

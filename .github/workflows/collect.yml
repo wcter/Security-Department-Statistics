@@ -1,0 +1,81 @@
+name: Collect group snapshot
+
+on:
+  schedule:
+    # Every 6 hours at :07 past, to dodge the top-of-hour runner stampede.
+    - cron: "7 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      rebuild_only:
+        description: "Skip API collection, only regenerate site payloads"
+        type: boolean
+        default: false
+
+# Never let two collectors race on the same state files.
+concurrency:
+  group: collect-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Collect snapshot
+        if: ${{ inputs.rebuild_only != true }}
+        run: node scripts/collect.mjs
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
+
+      - name: Build site payloads
+        run: node scripts/build.mjs
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain data docs/data)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add data docs/data
+          git commit -m "snapshot: $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+          # A scheduled run can collide with a manual one; rebase rather than fail.
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+               git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            echo "Push attempt $i failed, retrying in 10s..."
+            sleep 10
+          done
+          echo "Could not push after 3 attempts." >&2
+          exit 1
+
+      - name: Run summary
+        if: always()
+        run: |
+          {
+            echo "### Collection run"
+            echo ""
+            echo '```'
+            tail -n 40 data/collect.log 2>/dev/null || echo "(no log produced)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

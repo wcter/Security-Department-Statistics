@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Group Intelligence Dashboard</title>
+<meta name="description" content="Roblox group analytics: rank distribution, promotion velocity, ascension timelines and predicted promotion windows.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%236d8cff'/><path d='M28 68V44m22 24V32m22 36V52' stroke='%23070a12' stroke-width='11' stroke-linecap='round'/></svg>">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+<div class="aurora" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div class="brand-text">
+        <h1 id="site-title">Group Intelligence</h1>
+        <p id="site-subtitle">Loading…</p>
+      </div>
+    </div>
+
+    <nav class="tabs" id="tabs" role="tablist">
+      <button class="tab is-active" data-view="overview" role="tab">Overview</button>
+      <button class="tab" data-view="roster"      role="tab">Roster</button>
+      <button class="tab" data-view="promotions"  role="tab">Promotions</button>
+      <button class="tab" data-view="ranks"       role="tab">Ranks</button>
+      <button class="tab" data-view="boards"      role="tab">Leaderboards</button>
+    </nav>
+
+    <div class="topbar-meta">
+      <span class="dot-live" aria-hidden="true"></span>
+      <div>
+        <div class="meta-label">Last snapshot</div>
+        <div class="meta-value" id="last-updated">—</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div id="awaiting-banner" class="banner hidden">
+  <strong>Awaiting the first roster snapshot.</strong>
+  <span>The rank ladder and headcounts below are live from the Roblox group API. Individual member tracking,
+  promotion timing and predictions begin once the collector has run — and get sharper with every snapshot after that.</span>
+</div>
+
+<div id="empty-state" class="empty hidden">
+  <div class="empty-card">
+    <h2>No snapshots yet</h2>
+    <p id="empty-message">Run the <code>Collect group snapshot</code> workflow to start building history.</p>
+    <p class="muted small">Promotion timing needs at least a few snapshots before it becomes meaningful — the first run only establishes a baseline.</p>
+  </div>
+</div>
+
+<main class="wrap" id="main" hidden>
+
+  <!-- ============================= OVERVIEW ============================= -->
+  <section class="view is-active" id="view-overview">
+    <div class="kpis" id="kpis"></div>
+
+    <div class="grid">
+      <article class="card span-8">
+        <header class="card-head">
+          <div>
+            <h2>Membership over time</h2>
+            <p class="muted small">Public member count vs. the roster this tracker has individually indexed.</p>
+          </div>
+          <div class="seg" id="growth-range">
+            <button data-days="30">30d</button>
+            <button data-days="90">90d</button>
+            <button data-days="180" class="is-active">180d</button>
+            <button data-days="0">All</button>
+          </div>
+        </header>
+        <div class="chart-box"><canvas id="chart-growth"></canvas></div>
+      </article>
+
+      <article class="card span-4">
+        <header class="card-head"><div><h2>Promotion outlook</h2>
+          <p class="muted small">Where the active roster sits against its rank's timing curve.</p></div></header>
+        <div class="chart-box short"><canvas id="chart-mix"></canvas></div>
+        <div id="mix-legend" class="legend"></div>
+      </article>
+
+      <article class="card span-7">
+        <header class="card-head"><div><h2>Rank pyramid</h2>
+          <p class="muted small">Headcount per rank, with the share currently due for promotion.</p></div></header>
+        <div id="pyramid" class="pyramid"></div>
+      </article>
+
+      <article class="card span-5">
+        <header class="card-head"><div><h2>Activity</h2>
+          <p class="muted small">Daily promotions, joins and departures.</p></div></header>
+        <div class="chart-box"><canvas id="chart-activity"></canvas></div>
+      </article>
+
+      <article class="card span-5">
+        <header class="card-head"><div><h2>Recent movement</h2></div>
+          <button class="link" data-goto="promotions">View all →</button></header>
+        <div id="recent-feed" class="feed"></div>
+      </article>
+
+      <article class="card span-7">
+        <header class="card-head"><div><h2>Fastest ascension</h2>
+          <p class="muted small">Ranks climbed per year, among members tracked at least a week.</p></div>
+          <button class="link" data-goto="boards">All boards →</button></header>
+        <div id="quick-risers" class="minitable"></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============================== ROSTER ============================== -->
+  <section class="view" id="view-roster">
+    <div class="toolbar">
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input type="search" id="roster-search" placeholder="Search username or display name…" autocomplete="off" spellcheck="false">
+      </div>
+      <select id="filter-rank" aria-label="Filter by rank"><option value="">All ranks</option></select>
+      <select id="filter-status" aria-label="Filter by promotion status">
+        <option value="">Any status</option>
+        <option value="on-track">On track</option>
+        <option value="due">Due</option>
+        <option value="overdue">Overdue</option>
+        <option value="stalled">Stalled</option>
+        <option value="top-rank">At top rank</option>
+        <option value="insufficient-data">No data yet</option>
+      </select>
+      <select id="filter-membership" aria-label="Filter by membership">
+        <option value="active">Active only</option>
+        <option value="all">Include departed</option>
+        <option value="departed">Departed only</option>
+      </select>
+      <div class="grow"></div>
+      <span class="count" id="roster-count">—</span>
+    </div>
+
+    <div class="card table-card">
+      <div class="thead" id="roster-head"></div>
+      <div class="tbody" id="roster-body">
+        <div class="vspacer" id="roster-spacer"></div>
+        <div class="vrows" id="roster-rows"></div>
+      </div>
+      <div class="tfoot muted small">Click any member for their full ascension record.</div>
+    </div>
+  </section>
+
+  <!-- ============================ PROMOTIONS =========================== -->
+  <section class="view" id="view-promotions">
+    <div class="grid">
+      <article class="card span-6">
+        <header class="card-head"><div><h2>When promotions happen</h2>
+          <p class="muted small">Weekday × hour, UTC. Reveals when leadership actually runs rank reviews.</p></div></header>
+        <div id="heatmap" class="heatmap"></div>
+      </article>
+
+      <article class="card span-6">
+        <header class="card-head"><div><h2>Rank transitions</h2>
+          <p class="muted small">Where members move from, and to. Rows are origin ranks.</p></div></header>
+        <div id="matrix" class="matrix"></div>
+      </article>
+
+      <article class="card span-12">
+        <header class="card-head">
+          <div><h2>Movement log</h2><p class="muted small" id="events-total"></p></div>
+          <div class="seg" id="event-filter">
+            <button data-type="" class="is-active">All</button>
+            <button data-type="promote">Promotions</button>
+            <button data-type="demote">Demotions</button>
+            <button data-type="lateral">Lateral</button>
+            <button data-type="join">Joins</button>
+            <button data-type="leave">Departures</button>
+          </div>
+        </header>
+        <div id="event-log" class="eventlog"></div>
+        <button class="more" id="events-more">Load more</button>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============================== RANKS ============================== -->
+  <section class="view" id="view-ranks">
+    <div class="callout">
+      <strong>How long each rank actually takes.</strong>
+      Bars show the middle 50% of observed time-in-rank for members who were promoted out of it; the marker is the median.
+      Ranks with too few completed promotions are marked as still gathering data.
+    </div>
+    <div id="rank-cards" class="rank-cards"></div>
+  </section>
+
+  <!-- =========================== LEADERBOARDS ========================== -->
+  <section class="view" id="view-boards">
+    <div id="boards" class="boards"></div>
+  </section>
+
+</main>
+
+<footer class="wrap foot">
+  <div id="foot-stats" class="muted small"></div>
+  <div class="muted small">
+    Built from scheduled roster snapshots. Roblox does not publish group join dates or promotion history —
+    every timeline here is derived from observed change, so tenure figures are lower bounds.
+  </div>
+</footer>
+
+<!-- ============================ MEMBER DRAWER ============================ -->
+<div class="drawer-scrim" id="drawer-scrim" hidden></div>
+<aside class="drawer" id="drawer" hidden aria-label="Member detail">
+  <button class="drawer-close" id="drawer-close" aria-label="Close">×</button>
+  <div id="drawer-body"></div>
+</aside>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
