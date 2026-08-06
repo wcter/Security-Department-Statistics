@@ -29,3 +29,8 @@
 {"t":"2026-08-06T08:49:59.187Z","type":"leave","id":1463642963,"u":"CAbears19","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-08-06T08:49:59.187Z","type":"leave","id":1635679579,"u":"Gxnty","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-08-06T08:49:59.187Z","type":"leave","id":11165855329,"u":"mt2022_alt","from":100,"fromRoleId":105852384,"fromName":"Security Corporal"}
+{"t":"2026-08-06T14:30:39.103Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.237}
+{"t":"2026-08-06T14:30:39.103Z","type":"join","id":7134480143,"u":"engineerrealtf2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T14:30:39.103Z","type":"join","id":1701332458,"u":"CalinCSpro","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T14:30:39.103Z","type":"join","id":2654724825,"u":"Mobiusmossly","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T14:30:39.103Z","type":"join","id":5523201603,"u":"bqot3000","to":1,"roleId":70762197,"toName":"Security Intern"}

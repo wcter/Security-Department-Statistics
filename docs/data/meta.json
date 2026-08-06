@@ -6,7 +6,7 @@
   "group": {
     "id": 4606666,
     "name": "[SCPF - Security Department]",
-    "memberCount": 600,
+    "memberCount": 604,
     "owner": {
       "hasVerifiedBadge": false,
       "userId": 234810404,
@@ -25,7 +25,7 @@
       "tier": 0,
       "base": false,
       "divider": false,
-      "apiCount": 144
+      "apiCount": 148
     },
     {
       "id": 12884901889,
@@ -163,13 +163,13 @@
       "apiCount": 1
     }
   ],
-  "generatedAt": 1786006202765,
+  "generatedAt": 1786026644268,
   "trackingSince": 1785940060717,
-  "trackedDays": 0.8,
-  "snapshotCount": 4,
-  "eventCount": 31,
-  "trackedMembers": 603,
-  "activeMembers": 600,
+  "trackedDays": 1,
+  "snapshotCount": 5,
+  "eventCount": 36,
+  "trackedMembers": 607,
+  "activeMembers": 604,
   "departedMembers": 3,
   "bootstrapped": 587,
   "shards": 16
