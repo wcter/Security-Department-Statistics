@@ -9,3 +9,14 @@
 {"t":"2026-08-05T19:48:37.079Z","type":"join","id":2819333844,"u":"MKtheSAD","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-05T19:48:37.079Z","type":"join","id":1782771668,"u":"pgolol","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-05T19:48:37.079Z","type":"join","id":292573698,"u":"Tyrxnnical","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T03:28:15.894Z","type":"promote","id":1461840648,"u":"SuperMonkeyMetal","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":0.542}
+{"t":"2026-08-06T03:28:15.894Z","type":"promote","id":1661533308,"u":"XxH_DashxX","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":0.542}
+{"t":"2026-08-06T03:28:15.894Z","type":"promote","id":869641371,"u":"Jacob_Hallboi","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":0.542}
+{"t":"2026-08-06T03:28:15.894Z","type":"promote","id":1814864998,"u":"SaintlyTiming","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.542}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":2439241262,"u":"Axthrxus","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":8629857292,"u":"coldwiths","to":40,"roleId":135066020,"toName":"Security Guard"}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":3527185321,"u":"mtf2022","to":100,"roleId":105852384,"toName":"Security Corporal"}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":556236782,"u":"gentslaw","to":30,"roleId":30919798,"toName":"Security Agent"}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":2050498093,"u":"nitonrock","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":885857684,"u":"kajlach","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-06T03:28:15.894Z","type":"join","id":293212124,"u":"Frix_YTB","to":1,"roleId":70762197,"toName":"Security Intern"}
