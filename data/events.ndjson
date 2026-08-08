@@ -58,3 +58,6 @@
 {"t":"2026-08-07T19:08:42.010Z","type":"promote","id":7688397520,"u":"averyrandouser","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.195}
 {"t":"2026-08-07T19:08:42.010Z","type":"promote","id":1658335725,"u":"yy8yd2","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.195}
 {"t":"2026-08-07T19:08:42.010Z","type":"join","id":2561388676,"u":"mlamla_mlawez","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-08T02:10:38.386Z","type":"demote","id":2677272277,"u":"Maelstrom_Z","from":170,"to":150,"fromRoleId":30919821,"roleId":30919802,"fromName":"Security Lieutenant","toName":"Security Officer","heldDays":2.488}
+{"t":"2026-08-08T02:10:38.386Z","type":"join","id":2234589381,"u":"Daanboy3214","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-08T02:10:38.386Z","type":"join","id":273746148,"u":"Exerminos","to":30,"roleId":30919798,"toName":"Security Agent"}
