@@ -61,3 +61,8 @@
 {"t":"2026-08-08T02:10:38.386Z","type":"demote","id":2677272277,"u":"Maelstrom_Z","from":170,"to":150,"fromRoleId":30919821,"roleId":30919802,"fromName":"Security Lieutenant","toName":"Security Officer","heldDays":2.488}
 {"t":"2026-08-08T02:10:38.386Z","type":"join","id":2234589381,"u":"Daanboy3214","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-08T02:10:38.386Z","type":"join","id":273746148,"u":"Exerminos","to":30,"roleId":30919798,"toName":"Security Agent"}
+{"t":"2026-08-08T07:06:59.185Z","type":"promote","id":2677272277,"u":"Maelstrom_Z","from":150,"to":170,"fromRoleId":30919802,"roleId":30919821,"fromName":"Security Officer","toName":"Security Lieutenant","heldDays":0.206}
+{"t":"2026-08-08T07:06:59.185Z","type":"join","id":1338732860,"u":"fffdfjkhcdsf","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-08T07:06:59.185Z","type":"join","id":970053545,"u":"rockytherock123786","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-08T07:06:59.185Z","type":"leave","id":1720185735,"u":"LavaSpark7","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-08-08T07:06:59.185Z","type":"leave","id":4945970171,"u":"ycu933","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
