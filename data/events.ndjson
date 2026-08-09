@@ -98,3 +98,8 @@
 {"t":"2026-08-09T13:09:01.130Z","type":"promote","id":493968214,"u":"Q6ri5544_backup2","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.945}
 {"t":"2026-08-09T13:09:01.130Z","type":"join","id":2318242565,"u":"davidoff2221","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-09T13:09:01.130Z","type":"join","id":4469674795,"u":"Call777897","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-09T18:53:53.036Z","type":"promote","id":1047055077,"u":"squafter","from":1,"to":30,"fromRoleId":70762197,"roleId":30919798,"fromName":"Security Intern","toName":"Security Agent","heldDays":1.001}
+{"t":"2026-08-09T18:53:53.036Z","type":"join","id":1062225576,"u":"unojoaquim1127","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-09T18:53:53.036Z","type":"join","id":1686615584,"u":"macku12131","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-09T18:53:53.036Z","type":"join","id":2320487730,"u":"awsomedude456767","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-09T18:53:53.036Z","type":"join","id":2974024914,"u":"noobinoob838","to":1,"roleId":70762197,"toName":"Security Intern"}

@@ -10,7 +10,7 @@
     "id": 12884901889,
     "name": "Member",
     "rank": 1,
-    "memberCount": 620,
+    "memberCount": 619,
     "isBase": true,
     "color": 0
   },
@@ -32,7 +32,7 @@
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 145,
+    "memberCount": 146,
     "color": 0
   },
   {
@@ -60,14 +60,14 @@
     "id": 105852384,
     "name": "Security Corporal",
     "rank": 100,
-    "memberCount": 21,
+    "memberCount": 19,
     "color": 0
   },
   {
     "id": 30919802,
     "name": "Security Officer",
     "rank": 150,
-    "memberCount": 9,
+    "memberCount": 8,
     "color": 0
   },
   {
