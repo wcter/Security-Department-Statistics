@@ -94,3 +94,7 @@
 {"t":"2026-08-09T07:09:07.634Z","type":"leave","id":1731205574,"u":"bibulec2012","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-09T07:09:07.634Z","type":"leave","id":2792356009,"u":"mavifinn2","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-08-09T07:09:07.634Z","type":"leave","id":5363974015,"u":"12345darkninja1","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-09T13:09:01.130Z","type":"rename","id":932985991,"u":"Viffy_2","from":"lukaslux2012"}
+{"t":"2026-08-09T13:09:01.130Z","type":"promote","id":493968214,"u":"Q6ri5544_backup2","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.945}
+{"t":"2026-08-09T13:09:01.130Z","type":"join","id":2318242565,"u":"davidoff2221","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-09T13:09:01.130Z","type":"join","id":4469674795,"u":"Call777897","to":1,"roleId":70762197,"toName":"Security Intern"}
