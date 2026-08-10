@@ -103,3 +103,8 @@
 {"t":"2026-08-09T18:53:53.036Z","type":"join","id":1686615584,"u":"macku12131","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-09T18:53:53.036Z","type":"join","id":2320487730,"u":"awsomedude456767","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-09T18:53:53.036Z","type":"join","id":2974024914,"u":"noobinoob838","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-10T02:27:19.649Z","type":"leave","id":463986248,"u":"TangyAsimo","from":100,"fromRoleId":105852384,"fromName":"Security Corporal"}
+{"t":"2026-08-10T02:27:19.649Z","type":"leave","id":1181344886,"u":"gfttijiuyg","from":100,"fromRoleId":105852384,"fromName":"Security Corporal"}
+{"t":"2026-08-10T02:27:19.649Z","type":"leave","id":1196320071,"u":"83k439","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-10T02:27:19.649Z","type":"leave","id":2830332039,"u":"patrickstefanne","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-10T02:27:19.649Z","type":"leave","id":3796332424,"u":"CoordinatorDesired","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
