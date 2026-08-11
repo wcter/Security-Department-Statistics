@@ -10,7 +10,7 @@
     "id": 12884901889,
     "name": "Member",
     "rank": 1,
-    "memberCount": 621,
+    "memberCount": 620,
     "isBase": true,
     "color": 0
   },
@@ -18,21 +18,21 @@
     "id": 70762197,
     "name": "Security Intern",
     "rank": 1,
-    "memberCount": 152,
+    "memberCount": 147,
     "color": 0
   },
   {
     "id": 30919761,
     "name": "Security Cadet",
     "rank": 20,
-    "memberCount": 105,
+    "memberCount": 107,
     "color": 0
   },
   {
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 144,
+    "memberCount": 146,
     "color": 0
   },
   {

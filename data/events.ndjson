@@ -118,3 +118,10 @@
 {"t":"2026-08-10T19:09:12.983Z","type":"join","id":282914208,"u":"Orange_Godzilla","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-10T19:09:12.983Z","type":"join","id":595809920,"u":"patatakialays123","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-10T19:09:12.983Z","type":"leave","id":3151984464,"u":"Exaylix","from":60,"fromRoleId":30919801,"fromName":"Security Specialist"}
+{"t":"2026-08-11T13:24:54.723Z","type":"rename","id":792634375,"u":"roblox_user_792634375","from":"Anomaly_Rtrd"}
+{"t":"2026-08-11T13:24:54.723Z","type":"promote","id":2785251566,"u":"Infectious_Mozerella","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.956}
+{"t":"2026-08-11T13:24:54.723Z","type":"promote","id":955038279,"u":"Fanda_2019","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.956}
+{"t":"2026-08-11T13:24:54.723Z","type":"promote","id":1807184628,"u":"LowkeyFract","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.956}
+{"t":"2026-08-11T13:24:54.723Z","type":"promote","id":2819333844,"u":"MKtheSAD","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.734}
+{"t":"2026-08-11T13:24:54.723Z","type":"promote","id":2974024914,"u":"noobinoob838","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.772}
+{"t":"2026-08-11T13:24:54.723Z","type":"promote","id":282914208,"u":"Orange_Godzilla","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.761}
