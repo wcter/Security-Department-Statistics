@@ -144,3 +144,7 @@
 {"t":"2026-08-13T02:38:21.578Z","type":"join","id":382170475,"u":"patryk330","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-13T02:38:21.578Z","type":"leave","id":7384401037,"u":"Operator_Delta7","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-08-13T07:47:02.303Z","type":"leave","id":9429845497,"u":"AtlontasSider","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-08-13T13:37:18.307Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":4.469}
+{"t":"2026-08-13T13:37:18.307Z","type":"promote","id":2758102430,"u":"shadowwsoffline","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.965}
+{"t":"2026-08-13T13:37:18.307Z","type":"promote","id":2439241262,"u":"Axthrxus","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.782}
+{"t":"2026-08-13T13:37:18.307Z","type":"leave","id":991111251,"u":"TrustFundGreedyEyes","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
