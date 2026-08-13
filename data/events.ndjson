@@ -148,3 +148,5 @@
 {"t":"2026-08-13T13:37:18.307Z","type":"promote","id":2758102430,"u":"shadowwsoffline","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.965}
 {"t":"2026-08-13T13:37:18.307Z","type":"promote","id":2439241262,"u":"Axthrxus","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.782}
 {"t":"2026-08-13T13:37:18.307Z","type":"leave","id":991111251,"u":"TrustFundGreedyEyes","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-08-13T19:15:12.468Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.235}
+{"t":"2026-08-13T19:15:12.468Z","type":"promote","id":1885869902,"u":"SpeedyDer_Hase","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.001}
