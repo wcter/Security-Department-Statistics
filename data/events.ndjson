@@ -159,3 +159,8 @@
 {"t":"2026-08-14T02:36:20.091Z","type":"join","id":190082627,"u":"AtlantisSider","to":50,"roleId":135248009,"toName":"Security Sentry"}
 {"t":"2026-08-14T02:36:20.091Z","type":"leave","id":1940020802,"u":"PENGUIN64021","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-14T02:36:20.091Z","type":"leave","id":2822859280,"u":"lncognito_Man","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-14T07:44:36.474Z","type":"promote","id":359338115,"u":"ONB1999","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.72}
+{"t":"2026-08-14T07:44:36.474Z","type":"promote","id":633233761,"u":"Arthur10athos","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":8.72}
+{"t":"2026-08-14T07:44:36.474Z","type":"join","id":683322705,"u":"BaconFlakin","to":50,"roleId":135248009,"toName":"Security Sentry"}
+{"t":"2026-08-14T07:44:36.474Z","type":"join","id":1632706220,"u":"Rascal0404","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-14T07:44:36.474Z","type":"leave","id":2054883665,"u":"ilyasibr7","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
