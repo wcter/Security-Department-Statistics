@@ -150,3 +150,12 @@
 {"t":"2026-08-13T13:37:18.307Z","type":"leave","id":991111251,"u":"TrustFundGreedyEyes","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-08-13T19:15:12.468Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.235}
 {"t":"2026-08-13T19:15:12.468Z","type":"promote","id":1885869902,"u":"SpeedyDer_Hase","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.001}
+{"t":"2026-08-14T02:36:20.091Z","type":"promote","id":1617988029,"u":"Scrappydoo932","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.506}
+{"t":"2026-08-14T02:36:20.091Z","type":"promote","id":115368617,"u":"k_aiqc","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":8.506}
+{"t":"2026-08-14T02:36:20.091Z","type":"promote","id":4102340225,"u":"lilbean_jj","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.506}
+{"t":"2026-08-14T02:36:20.091Z","type":"promote","id":13264682,"u":"PhiXross","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.01}
+{"t":"2026-08-14T02:36:20.091Z","type":"promote","id":201510947,"u":"In_st","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.307}
+{"t":"2026-08-14T02:36:20.091Z","type":"join","id":2035517595,"u":"ilyas1212121212121","to":30,"roleId":30919798,"toName":"Security Agent"}
+{"t":"2026-08-14T02:36:20.091Z","type":"join","id":190082627,"u":"AtlantisSider","to":50,"roleId":135248009,"toName":"Security Sentry"}
+{"t":"2026-08-14T02:36:20.091Z","type":"leave","id":1940020802,"u":"PENGUIN64021","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-14T02:36:20.091Z","type":"leave","id":2822859280,"u":"lncognito_Man","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
