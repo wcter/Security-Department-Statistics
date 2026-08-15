@@ -193,3 +193,14 @@
 {"t":"2026-08-15T12:54:00.510Z","type":"join","id":7137564495,"u":"Inv1xx1ty_Alt","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-15T12:54:00.510Z","type":"leave","id":346607563,"u":"yitao8263","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-08-15T12:54:00.510Z","type":"leave","id":1251196762,"u":"kubusiekdudusiek","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-15T18:41:00.496Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.706}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":870266388,"u":"MrWatermelon_Water","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.176}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":339576063,"u":"SoroLover123","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.176}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":4482501605,"u":"feketeardo45","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":8.461}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":1657398082,"u":"CaptScoot","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.48}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":1903096561,"u":"TDHappySmart","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.669}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":1632706220,"u":"Rascal0404","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.456}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":2604001206,"u":"Pa_zt","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.982}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":11003053907,"u":"Flaskerco","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.706}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":4668406685,"u":"OSMFFCStaff","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.706}
+{"t":"2026-08-15T18:41:00.496Z","type":"promote","id":7137564495,"u":"Inv1xx1ty_Alt","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.241}
