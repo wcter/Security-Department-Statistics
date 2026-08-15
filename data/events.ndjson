@@ -181,3 +181,10 @@
 {"t":"2026-08-15T01:44:14.950Z","type":"join","id":2972234954,"u":"Tr1ance_dev","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-15T01:44:14.950Z","type":"join","id":4668406685,"u":"OSMFFCStaff","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-15T01:44:14.950Z","type":"join","id":146788380,"u":"Teodayne777","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-15T06:52:13.963Z","type":"promote","id":1027408032,"u":"gamingwitmax1","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.684}
+{"t":"2026-08-15T06:52:13.963Z","type":"promote","id":1946500043,"u":"CrawLSold","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.461}
+{"t":"2026-08-15T06:52:13.963Z","type":"promote","id":869641371,"u":"Jacob_Hallboi","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.142}
+{"t":"2026-08-15T06:52:13.963Z","type":"promote","id":282914208,"u":"Orange_Godzilla","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.727}
+{"t":"2026-08-15T06:52:13.963Z","type":"join","id":1369938065,"u":"Dani_0Imo","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-15T06:52:13.963Z","type":"leave","id":354736764,"u":"pizzapieboy07","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-08-15T06:52:13.963Z","type":"leave","id":3600468390,"u":"Chris4087r","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
