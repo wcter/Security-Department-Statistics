@@ -219,3 +219,7 @@
 {"t":"2026-08-16T06:53:34.642Z","type":"join","id":8224360779,"u":"kr1nkler","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-16T06:53:34.642Z","type":"leave","id":278632062,"u":"aIqemist","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-16T06:53:34.642Z","type":"leave","id":9090968750,"u":"zomsdid2","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-08-16T18:40:26.463Z","type":"join","id":2855570460,"u":"pooynana","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-16T18:40:26.463Z","type":"join","id":305346264,"u":"kruks11","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-16T18:40:26.463Z","type":"join","id":560188597,"u":"otnielbest","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-16T18:40:26.463Z","type":"leave","id":1181344886,"u":"gfttijiuyg","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
