@@ -204,3 +204,14 @@
 {"t":"2026-08-15T18:41:00.496Z","type":"promote","id":11003053907,"u":"Flaskerco","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.706}
 {"t":"2026-08-15T18:41:00.496Z","type":"promote","id":4668406685,"u":"OSMFFCStaff","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.706}
 {"t":"2026-08-15T18:41:00.496Z","type":"promote","id":7137564495,"u":"Inv1xx1ty_Alt","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.241}
+{"t":"2026-08-16T01:52:39.288Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.3}
+{"t":"2026-08-16T01:52:39.288Z","type":"promote","id":5049111854,"u":"ToZnowoJaXD","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.253}
+{"t":"2026-08-16T01:52:39.288Z","type":"promote","id":3164721198,"u":"wheelreaches909","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.476}
+{"t":"2026-08-16T01:52:39.288Z","type":"promote","id":7277643796,"u":"Iloevtoplayroblo","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.253}
+{"t":"2026-08-16T01:52:39.288Z","type":"rejoin","id":1181344886,"u":"gfttijiuyg","to":20,"roleId":30919761,"toName":"Security Cadet"}
+{"t":"2026-08-16T01:52:39.288Z","type":"demote","id":1181344886,"u":"gfttijiuyg","from":100,"to":20,"fromRoleId":105852384,"roleId":30919761,"fromName":"Security Corporal","toName":"Security Cadet","heldDays":0}
+{"t":"2026-08-16T01:52:39.288Z","type":"join","id":172849131,"u":"ekymw35","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-16T01:52:39.288Z","type":"join","id":1197765779,"u":"adransote2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-16T01:52:39.288Z","type":"join","id":6059121056,"u":"rClipex","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-16T01:52:39.288Z","type":"join","id":1387470506,"u":"zomsdid","to":40,"roleId":135066020,"toName":"Security Guard"}
+{"t":"2026-08-16T01:52:39.288Z","type":"join","id":5408786539,"u":"azxoys","to":1,"roleId":70762197,"toName":"Security Intern"}
