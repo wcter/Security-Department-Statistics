@@ -255,3 +255,15 @@
 {"t":"2026-08-17T07:10:50.842Z","type":"join","id":245758710,"u":"JustNewWasTaken","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-17T07:10:50.842Z","type":"join","id":7234582657,"u":"AlMSHOOTKILLWIN","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-17T07:10:50.842Z","type":"leave","id":732689171,"u":"cedri67","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-08-17T18:52:14.559Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.487}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":195496196,"u":"tempstn","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":7820041650,"u":"YGZSFriztche","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":1417264589,"u":"sebiapophis","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":103810815,"u":"Gejmr140","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":1152155255,"u":"Tuzaris","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":358397586,"u":"thunder_lightning877","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":80940401,"u":"kwezetsky","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":1503111565,"u":"alliszcx","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":5623627097,"u":"banzi630","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":1519765409,"u":"train5041","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-17T18:52:14.559Z","type":"join","id":1226631620,"u":"aduchop","to":1,"roleId":70762197,"toName":"Security Intern"}
