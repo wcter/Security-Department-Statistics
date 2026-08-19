@@ -321,3 +321,15 @@
 {"t":"2026-08-19T01:46:47.732Z","type":"join","id":260594988,"u":"ZeusimusLukey99","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-19T01:46:47.732Z","type":"join","id":964736835,"u":"adomis945","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-19T01:46:47.732Z","type":"join","id":11526743274,"u":"visionaims","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"promote","id":1626174812,"u":"roPlayerLOL","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.992}
+{"t":"2026-08-19T06:58:57.673Z","type":"promote","id":245758710,"u":"JustNewWasTaken","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.992}
+{"t":"2026-08-19T06:58:57.673Z","type":"promote","id":249240919,"u":"unusedorgen57","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.001}
+{"t":"2026-08-19T06:58:57.673Z","type":"promote","id":7324941877,"u":"ShrubMoon21","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.748}
+{"t":"2026-08-19T06:58:57.673Z","type":"promote","id":554724088,"u":"kmun28","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.217}
+{"t":"2026-08-19T06:58:57.673Z","type":"join","id":349350952,"u":"Waterxplaz123","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"join","id":843253320,"u":"pzivex","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"join","id":2314671050,"u":"vallyvees","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"join","id":604224355,"u":"primercat","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"join","id":7591261230,"u":"kuzeyWs4","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"leave","id":42416751,"u":"iBoricxa","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-19T06:58:57.673Z","type":"leave","id":7234582657,"u":"AlMSHOOTKILLWIN","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
