@@ -335,3 +335,9 @@
 {"t":"2026-08-19T06:58:57.673Z","type":"leave","id":7234582657,"u":"AlMSHOOTKILLWIN","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-19T13:02:44.396Z","type":"leave","id":1388272610,"u":"madpro587755","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-08-19T13:02:44.396Z","type":"leave","id":3600468390,"u":"Chris4087r","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-19T18:47:50.759Z","type":"promote","id":601084849,"u":"Laks491","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":10.997}
+{"t":"2026-08-19T18:47:50.759Z","type":"promote","id":2996288418,"u":"marcoyeo123","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":14.181}
+{"t":"2026-08-19T18:47:50.759Z","type":"promote","id":1513805785,"u":"bartolomeogar","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":14.181}
+{"t":"2026-08-19T18:47:50.759Z","type":"promote","id":7137564495,"u":"Inv1xx1ty_Alt","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.005}
+{"t":"2026-08-19T18:47:50.759Z","type":"join","id":153707257,"u":"DexterCZE1","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-19T18:47:50.759Z","type":"join","id":508262901,"u":"Kalebe730","to":1,"roleId":70762197,"toName":"Security Intern"}
