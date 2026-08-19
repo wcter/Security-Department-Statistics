@@ -333,3 +333,5 @@
 {"t":"2026-08-19T06:58:57.673Z","type":"join","id":7591261230,"u":"kuzeyWs4","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-19T06:58:57.673Z","type":"leave","id":42416751,"u":"iBoricxa","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-19T06:58:57.673Z","type":"leave","id":7234582657,"u":"AlMSHOOTKILLWIN","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-19T13:02:44.396Z","type":"leave","id":1388272610,"u":"madpro587755","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-08-19T13:02:44.396Z","type":"leave","id":3600468390,"u":"Chris4087r","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
