@@ -385,3 +385,4 @@
 {"t":"2026-08-20T06:59:40.607Z","type":"join","id":516354803,"u":"Deathskull20100","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-20T06:59:40.607Z","type":"join","id":552217359,"u":"Art_arus","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-20T06:59:40.607Z","type":"join","id":1478631272,"u":"natepro92","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-20T13:04:43.349Z","type":"leave","id":269898517,"u":"10T_T01","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
