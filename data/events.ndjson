@@ -412,3 +412,4 @@
 {"t":"2026-08-21T07:00:35.172Z","type":"promote","id":3251993030,"u":"Notrealbbelow","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":9.49}
 {"t":"2026-08-21T07:00:35.172Z","type":"promote","id":1903096561,"u":"TDHappySmart","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.514}
 {"t":"2026-08-21T07:00:35.172Z","type":"join","id":3965976783,"u":"Takeawayrat9","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T18:50:04.598Z","type":"leave","id":10907536159,"u":"axorerl676","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
