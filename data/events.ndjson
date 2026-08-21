@@ -402,3 +402,13 @@
 {"t":"2026-08-21T01:51:18.491Z","type":"join","id":563889030,"u":"robbynhood123","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-21T01:51:18.491Z","type":"join","id":3387856053,"u":"DrVetJames17","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-21T01:51:18.491Z","type":"leave","id":11003053907,"u":"Flaskerco","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":2484605003,"u":"kfzywy","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":15.69}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":4770241683,"u":"WilliamOfficer29","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":15.69}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":1389263996,"u":"joaodjsidgkj","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":15.69}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":2641816900,"u":"BubstheBear13","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":15.69}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":955038279,"u":"Fanda_2019","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.733}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":406460057,"u":"TheMusicProVIP","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":15.69}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":641736509,"u":"karlqnl","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":4.216}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":3251993030,"u":"Notrealbbelow","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":9.49}
+{"t":"2026-08-21T07:00:35.172Z","type":"promote","id":1903096561,"u":"TDHappySmart","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.514}
+{"t":"2026-08-21T07:00:35.172Z","type":"join","id":3965976783,"u":"Takeawayrat9","to":1,"roleId":70762197,"toName":"Security Intern"}
