@@ -390,3 +390,15 @@
 {"t":"2026-08-20T18:53:04.085Z","type":"join","id":11009167371,"u":"Alexzz_alt2","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-20T18:53:04.085Z","type":"join","id":365467407,"u":"JeviI_Jester","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-20T18:53:04.085Z","type":"join","id":5117141504,"u":"3e2w1q4r5t4","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"promote","id":4758508823,"u":"asw1145141","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.292}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":2318146061,"u":"SHERIFF91178","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":1085236659,"u":"Robopebs","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":181854126,"u":"danian3001","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":113454594,"u":"NothingJake1","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":1362176345,"u":"mandmzmilk","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":478350333,"u":"deadgoalkeeper2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":4178959478,"u":"Allanbaday","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":2065120096,"u":"ericjoshcool","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":563889030,"u":"robbynhood123","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"join","id":3387856053,"u":"DrVetJames17","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-21T01:51:18.491Z","type":"leave","id":11003053907,"u":"Flaskerco","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
