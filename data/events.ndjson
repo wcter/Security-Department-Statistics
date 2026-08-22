@@ -447,3 +447,12 @@
 {"t":"2026-08-22T12:54:53.761Z","type":"promote","id":586117818,"u":"27Topaz","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":15.531}
 {"t":"2026-08-22T12:54:53.761Z","type":"leave","id":603965374,"u":"TheBestM1211","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-08-22T12:54:53.761Z","type":"leave","id":610683544,"u":"Mooper_Man","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-22T18:42:10.285Z","type":"demote","id":1866338148,"u":"kingkidcooleli","from":100,"to":50,"fromRoleId":105852384,"roleId":135248009,"fromName":"Security Corporal","toName":"Security Sentry","heldDays":17.177}
+{"t":"2026-08-22T18:42:10.285Z","type":"demote","id":2008555548,"u":"vrtest22","from":150,"to":50,"fromRoleId":30919802,"roleId":135248009,"fromName":"Security Officer","toName":"Security Sentry","heldDays":17.177}
+{"t":"2026-08-22T18:42:10.285Z","type":"promote","id":2785251566,"u":"Infectious_Mozerella","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.22}
+{"t":"2026-08-22T18:42:10.285Z","type":"promote","id":4901855977,"u":"J0jesed","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":17.177}
+{"t":"2026-08-22T18:42:10.285Z","type":"promote","id":1865076792,"u":"latmangtg","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":17.177}
+{"t":"2026-08-22T18:42:10.285Z","type":"promote","id":909179335,"u":"Dominik3213445465654","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":10.978}
+{"t":"2026-08-22T18:42:10.285Z","type":"promote","id":1686615584,"u":"macku12131","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":12.992}
+{"t":"2026-08-22T18:42:10.285Z","type":"leave","id":1129090641,"u":"SCPGaming11","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-22T18:42:10.285Z","type":"leave","id":5737045777,"u":"Winter_Deletion","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
