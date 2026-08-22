@@ -6,7 +6,7 @@
   "group": {
     "id": 4606666,
     "name": "[SCPF - Security Department]",
-    "memberCount": 740,
+    "memberCount": 748,
     "owner": {
       "hasVerifiedBadge": false,
       "userId": 234810404,
@@ -25,7 +25,7 @@
       "tier": 0,
       "base": false,
       "divider": false,
-      "apiCount": 211
+      "apiCount": 219
     },
     {
       "id": 12884901889,
@@ -43,7 +43,7 @@
       "tier": 2,
       "base": false,
       "divider": false,
-      "apiCount": 147
+      "apiCount": 138
     },
     {
       "id": 30919798,
@@ -52,7 +52,7 @@
       "tier": 3,
       "base": false,
       "divider": false,
-      "apiCount": 150
+      "apiCount": 155
     },
     {
       "id": 135066020,
@@ -61,7 +61,7 @@
       "tier": 4,
       "base": false,
       "divider": false,
-      "apiCount": 79
+      "apiCount": 81
     },
     {
       "id": 135248009,
@@ -70,7 +70,7 @@
       "tier": 5,
       "base": false,
       "divider": false,
-      "apiCount": 94
+      "apiCount": 95
     },
     {
       "id": 30919801,
@@ -106,7 +106,7 @@
       "tier": 9,
       "base": false,
       "divider": false,
-      "apiCount": 4
+      "apiCount": 5
     },
     {
       "id": 30919837,
@@ -163,14 +163,14 @@
       "apiCount": 1
     }
   ],
-  "generatedAt": 1787338208219,
+  "generatedAt": 1787363053234,
   "trackingSince": 1785940060717,
-  "trackedDays": 16.2,
-  "snapshotCount": 65,
-  "eventCount": 415,
-  "trackedMembers": 779,
-  "activeMembers": 741,
-  "departedMembers": 38,
+  "trackedDays": 16.5,
+  "snapshotCount": 66,
+  "eventCount": 439,
+  "trackedMembers": 788,
+  "activeMembers": 749,
+  "departedMembers": 39,
   "bootstrapped": 587,
   "shards": 16
 }
