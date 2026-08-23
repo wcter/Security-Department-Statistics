@@ -472,3 +472,12 @@
 {"t":"2026-08-23T06:55:12.148Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.209}
 {"t":"2026-08-23T06:55:12.148Z","type":"leave","id":1478631272,"u":"natepro92","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-23T12:56:12.395Z","type":"promote","id":2856187758,"u":"ribtickIe","from":30,"to":100,"fromRoleId":30919798,"roleId":105852384,"fromName":"Security Agent","toName":"Security Corporal","heldDays":17.936}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":1925655695,"u":"Vstep35","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":16.772}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":5494821972,"u":"AgentSawyer5000","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":14.993}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":4102340225,"u":"lilbean_jj","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.671}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":140930412,"u":"wormleaton","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":13.447}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":1254806363,"u":"epispect","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":8.242}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":1568643605,"u":"TheMasterKing422","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.48}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":249240919,"u":"unusedorgen57","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.488}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":843253320,"u":"pzivex","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.488}
+{"t":"2026-08-23T18:41:53.760Z","type":"promote","id":153707257,"u":"DexterCZE1","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.996}
