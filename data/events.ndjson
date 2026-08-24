@@ -481,3 +481,15 @@
 {"t":"2026-08-23T18:41:53.760Z","type":"promote","id":249240919,"u":"unusedorgen57","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.488}
 {"t":"2026-08-23T18:41:53.760Z","type":"promote","id":843253320,"u":"pzivex","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.488}
 {"t":"2026-08-23T18:41:53.760Z","type":"promote","id":153707257,"u":"DexterCZE1","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.996}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":11201979907,"u":"ClearlyKiv","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"rejoin","id":3600468390,"u":"Chris4087r","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":5102692853,"u":"AMDistopic","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":1582218876,"u":"Artur37659","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":8905033105,"u":"Astra_Lum1na","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":10829136742,"u":"Harlan_Wade","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":1345529292,"u":"Ninia_100","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":1067323109,"u":"Tybaltcore","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":5424207465,"u":"mmelquiii","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":3210887882,"u":"BrckoBorm","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"join","id":265953021,"u":"Depaxius1","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-24T01:51:20.279Z","type":"leave","id":1558637664,"u":"glimtar","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
