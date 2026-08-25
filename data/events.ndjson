@@ -505,3 +505,12 @@
 {"t":"2026-08-25T01:46:21.641Z","type":"join","id":1685126150,"u":"Melone44_h3","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-25T01:46:21.641Z","type":"join","id":81534273,"u":"coenblue","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-25T01:46:21.641Z","type":"join","id":328176155,"u":"Dushie61","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":479721500,"u":"SupremeDGYT","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":19.69}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":1260609192,"u":"ExclusiveMike_141","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":8.217}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":1626174812,"u":"roPlayerLOL","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.002}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":245758710,"u":"JustNewWasTaken","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.002}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":1503111565,"u":"alliszcx","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.003}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":1226631620,"u":"aduchop","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.22}
+{"t":"2026-08-25T07:01:50.986Z","type":"promote","id":2435087702,"u":"IceWithCold","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.994}
+{"t":"2026-08-25T07:01:50.986Z","type":"join","id":382874804,"u":"Oliverplayz1","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T07:01:50.986Z","type":"leave","id":1631472959,"u":"Nacho_Nac3009","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
