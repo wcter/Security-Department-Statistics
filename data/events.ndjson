@@ -497,3 +497,11 @@
 {"t":"2026-08-24T07:14:06.489Z","type":"join","id":8538118707,"u":"4aZxV","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-24T07:14:06.489Z","type":"leave","id":143831052,"u":"kiss1r","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-24T18:52:41.976Z","type":"demote","id":1946500043,"u":"CrawLSold","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":9.5}
+{"t":"2026-08-25T01:46:21.641Z","type":"promote","id":1946500043,"u":"CrawLSold","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":0.287}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":9355166260,"u":"TheActualRenter","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":1038907317,"u":"Himmelblauefee2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":341596364,"u":"Chrysophonon","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":7613065447,"u":"DomDos2556","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":1685126150,"u":"Melone44_h3","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":81534273,"u":"coenblue","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T01:46:21.641Z","type":"join","id":328176155,"u":"Dushie61","to":1,"roleId":70762197,"toName":"Security Intern"}
