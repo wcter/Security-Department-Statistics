@@ -514,3 +514,5 @@
 {"t":"2026-08-25T07:01:50.986Z","type":"promote","id":2435087702,"u":"IceWithCold","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.994}
 {"t":"2026-08-25T07:01:50.986Z","type":"join","id":382874804,"u":"Oliverplayz1","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-25T07:01:50.986Z","type":"leave","id":1631472959,"u":"Nacho_Nac3009","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-25T18:51:07.443Z","type":"join","id":3186443585,"u":"Pocket_Aces44","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-25T18:51:07.443Z","type":"leave","id":172849131,"u":"ekymw35","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
