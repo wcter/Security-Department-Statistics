@@ -523,3 +523,6 @@
 {"t":"2026-08-26T01:51:19.433Z","type":"join","id":1420166922,"u":"Quint8_2","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-26T01:51:19.433Z","type":"join","id":701976270,"u":"snowy09890","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-26T01:51:19.433Z","type":"leave","id":1417264589,"u":"sebiapophis","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-26T07:02:23.690Z","type":"join","id":2594577082,"u":"Moishe100","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-26T07:02:23.690Z","type":"join","id":590334791,"u":"JAKUBMODZSK","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-26T07:02:23.690Z","type":"leave","id":7820041650,"u":"YGZSFriztche","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
