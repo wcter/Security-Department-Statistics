@@ -531,3 +531,4 @@
 {"t":"2026-08-26T13:09:07.676Z","type":"promote","id":2561388676,"u":"mlamla_mlawez","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.475}
 {"t":"2026-08-26T13:09:07.676Z","type":"promote","id":1213260430,"u":"Modified_deception","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.475}
 {"t":"2026-08-26T13:09:07.676Z","type":"join","id":4340194313,"u":"jacksepticeye998833","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-26T19:55:41.534Z","type":"leave","id":2855570460,"u":"pooynana","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
