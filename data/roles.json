@@ -25,14 +25,14 @@
     "id": 30919761,
     "name": "Security Cadet",
     "rank": 20,
-    "memberCount": 132,
+    "memberCount": 130,
     "color": 0
   },
   {
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 162,
+    "memberCount": 163,
     "color": 0
   },
   {
@@ -46,7 +46,7 @@
     "id": 135248009,
     "name": "Security Sentry",
     "rank": 50,
-    "memberCount": 97,
+    "memberCount": 98,
     "color": 0
   },
   {

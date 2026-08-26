@@ -526,3 +526,8 @@
 {"t":"2026-08-26T07:02:23.690Z","type":"join","id":2594577082,"u":"Moishe100","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-26T07:02:23.690Z","type":"join","id":590334791,"u":"JAKUBMODZSK","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-26T07:02:23.690Z","type":"leave","id":7820041650,"u":"YGZSFriztche","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-26T13:09:07.676Z","type":"promote","id":3933055045,"u":"ItsDark_3765","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":20.945}
+{"t":"2026-08-26T13:09:07.676Z","type":"promote","id":493968214,"u":"Q6ri5544_backup2","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.472}
+{"t":"2026-08-26T13:09:07.676Z","type":"promote","id":2561388676,"u":"mlamla_mlawez","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.475}
+{"t":"2026-08-26T13:09:07.676Z","type":"promote","id":1213260430,"u":"Modified_deception","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.475}
+{"t":"2026-08-26T13:09:07.676Z","type":"join","id":4340194313,"u":"jacksepticeye998833","to":1,"roleId":70762197,"toName":"Security Intern"}
