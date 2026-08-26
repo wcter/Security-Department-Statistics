@@ -10,7 +10,7 @@
     "id": 12884901889,
     "name": "Member",
     "rank": 1,
-    "memberCount": 772,
+    "memberCount": 776,
     "isBase": true,
     "color": 0
   },
@@ -18,7 +18,7 @@
     "id": 70762197,
     "name": "Security Intern",
     "rank": 1,
-    "memberCount": 236,
+    "memberCount": 240,
     "color": 0
   },
   {
@@ -76,6 +76,13 @@
     "rank": 170,
     "memberCount": 5,
     "color": 0
+  },
+  {
+    "id": 808738107,
+    "name": "Security Major",
+    "rank": 175,
+    "memberCount": 0,
+    "color": 2
   },
   {
     "id": 30919837,

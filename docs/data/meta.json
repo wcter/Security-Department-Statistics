@@ -6,7 +6,7 @@
   "group": {
     "id": 4606666,
     "name": "[SCPF - Security Department]",
-    "memberCount": 772,
+    "memberCount": 776,
     "owner": {
       "hasVerifiedBadge": false,
       "userId": 234810404,
@@ -25,7 +25,7 @@
       "tier": 0,
       "base": false,
       "divider": false,
-      "apiCount": 236
+      "apiCount": 240
     },
     {
       "id": 12884901889,
@@ -109,10 +109,19 @@
       "apiCount": 5
     },
     {
+      "id": 808738107,
+      "name": "Security Major",
+      "rank": 175,
+      "tier": 10,
+      "base": false,
+      "divider": false,
+      "apiCount": 0
+    },
+    {
       "id": 30919837,
       "name": "Chief of Security",
       "rank": 180,
-      "tier": 10,
+      "tier": 11,
       "base": false,
       "divider": false,
       "apiCount": 1
@@ -121,7 +130,7 @@
       "id": 30919815,
       "name": "--------------------",
       "rank": 185,
-      "tier": 11,
+      "tier": 12,
       "base": false,
       "divider": true,
       "apiCount": 1
@@ -130,7 +139,7 @@
       "id": 30919760,
       "name": "O5 Council",
       "rank": 252,
-      "tier": 12,
+      "tier": 13,
       "base": false,
       "divider": false,
       "apiCount": 3
@@ -139,7 +148,7 @@
       "id": 668323001,
       "name": "Overseer",
       "rank": 253,
-      "tier": 13,
+      "tier": 14,
       "base": false,
       "divider": false,
       "apiCount": 1
@@ -148,7 +157,7 @@
       "id": 523836081,
       "name": "Chairman of the Council",
       "rank": 254,
-      "tier": 14,
+      "tier": 15,
       "base": false,
       "divider": false,
       "apiCount": 1
@@ -157,20 +166,20 @@
       "id": 30919759,
       "name": "The Administrator",
       "rank": 255,
-      "tier": 15,
+      "tier": 16,
       "base": false,
       "divider": false,
       "apiCount": 1
     }
   ],
-  "generatedAt": 1787683872432,
+  "generatedAt": 1787709084260,
   "trackingSince": 1785940060717,
-  "trackedDays": 20.2,
-  "snapshotCount": 81,
-  "eventCount": 518,
-  "trackedMembers": 821,
-  "activeMembers": 773,
-  "departedMembers": 48,
+  "trackedDays": 20.5,
+  "snapshotCount": 82,
+  "eventCount": 525,
+  "trackedMembers": 826,
+  "activeMembers": 777,
+  "departedMembers": 49,
   "bootstrapped": 587,
   "shards": 16
 }
