@@ -543,3 +543,7 @@
 {"t":"2026-08-27T09:26:56.825Z","type":"join","id":7271631415,"u":"JimBo3077","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-27T09:26:56.825Z","type":"join","id":1781779113,"u":"Waeran11","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-27T09:26:56.825Z","type":"join","id":1786603281,"u":"greg12343486","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-27T22:11:47.933Z","type":"promote","id":2500175541,"u":"Mr_mariena","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":22.322}
+{"t":"2026-08-27T22:11:47.933Z","type":"join","id":590538845,"u":"mertakso","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-27T22:11:47.933Z","type":"rejoin","id":1417264589,"u":"sebiapophis","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-27T22:11:47.933Z","type":"leave","id":1903096561,"u":"TDHappySmart","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
