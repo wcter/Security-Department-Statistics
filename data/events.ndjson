@@ -554,3 +554,14 @@
 {"t":"2026-08-28T22:12:40.079Z","type":"promote","id":487814534,"u":"luunarity","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":11.626}
 {"t":"2026-08-28T22:12:40.079Z","type":"promote","id":1290860031,"u":"spruce485","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":11.626}
 {"t":"2026-08-28T22:12:40.079Z","type":"promote","id":103810815,"u":"Gejmr140","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":11.139}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":647548205,"u":"Difference33","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":5555498465,"u":"Raktorkl","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":453936480,"u":"davidkarada","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":9441776418,"u":"cyaninhissecondary4m","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":283164019,"u":"KFN1105","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":1015199485,"u":"corrat0r","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":1484011185,"u":"antivaxmom46290","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":2615483447,"u":"LbossHi","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":1274486452,"u":"Dogmanking1234567","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"join","id":612166975,"u":"LucaBucaPartyPooka","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-08-29T06:56:56.940Z","type":"leave","id":1943315071,"u":"BRM_Player","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
