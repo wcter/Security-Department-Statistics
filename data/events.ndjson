@@ -580,3 +580,5 @@
 {"t":"2026-08-30T05:12:39.434Z","type":"leave","id":3600468390,"u":"Chris4087r","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-30T05:12:39.434Z","type":"leave","id":7134480143,"u":"engineerrealtf2","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-08-30T05:12:39.434Z","type":"leave","id":8408671022,"u":"urrfavjax_alt1","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-08-30T11:48:15.476Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.275}
+{"t":"2026-08-30T11:48:15.476Z","type":"join","id":655911668,"u":"gamingmaster3018","to":1,"roleId":70762197,"toName":"Security Intern"}
