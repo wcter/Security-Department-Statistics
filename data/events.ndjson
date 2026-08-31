@@ -617,3 +617,5 @@
 {"t":"2026-08-31T05:20:30.034Z","type":"join","id":209991351,"u":"Veltanyxe","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-08-31T05:20:30.034Z","type":"leave","id":911149682,"u":"HERECOMESTHEFBI","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
 {"t":"2026-08-31T05:20:30.034Z","type":"leave","id":5424207465,"u":"mmelquiii","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-08-31T13:31:44.854Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.072}
+{"t":"2026-08-31T13:31:44.854Z","type":"join","id":10419462201,"u":"VioletPhighter1579","to":1,"roleId":70762197,"toName":"Security Intern"}

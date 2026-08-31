@@ -172,13 +172,13 @@
       "apiCount": 1
     }
   ],
-  "generatedAt": 1788153634722,
+  "generatedAt": 1788183110114,
   "trackingSince": 1785940060717,
-  "trackedDays": 25.6,
-  "snapshotCount": 97,
-  "eventCount": 619,
-  "trackedMembers": 866,
-  "activeMembers": 807,
+  "trackedDays": 26,
+  "snapshotCount": 98,
+  "eventCount": 621,
+  "trackedMembers": 867,
+  "activeMembers": 808,
   "departedMembers": 59,
   "bootstrapped": 587,
   "shards": 16
