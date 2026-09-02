@@ -650,3 +650,10 @@
 {"t":"2026-09-02T11:08:54.040Z","type":"promote","id":2040721716,"u":"charliecokezero","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":27.862}
 {"t":"2026-09-02T11:08:54.040Z","type":"promote","id":487814534,"u":"luunarity","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.539}
 {"t":"2026-09-02T11:08:54.040Z","type":"promote","id":249240919,"u":"unusedorgen57","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.685}
+{"t":"2026-09-02T20:57:01.560Z","type":"rename","id":4187717496,"u":"DankmemeZ2213","from":"FlamingFlamigo44"}
+{"t":"2026-09-02T20:57:01.560Z","type":"promote","id":358397586,"u":"thunder_lightning877","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":16.087}
+{"t":"2026-09-02T20:57:01.560Z","type":"promote","id":1495642204,"u":"aducobisou","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":13.8}
+{"t":"2026-09-02T20:57:01.560Z","type":"promote","id":365467407,"u":"JeviI_Jester","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":13.086}
+{"t":"2026-09-02T20:57:01.560Z","type":"promote","id":1420166922,"u":"Quint8_2","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.796}
+{"t":"2026-09-02T20:57:01.560Z","type":"promote","id":1417264589,"u":"sebiapophis","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.948}
+{"t":"2026-09-02T20:57:01.560Z","type":"promote","id":905241407,"u":"jurrasicworld19989","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.925}
