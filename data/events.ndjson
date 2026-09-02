@@ -637,3 +637,12 @@
 {"t":"2026-09-01T16:30:43.234Z","type":"leave","id":11009167371,"u":"Alexzz_alt2","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-01T20:57:21.028Z","type":"rename","id":158638127,"u":"DattebayoSakuraBaka","from":"AdhesiveRsb"}
 {"t":"2026-09-01T20:57:21.028Z","type":"leave","id":4649081955,"u":"Vyhric","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.231}
+{"t":"2026-09-02T04:17:43.873Z","type":"rename","id":158638127,"u":"Daberrkee","from":"DattebayoSakuraBaka"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":721556668,"u":"Torekain","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":729230181,"u":"OriginalRy","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":674129545,"u":"Alexmd3080","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":3140734481,"u":"Adamthecoolkid568","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":2532519167,"u":"Shadow275685","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":4982209094,"u":"OG_goldenfredi","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-02T04:17:43.873Z","type":"join","id":9156827488,"u":"DerBrosAccount","to":1,"roleId":70762197,"toName":"Security Intern"}
