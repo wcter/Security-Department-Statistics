@@ -43,7 +43,7 @@
       "tier": 2,
       "base": false,
       "divider": false,
-      "apiCount": 142
+      "apiCount": 141
     },
     {
       "id": 30919798,
@@ -52,7 +52,7 @@
       "tier": 3,
       "base": false,
       "divider": false,
-      "apiCount": 160
+      "apiCount": 159
     },
     {
       "id": 135066020,
@@ -61,7 +61,7 @@
       "tier": 4,
       "base": false,
       "divider": false,
-      "apiCount": 93
+      "apiCount": 95
     },
     {
       "id": 135248009,
@@ -172,11 +172,11 @@
       "apiCount": 1
     }
   ],
-  "generatedAt": 1788433524734,
+  "generatedAt": 1788452362442,
   "trackingSince": 1785940060717,
-  "trackedDays": 28.9,
-  "snapshotCount": 109,
-  "eventCount": 661,
+  "trackedDays": 29.1,
+  "snapshotCount": 110,
+  "eventCount": 664,
   "trackedMembers": 881,
   "activeMembers": 817,
   "departedMembers": 64,

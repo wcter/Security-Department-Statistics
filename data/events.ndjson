@@ -659,3 +659,6 @@
 {"t":"2026-09-02T20:57:01.560Z","type":"promote","id":905241407,"u":"jurrasicworld19989","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.925}
 {"t":"2026-09-03T04:13:19.795Z","type":"join","id":386042823,"u":"FluffiePaw","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-03T11:05:21.283Z","type":"leave","id":962488756,"u":"Yourfellow_Canadian","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-03T16:19:17.692Z","type":"promote","id":2364570764,"u":"MarchewPL1","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.601}
+{"t":"2026-09-03T16:19:17.692Z","type":"promote","id":5715490235,"u":"12ewdddrf","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.601}
+{"t":"2026-09-03T16:19:17.692Z","type":"promote","id":1568643605,"u":"TheMasterKing422","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":10.901}
