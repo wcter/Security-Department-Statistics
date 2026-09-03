@@ -662,3 +662,4 @@
 {"t":"2026-09-03T16:19:17.692Z","type":"promote","id":2364570764,"u":"MarchewPL1","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.601}
 {"t":"2026-09-03T16:19:17.692Z","type":"promote","id":5715490235,"u":"12ewdddrf","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.601}
 {"t":"2026-09-03T16:19:17.692Z","type":"promote","id":1568643605,"u":"TheMasterKing422","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":10.901}
+{"t":"2026-09-03T20:55:24.134Z","type":"join","id":190768137,"u":"Arkzockt","to":30,"roleId":30919798,"toName":"Security Agent"}
