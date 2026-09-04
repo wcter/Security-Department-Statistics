@@ -674,3 +674,6 @@
 {"t":"2026-09-04T04:19:17.774Z","type":"join","id":219719271,"u":"river_2806","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-04T04:19:17.774Z","type":"join","id":394185705,"u":"COERVT","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-04T11:07:29.981Z","type":"leave","id":361544578,"u":"EternaILady","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-09-04T20:41:41.322Z","type":"promote","id":223873458,"u":"ExiledFromLives","from":40,"to":100,"fromRoleId":135066020,"roleId":105852384,"fromName":"Security Guard","toName":"Security Corporal","heldDays":30.26}
+{"t":"2026-09-04T20:41:41.322Z","type":"promote","id":2856187758,"u":"ribtickIe","from":100,"to":150,"fromRoleId":105852384,"roleId":30919802,"fromName":"Security Corporal","toName":"Security Officer","heldDays":12.323}
+{"t":"2026-09-04T20:41:41.322Z","type":"leave","id":778404417,"u":"nicolas110825","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
