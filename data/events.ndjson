@@ -673,3 +673,4 @@
 {"t":"2026-09-04T04:19:17.774Z","type":"join","id":388742874,"u":"qhawksworth","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-04T04:19:17.774Z","type":"join","id":219719271,"u":"river_2806","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-04T04:19:17.774Z","type":"join","id":394185705,"u":"COERVT","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-04T11:07:29.981Z","type":"leave","id":361544578,"u":"EternaILady","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
