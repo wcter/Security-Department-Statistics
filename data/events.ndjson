@@ -696,3 +696,4 @@
 {"t":"2026-09-05T04:14:49.857Z","type":"promote","id":3230105648,"u":"mysteriodogger","from":50,"to":60,"fromRoleId":135248009,"roleId":30919801,"fromName":"Security Sentry","toName":"Security Specialist","heldDays":30.574}
 {"t":"2026-09-05T04:14:49.857Z","type":"promote","id":1521920600,"u":"mightysharktwo","from":50,"to":60,"fromRoleId":135248009,"roleId":30919801,"fromName":"Security Sentry","toName":"Security Specialist","heldDays":30.574}
 {"t":"2026-09-05T04:14:49.857Z","type":"leave","id":2543942480,"u":"GDP12041","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-05T10:28:23.568Z","type":"leave","id":394185705,"u":"COERVT","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
