@@ -714,3 +714,18 @@
 {"t":"2026-09-05T20:15:15.013Z","type":"join","id":2972997007,"u":"66austin3","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-05T20:15:15.013Z","type":"join","id":665999040,"u":"fixitjackson","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-05T20:15:15.013Z","type":"join","id":3504221666,"u":"msrswipe","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":1316415183,"u":"jlgfkohko","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.074}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":1650611449,"u":"Corran_Amazony","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":15.111}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":156370255,"u":"beratsym1","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":19.884}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":411145396,"u":"Iliketrains278910","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":9.79}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":283164019,"u":"KFN1105","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.894}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":2615483447,"u":"LbossHi","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.894}
+{"t":"2026-09-06T04:24:12.955Z","type":"promote","id":209991351,"u":"Veltanyxe","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.961}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":3680246619,"u":"PresidentBreaking","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":2349479132,"u":"SlothGamer099","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":138301989,"u":"templled","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":325363730,"u":"Willow_Pot","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":468260779,"u":"Denisdeile2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":1269174694,"u":"itsmrgiraffe68","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":3609332759,"u":"NOTIMETOALT12","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-06T04:24:12.955Z","type":"join","id":947625995,"u":"That_Guy2811","to":1,"roleId":70762197,"toName":"Security Intern"}
