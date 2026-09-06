@@ -734,3 +734,9 @@
 {"t":"2026-09-06T10:48:05.785Z","type":"leave","id":1321035290,"u":"CommanderAF","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-06T10:48:05.785Z","type":"leave","id":2702133654,"u":"Mcslof200","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-06T15:22:48.918Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":4.176}
+{"t":"2026-09-06T20:19:55.569Z","type":"promote","id":1049791398,"u":"Ordinary_Joe3","from":50,"to":100,"fromRoleId":135248009,"roleId":105852384,"fromName":"Security Sentry","toName":"Security Corporal","heldDays":32.245}
+{"t":"2026-09-06T20:19:55.569Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.206}
+{"t":"2026-09-06T20:19:55.569Z","type":"promote","id":321874689,"u":"OkieIsCrazy11","from":1,"to":30,"fromRoleId":12884901889,"roleId":30919798,"fromName":"Member","toName":"Security Agent","heldDays":1.003}
+{"t":"2026-09-06T20:19:55.569Z","type":"promote","id":358397586,"u":"thunder_lightning877","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.974}
+{"t":"2026-09-06T20:19:55.569Z","type":"promote","id":905241407,"u":"jurrasicworld19989","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.974}
+{"t":"2026-09-06T20:19:55.569Z","type":"promote","id":1235683214,"u":"TheAmazingHSG","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.667}
