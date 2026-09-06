@@ -733,3 +733,4 @@
 {"t":"2026-09-06T10:48:05.785Z","type":"promote","id":386705010,"u":"sucurtayumukta32","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.227}
 {"t":"2026-09-06T10:48:05.785Z","type":"leave","id":1321035290,"u":"CommanderAF","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-06T10:48:05.785Z","type":"leave","id":2702133654,"u":"Mcslof200","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-06T15:22:48.918Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":4.176}
