@@ -774,3 +774,6 @@
 {"t":"2026-09-08T11:07:35.814Z","type":"promote","id":1632706220,"u":"Rascal0404","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":23.685}
 {"t":"2026-09-08T11:07:35.814Z","type":"promote","id":585852887,"u":"SuperTrashBrosHD","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.241}
 {"t":"2026-09-08T11:07:35.814Z","type":"join","id":944533434,"u":"Nevinevi13","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-08T21:03:23.271Z","type":"join","id":2940705644,"u":"GarotodeLata2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-08T21:03:23.271Z","type":"join","id":7069595673,"u":"HamburgerN0W","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-08T21:03:23.271Z","type":"leave","id":925566516,"u":"HawkSt4tic","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
