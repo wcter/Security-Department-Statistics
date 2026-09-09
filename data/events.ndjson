@@ -790,3 +790,7 @@
 {"t":"2026-09-09T16:30:45.187Z","type":"promote","id":1038907317,"u":"Himmelblauefee2","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":15.614}
 {"t":"2026-09-09T16:30:45.187Z","type":"promote","id":3140734481,"u":"Adamthecoolkid568","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.509}
 {"t":"2026-09-09T16:30:45.187Z","type":"join","id":1076363322,"u":"roblox1234567809vbfh","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-09T20:52:22.299Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.182}
+{"t":"2026-09-09T20:52:22.299Z","type":"join","id":1445455027,"u":"EvilMcKneevil","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-09T20:52:22.299Z","type":"join","id":663991827,"u":"Reinhard_Weidling","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-09T20:52:22.299Z","type":"leave","id":2246338999,"u":"tanki6478","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
