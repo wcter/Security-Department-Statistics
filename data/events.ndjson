@@ -785,3 +785,4 @@
 {"t":"2026-09-09T04:28:24.717Z","type":"join","id":1299329641,"u":"Sydneylikespancakes","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-09T04:28:24.717Z","type":"join","id":3569958663,"u":"iTapulu","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-09T04:28:24.717Z","type":"leave","id":946738760,"u":"Willyrexelpro4","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-09T11:11:47.807Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.28}
