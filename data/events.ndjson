@@ -794,3 +794,13 @@
 {"t":"2026-09-09T20:52:22.299Z","type":"join","id":1445455027,"u":"EvilMcKneevil","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-09T20:52:22.299Z","type":"join","id":663991827,"u":"Reinhard_Weidling","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-09T20:52:22.299Z","type":"leave","id":2246338999,"u":"tanki6478","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":3586582031,"u":"imgenericuser","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.968}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":3114987413,"u":"AgentOxford10","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.341}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":665999040,"u":"fixitjackson","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.341}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":468260779,"u":"Denisdeile2","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.002}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":1522880285,"u":"Cosmic_Milkyway240","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.291}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":422554366,"u":"EL_Smiles1","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.291}
+{"t":"2026-09-10T04:26:35.972Z","type":"promote","id":1445455027,"u":"EvilMcKneevil","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.315}
+{"t":"2026-09-10T04:26:35.972Z","type":"join","id":1305378840,"u":"boomobject","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-10T04:26:35.972Z","type":"join","id":2879943376,"u":"CompanyPapa","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-10T04:26:35.972Z","type":"join","id":786727455,"u":"kitsuphoric","to":1,"roleId":70762197,"toName":"Security Intern"}
