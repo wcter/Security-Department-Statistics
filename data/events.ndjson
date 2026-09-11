@@ -817,3 +817,6 @@
 {"t":"2026-09-11T04:26:15.270Z","type":"demote","id":2792356009,"u":"mavifinn2","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0}
 {"t":"2026-09-11T04:26:15.270Z","type":"leave","id":3238791276,"u":"BeastTheSpacekaden","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
 {"t":"2026-09-11T04:26:15.270Z","type":"leave","id":7611049308,"u":"jhonnybob58","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-11T16:21:53.773Z","type":"demote","id":629424799,"u":"Shad0wSt4r","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":37.079}
+{"t":"2026-09-11T16:21:53.773Z","type":"promote","id":1198966470,"u":"MacNicke","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":10.734}
+{"t":"2026-09-11T16:21:53.773Z","type":"promote","id":1354496110,"u":"WHENDAYFALLSRUN","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.734}
