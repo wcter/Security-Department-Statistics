@@ -820,3 +820,6 @@
 {"t":"2026-09-11T16:21:53.773Z","type":"demote","id":629424799,"u":"Shad0wSt4r","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":37.079}
 {"t":"2026-09-11T16:21:53.773Z","type":"promote","id":1198966470,"u":"MacNicke","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":10.734}
 {"t":"2026-09-11T16:21:53.773Z","type":"promote","id":1354496110,"u":"WHENDAYFALLSRUN","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.734}
+{"t":"2026-09-11T20:53:12.847Z","type":"demote","id":3506543249,"u":"diehard6785","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":37.268}
+{"t":"2026-09-11T20:53:12.847Z","type":"rename","id":10411210573,"u":"Viffy_6","from":"Pensive_B33"}
+{"t":"2026-09-11T20:53:12.847Z","type":"rename","id":3580139394,"u":"Viffy_5","from":"baconispro6464"}
