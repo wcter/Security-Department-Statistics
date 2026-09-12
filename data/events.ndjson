@@ -844,3 +844,9 @@
 {"t":"2026-09-12T04:24:06.395Z","type":"leave","id":62954014,"u":"SuperSmartyPants600","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-09-12T04:24:06.395Z","type":"leave","id":7591261230,"u":"kuzeyWs4","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-12T15:26:50.958Z","type":"leave","id":472273336,"u":"r3stful","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-12T20:28:35.910Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":2.983}
+{"t":"2026-09-12T20:28:35.910Z","type":"demote","id":2040721716,"u":"charliecokezero","from":30,"to":1,"fromRoleId":30919798,"roleId":70762197,"fromName":"Security Agent","toName":"Security Intern","heldDays":10.389}
+{"t":"2026-09-12T20:28:35.910Z","type":"promote","id":13264682,"u":"PhiXross","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":13.162}
+{"t":"2026-09-12T20:28:35.910Z","type":"rename","id":5408786539,"u":"alqemizst","from":"azxoys"}
+{"t":"2026-09-12T20:28:35.910Z","type":"promote","id":487814534,"u":"luunarity","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.389}
+{"t":"2026-09-12T20:28:35.910Z","type":"promote","id":313460661,"u":"GrugoVajoh","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.67}
