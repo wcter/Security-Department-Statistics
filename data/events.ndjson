@@ -823,3 +823,23 @@
 {"t":"2026-09-11T20:53:12.847Z","type":"demote","id":3506543249,"u":"diehard6785","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":37.268}
 {"t":"2026-09-11T20:53:12.847Z","type":"rename","id":10411210573,"u":"Viffy_6","from":"Pensive_B33"}
 {"t":"2026-09-11T20:53:12.847Z","type":"rename","id":3580139394,"u":"Viffy_5","from":"baconispro6464"}
+{"t":"2026-09-12T04:24:06.395Z","type":"rename","id":3230105648,"u":"Viffy_3","from":"mysteriodogger"}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1461840648,"u":"SuperMonkeyMetal","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":26.107}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1658335725,"u":"yy8yd2","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":35.386}
+{"t":"2026-09-12T04:24:06.395Z","type":"rename","id":1369938065,"u":"gatito890pro","from":"Dani_0Imo"}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1387470506,"u":"zomsdid","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":27.105}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1290860031,"u":"spruce485","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":14.258}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":511042497,"u":"1Elit3","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":24.893}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":427749571,"u":"Bosco1006","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":21.111}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1345529292,"u":"Ninia_100","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":19.106}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":7015646915,"u":"p8syeter","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":12.492}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":729230181,"u":"OriginalRy","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.004}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1269174694,"u":"itsmrgiraffe68","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":1737432080,"u":"chzxjchzjc","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.001}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":309021768,"u":"SUPREMEOVERPOOP","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.001}
+{"t":"2026-09-12T04:24:06.395Z","type":"promote","id":119648038,"u":"jedijermany","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.997}
+{"t":"2026-09-12T04:24:06.395Z","type":"join","id":472273336,"u":"r3stful","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-12T04:24:06.395Z","type":"join","id":694614505,"u":"nmb4000","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-12T04:24:06.395Z","type":"join","id":6067692175,"u":"tanman0010022","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-12T04:24:06.395Z","type":"leave","id":62954014,"u":"SuperSmartyPants600","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-09-12T04:24:06.395Z","type":"leave","id":7591261230,"u":"kuzeyWs4","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
