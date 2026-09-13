@@ -867,3 +867,4 @@
 {"t":"2026-09-13T04:37:05.355Z","type":"rejoin","id":472273336,"u":"r3stful","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-13T04:37:05.355Z","type":"rejoin","id":2702133654,"u":"Mcslof200","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-13T04:37:05.355Z","type":"join","id":935188511,"u":"DrThing456","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-13T16:07:58.524Z","type":"promote","id":1067323109,"u":"Tybaltcore","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":20.595}
