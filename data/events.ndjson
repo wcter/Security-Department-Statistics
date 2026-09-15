@@ -901,3 +901,20 @@
 {"t":"2026-09-14T21:44:47.321Z","type":"promote","id":1058867174,"u":"IntuitiveHavoc","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.044}
 {"t":"2026-09-14T21:44:47.321Z","type":"join","id":905410587,"u":"JCD037","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-14T21:44:47.321Z","type":"rejoin","id":1129090641,"u":"SCPGaming11","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-15T04:43:39.064Z","type":"promote","id":1957097258,"u":"Gamerzccount","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":40.594}
+{"t":"2026-09-15T04:43:39.064Z","type":"promote","id":4668406685,"u":"OSMFFCStaff","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":30.419}
+{"t":"2026-09-15T04:43:39.064Z","type":"promote","id":3019587152,"u":"LancasterMk3","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":23.91}
+{"t":"2026-09-15T04:43:39.064Z","type":"join","id":1416222438,"u":"ChristmasChrisman","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-15T04:43:39.064Z","type":"rejoin","id":11003053907,"u":"Flaskerco","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-15T04:43:39.064Z","type":"demote","id":11003053907,"u":"Flaskerco","from":20,"to":1,"fromRoleId":30919761,"roleId":70762197,"fromName":"Security Cadet","toName":"Security Intern","heldDays":0}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":80940401,"u":"kwezetsky","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":276754088,"u":"goodbakk","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":293203174,"u":"kai00324","from":100,"fromRoleId":105852384,"fromName":"Security Corporal"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":326450548,"u":"AgentG_Blackhawk","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":493968214,"u":"Q6ri5544_backup2","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":869641371,"u":"Jacob_Hallboi","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":972571763,"u":"candylightunicorn","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":1503111565,"u":"alliszcx","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":1516213158,"u":"Jaden2Black","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":2758102430,"u":"shadowwsoffline","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-15T04:43:39.064Z","type":"leave","id":3094090317,"u":"YesNo03042","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
