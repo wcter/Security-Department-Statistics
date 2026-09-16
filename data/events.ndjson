@@ -929,3 +929,8 @@
 {"t":"2026-09-16T04:39:31.010Z","type":"promote","id":463872201,"u":"Arthurfiin","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":41.592}
 {"t":"2026-09-16T11:22:56.354Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.28}
 {"t":"2026-09-16T11:22:56.354Z","type":"leave","id":5866541130,"u":"Rifts_OG","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-16T16:43:50.986Z","type":"rename","id":3376686320,"u":"Flootshy","from":"Flootshy66"}
+{"t":"2026-09-16T16:43:50.986Z","type":"promote","id":905241407,"u":"jurrasicworld19989","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.85}
+{"t":"2026-09-16T16:43:50.986Z","type":"promote","id":1269174694,"u":"itsmrgiraffe68","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.514}
+{"t":"2026-09-16T16:43:50.986Z","type":"promote","id":1737432080,"u":"chzxjchzjc","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.514}
+{"t":"2026-09-16T16:43:50.986Z","type":"leave","id":3609332759,"u":"NOTIMETOALT12","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
