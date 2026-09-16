@@ -927,3 +927,5 @@
 {"t":"2026-09-15T21:13:22.926Z","type":"leave","id":11003053907,"u":"Flaskerco","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-16T04:39:31.010Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.671}
 {"t":"2026-09-16T04:39:31.010Z","type":"promote","id":463872201,"u":"Arthurfiin","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":41.592}
+{"t":"2026-09-16T11:22:56.354Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.28}
+{"t":"2026-09-16T11:22:56.354Z","type":"leave","id":5866541130,"u":"Rifts_OG","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
