@@ -925,3 +925,5 @@
 {"t":"2026-09-15T21:13:22.926Z","type":"leave","id":107114293,"u":"Centurion1508","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
 {"t":"2026-09-15T21:13:22.926Z","type":"leave","id":3332091591,"u":"iklovan2","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-15T21:13:22.926Z","type":"leave","id":11003053907,"u":"Flaskerco","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-16T04:39:31.010Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.671}
+{"t":"2026-09-16T04:39:31.010Z","type":"promote","id":463872201,"u":"Arthurfiin","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":41.592}
