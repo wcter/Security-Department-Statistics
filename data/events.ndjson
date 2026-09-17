@@ -937,3 +937,6 @@
 {"t":"2026-09-16T21:12:57.910Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.41}
 {"t":"2026-09-16T21:12:57.910Z","type":"promote","id":1286957111,"u":"captainkva","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":42.281}
 {"t":"2026-09-16T21:12:57.910Z","type":"leave","id":79548731,"u":"GladiusFeitheoir","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-17T04:43:18.120Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.313}
+{"t":"2026-09-17T04:43:18.120Z","type":"join","id":1478860976,"u":"jameyboy8","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-17T04:43:18.120Z","type":"leave","id":119270738,"u":"VespertineLumen","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
