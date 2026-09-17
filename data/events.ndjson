@@ -941,3 +941,7 @@
 {"t":"2026-09-17T04:43:18.120Z","type":"join","id":1478860976,"u":"jameyboy8","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-17T04:43:18.120Z","type":"leave","id":119270738,"u":"VespertineLumen","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
 {"t":"2026-09-17T11:31:22.979Z","type":"leave","id":2792356009,"u":"mavifinn2","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-17T16:50:22.499Z","type":"promote","id":3838976292,"u":"Alvarotv20","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":43.099}
+{"t":"2026-09-17T16:50:22.499Z","type":"promote","id":2785251566,"u":"Infectious_Mozerella","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":25.922}
+{"t":"2026-09-17T16:50:22.499Z","type":"promote","id":358397586,"u":"thunder_lightning877","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.854}
+{"t":"2026-09-17T16:50:22.499Z","type":"promote","id":10726720189,"u":"hunntErgate","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.509}
