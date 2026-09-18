@@ -948,3 +948,4 @@
 {"t":"2026-09-17T21:15:50.666Z","type":"join","id":1959939210,"u":"swatboy9765","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-18T04:30:40.110Z","type":"promote","id":641736509,"u":"karlqnl","from":1,"to":50,"fromRoleId":70762197,"roleId":135248009,"fromName":"Security Intern","toName":"Security Sentry","heldDays":4.326}
 {"t":"2026-09-18T04:30:40.110Z","type":"join","id":11662210822,"u":"nevhaverut","to":20,"roleId":30919761,"toName":"Security Cadet"}
+{"t":"2026-09-18T11:04:20.255Z","type":"leave","id":1170928336,"u":"dummest_sprig","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
