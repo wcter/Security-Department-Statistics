@@ -952,3 +952,9 @@
 {"t":"2026-09-18T16:18:32.174Z","type":"promote","id":1260609192,"u":"ExclusiveMike_141","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.387}
 {"t":"2026-09-18T16:18:32.174Z","type":"promote","id":573196641,"u":"SecuritySio","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":29.606}
 {"t":"2026-09-18T16:18:32.174Z","type":"promote","id":3140734481,"u":"Adamthecoolkid568","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.992}
+{"t":"2026-09-18T20:49:41.470Z","type":"rename","id":7137564495,"u":"v1xx1y","from":"Inv1xx1ty_Alt"}
+{"t":"2026-09-18T20:49:41.470Z","type":"join","id":2648621208,"u":"Canadian_M00se","to":50,"roleId":135248009,"toName":"Security Sentry"}
+{"t":"2026-09-18T20:49:41.470Z","type":"join","id":11222829381,"u":"Kipcog1310","to":50,"roleId":135248009,"toName":"Security Sentry"}
+{"t":"2026-09-18T20:49:41.470Z","type":"join","id":418539409,"u":"robuxmaster122221","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-18T20:49:41.470Z","type":"join","id":1042793417,"u":"FlSH_D","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-18T20:49:41.470Z","type":"leave","id":2500175541,"u":"Mr_mariena","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
