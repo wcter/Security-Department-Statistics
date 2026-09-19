@@ -958,3 +958,7 @@
 {"t":"2026-09-18T20:49:41.470Z","type":"join","id":418539409,"u":"robuxmaster122221","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-18T20:49:41.470Z","type":"join","id":1042793417,"u":"FlSH_D","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-18T20:49:41.470Z","type":"leave","id":2500175541,"u":"Mr_mariena","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-09-19T04:27:27.450Z","type":"leave","id":570021927,"u":"exceptster1","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-19T04:27:27.450Z","type":"leave","id":3614371749,"u":"D4RKNE52","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-19T04:27:27.450Z","type":"leave","id":7629886064,"u":"Testing_fishI","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-09-19T04:27:27.450Z","type":"leave","id":9965504976,"u":"Canadian_M00se2","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
