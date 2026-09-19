@@ -964,3 +964,7 @@
 {"t":"2026-09-19T04:27:27.450Z","type":"leave","id":9965504976,"u":"Canadian_M00se2","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
 {"t":"2026-09-19T10:48:20.098Z","type":"leave","id":2820537890,"u":"smurfanfan8","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-19T10:48:20.098Z","type":"leave","id":11201979907,"u":"ClearlyKiv","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-19T15:48:32.798Z","type":"promote","id":1067323109,"u":"Tybaltcore","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.987}
+{"t":"2026-09-19T15:48:32.798Z","type":"promote","id":468260779,"u":"Denisdeile2","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":9.474}
+{"t":"2026-09-19T15:48:32.798Z","type":"rename","id":11662210822,"u":"VincentHaverut","from":"nevhaverut"}
+{"t":"2026-09-19T15:48:32.798Z","type":"join","id":2470108839,"u":"Wraithoxia","to":1,"roleId":70762197,"toName":"Security Intern"}

@@ -10,7 +10,7 @@
     "id": 12884901889,
     "name": "Member",
     "rank": 1,
-    "memberCount": 858,
+    "memberCount": 857,
     "isBase": true,
     "color": 0
   },
@@ -25,14 +25,14 @@
     "id": 30919761,
     "name": "Security Cadet",
     "rank": 20,
-    "memberCount": 155,
+    "memberCount": 153,
     "color": 0
   },
   {
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 168,
+    "memberCount": 169,
     "color": 0
   },
   {
