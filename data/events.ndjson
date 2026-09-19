@@ -968,3 +968,7 @@
 {"t":"2026-09-19T15:48:32.798Z","type":"promote","id":468260779,"u":"Denisdeile2","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":9.474}
 {"t":"2026-09-19T15:48:32.798Z","type":"rename","id":11662210822,"u":"VincentHaverut","from":"nevhaverut"}
 {"t":"2026-09-19T15:48:32.798Z","type":"join","id":2470108839,"u":"Wraithoxia","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-19T20:31:06.492Z","type":"rename","id":1181344886,"u":"J0hn_Security","from":"gfttijiuyg"}
+{"t":"2026-09-19T20:31:06.492Z","type":"join","id":5397821735,"u":"piesek8744v2","to":40,"roleId":135066020,"toName":"Security Guard"}
+{"t":"2026-09-19T20:31:06.492Z","type":"leave","id":1129090641,"u":"SCPGaming11","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-19T20:31:06.492Z","type":"leave","id":1235683214,"u":"TheAmazingHSG","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
