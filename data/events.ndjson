@@ -994,3 +994,6 @@
 {"t":"2026-09-20T04:44:15.224Z","type":"join","id":1426717398,"u":"adrin26438","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-20T04:44:15.224Z","type":"join","id":10680772305,"u":"Iloveplanes66655","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-20T04:44:15.224Z","type":"leave","id":2321650161,"u":"piesek8744","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-09-20T11:11:30.159Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":3.27}
+{"t":"2026-09-20T11:11:30.159Z","type":"leave","id":910166585,"u":"Account Forgotten (9ee552eaebc441859cb9de0574369b31)","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-20T11:11:30.159Z","type":"leave","id":5744224728,"u":"HIBRODYCURIEL1","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
