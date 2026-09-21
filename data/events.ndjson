@@ -1027,3 +1027,5 @@
 {"t":"2026-09-21T04:44:09.680Z","type":"join","id":5369384309,"u":"mitchell77767","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-21T04:44:09.680Z","type":"join","id":1366314785,"u":"TaskForce_Delta5","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-21T04:44:09.680Z","type":"leave","id":5828335896,"u":"MrOmega010","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-09-21T12:39:30.551Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.664}
+{"t":"2026-09-21T12:39:30.551Z","type":"leave","id":363174094,"u":"TheSky5000","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
