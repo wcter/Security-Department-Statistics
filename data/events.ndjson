@@ -1029,3 +1029,10 @@
 {"t":"2026-09-21T04:44:09.680Z","type":"leave","id":5828335896,"u":"MrOmega010","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-21T12:39:30.551Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.664}
 {"t":"2026-09-21T12:39:30.551Z","type":"leave","id":363174094,"u":"TheSky5000","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-09-21T21:55:44.506Z","type":"promote","id":2332901263,"u":"denVulcan","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":47.311}
+{"t":"2026-09-21T21:55:44.506Z","type":"promote","id":818826806,"u":"Nickor200","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.716}
+{"t":"2026-09-21T21:55:44.506Z","type":"promote","id":180494144,"u":"MrJ_Freeze","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.05}
+{"t":"2026-09-21T21:55:44.506Z","type":"join","id":7079766915,"u":"yonacool6","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-21T21:55:44.506Z","type":"join","id":1143628675,"u":"Suchti_SG","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-21T21:55:44.506Z","type":"join","id":5176850663,"u":"CrazyBanana944","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-21T21:55:44.506Z","type":"join","id":947342695,"u":"aroko12","to":1,"roleId":70762197,"toName":"Security Intern"}
