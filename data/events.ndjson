@@ -1043,3 +1043,5 @@
 {"t":"2026-09-22T04:40:58.892Z","type":"leave","id":918816529,"u":"mrmediocre3","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-09-22T16:48:34.238Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.173}
 {"t":"2026-09-22T16:48:34.238Z","type":"leave","id":146942027,"u":"Extrictant","from":170,"fromRoleId":30919821,"fromName":"Security Lieutenant"}
+{"t":"2026-09-22T21:12:31.724Z","type":"rename","id":358397586,"u":"John_SecurityCorps","from":"thunder_lightning877"}
+{"t":"2026-09-22T21:12:31.724Z","type":"rename","id":9441776418,"u":"etrnlruby","from":"cyaninhissecondary4m"}
