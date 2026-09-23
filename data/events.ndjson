@@ -1045,3 +1045,14 @@
 {"t":"2026-09-22T16:48:34.238Z","type":"leave","id":146942027,"u":"Extrictant","from":170,"fromRoleId":30919821,"fromName":"Security Lieutenant"}
 {"t":"2026-09-22T21:12:31.724Z","type":"rename","id":358397586,"u":"John_SecurityCorps","from":"thunder_lightning877"}
 {"t":"2026-09-22T21:12:31.724Z","type":"rename","id":9441776418,"u":"etrnlruby","from":"cyaninhissecondary4m"}
+{"t":"2026-09-23T04:35:52.609Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.491}
+{"t":"2026-09-23T04:35:52.609Z","type":"promote","id":1345529292,"u":"Ninia_100","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":11.008}
+{"t":"2026-09-23T04:35:52.609Z","type":"promote","id":81534273,"u":"coenblue","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":22.969}
+{"t":"2026-09-23T04:35:52.609Z","type":"promote","id":612166975,"u":"LucaBucaPartyPooka","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.999}
+{"t":"2026-09-23T04:35:52.609Z","type":"promote","id":209991351,"u":"Veltanyxe","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":12.007}
+{"t":"2026-09-23T04:35:52.609Z","type":"promote","id":472273336,"u":"r3stful","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.285}
+{"t":"2026-09-23T04:35:52.609Z","type":"join","id":1314894698,"u":"coolgosmith","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-23T04:35:52.609Z","type":"rejoin","id":3609332759,"u":"NOTIMETOALT12","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-23T04:35:52.609Z","type":"join","id":3126801475,"u":"Doctorissa765","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-23T04:35:52.609Z","type":"rejoin","id":5737045777,"u":"Winter_Deletion","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-23T04:35:52.609Z","type":"leave","id":1521920600,"u":"mightysharktwo","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
