@@ -1066,3 +1066,5 @@
 {"t":"2026-09-23T21:25:42.207Z","type":"join","id":493407972,"u":"COMADOEMK","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-23T21:25:42.207Z","type":"join","id":552375439,"u":"Kamikonda07","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-23T21:25:42.207Z","type":"join","id":841158645,"u":"MrMisfited","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-24T04:34:12.758Z","type":"join","id":86502231,"u":"SimpleIndex","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-24T04:34:12.758Z","type":"rejoin","id":5744224728,"u":"HIBRODYCURIEL1","to":1,"roleId":70762197,"toName":"Security Intern"}
