@@ -1082,3 +1082,6 @@
 {"t":"2026-09-25T04:44:54.989Z","type":"join","id":2562035561,"u":"CN_PRESENTS","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-25T04:44:54.989Z","type":"join","id":7055977538,"u":"Jake2233226","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-09-25T11:42:25.365Z","type":"leave","id":138372681,"u":"JustinRobloxBoy","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-25T17:03:24.530Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":2.519}
+{"t":"2026-09-25T17:03:24.530Z","type":"join","id":11705774812,"u":"pathosoperatingsyste","to":40,"roleId":135066020,"toName":"Security Guard"}
+{"t":"2026-09-25T17:03:24.530Z","type":"leave","id":2256095262,"u":"Avytar8675309","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
