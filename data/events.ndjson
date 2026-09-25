@@ -1085,3 +1085,5 @@
 {"t":"2026-09-25T17:03:24.530Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":2.519}
 {"t":"2026-09-25T17:03:24.530Z","type":"join","id":11705774812,"u":"pathosoperatingsyste","to":40,"roleId":135066020,"toName":"Security Guard"}
 {"t":"2026-09-25T17:03:24.530Z","type":"leave","id":2256095262,"u":"Avytar8675309","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-09-25T21:27:52.868Z","type":"promote","id":3586582031,"u":"imgenericuser","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.988}
+{"t":"2026-09-25T21:27:52.868Z","type":"join","id":5564737461,"u":"oftenslacking","to":1,"roleId":70762197,"toName":"Security Intern"}
