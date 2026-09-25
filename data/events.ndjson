@@ -1071,3 +1071,13 @@
 {"t":"2026-09-24T11:35:31.408Z","type":"promote","id":2040721716,"u":"charliecokezero","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":11.63}
 {"t":"2026-09-24T17:02:10.550Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.227}
 {"t":"2026-09-24T21:26:23.971Z","type":"promote","id":1038907317,"u":"Himmelblauefee2","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.696}
+{"t":"2026-09-25T04:44:54.989Z","type":"promote","id":574527103,"u":"nartsyus","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":50.595}
+{"t":"2026-09-25T04:44:54.989Z","type":"promote","id":3196043644,"u":"Setsunaiv","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":50.595}
+{"t":"2026-09-25T04:44:54.989Z","type":"promote","id":947342695,"u":"aroko12","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.284}
+{"t":"2026-09-25T04:44:54.989Z","type":"promote","id":1314894698,"u":"coolgosmith","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.006}
+{"t":"2026-09-25T04:44:54.989Z","type":"join","id":1566220178,"u":"2610Optimus","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-25T04:44:54.989Z","type":"join","id":513606917,"u":"v_lusts","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-25T04:44:54.989Z","type":"join","id":905479773,"u":"NaxNam","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-25T04:44:54.989Z","type":"join","id":147859198,"u":"espnallstar","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-25T04:44:54.989Z","type":"join","id":2562035561,"u":"CN_PRESENTS","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-25T04:44:54.989Z","type":"join","id":7055977538,"u":"Jake2233226","to":1,"roleId":70762197,"toName":"Security Intern"}
