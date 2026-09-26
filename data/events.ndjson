@@ -1095,3 +1095,8 @@
 {"t":"2026-09-26T04:46:15.824Z","type":"leave","id":943484865,"u":"caimoo9","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-26T11:15:10.316Z","type":"demote","id":1491389024,"u":"COOL_PIZZA1230","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":21.292}
 {"t":"2026-09-26T11:15:10.316Z","type":"leave","id":1266262074,"u":"nijaxxe","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-09-26T16:16:28.464Z","type":"join","id":1628063386,"u":"maugamerxd13","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-26T16:16:28.464Z","type":"join","id":512534573,"u":"bSunix","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-26T16:16:28.464Z","type":"join","id":346216510,"u":"CrusherVZ","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-26T16:16:28.464Z","type":"join","id":354861861,"u":"emirey3","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-26T16:16:28.464Z","type":"join","id":127150749,"u":"ExclusionDream","to":1,"roleId":70762197,"toName":"Security Intern"}
