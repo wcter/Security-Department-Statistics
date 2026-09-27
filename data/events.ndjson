@@ -1107,3 +1107,13 @@
 {"t":"2026-09-27T05:08:49.791Z","type":"promote","id":1737432080,"u":"chzxjchzjc","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.517}
 {"t":"2026-09-27T05:08:49.791Z","type":"promote","id":1522880285,"u":"Cosmic_Milkyway240","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":13.352}
 {"t":"2026-09-27T05:08:49.791Z","type":"join","id":1395621752,"u":"DjAkos300_GRW","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":199241050,"u":"ahoj18","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":53.101}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":2996288418,"u":"marcoyeo123","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":38.92}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":5412960044,"u":"dinexter123","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":38.63}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":1015199485,"u":"corrat0r","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":29.414}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":2702133654,"u":"Mcslof200","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.81}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":4555556879,"u":"Domaska7","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.506}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":513606917,"u":"v_lusts","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.505}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":2562035561,"u":"CN_PRESENTS","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.505}
+{"t":"2026-09-27T16:52:45.707Z","type":"promote","id":454413902,"u":"Velkorin","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.505}
+{"t":"2026-09-27T16:52:45.707Z","type":"leave","id":346216510,"u":"CrusherVZ","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
