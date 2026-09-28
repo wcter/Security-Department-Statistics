@@ -1119,3 +1119,5 @@
 {"t":"2026-09-27T16:52:45.707Z","type":"leave","id":346216510,"u":"CrusherVZ","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-09-28T05:11:51.163Z","type":"promote","id":601084849,"u":"Laks491","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":28.525}
 {"t":"2026-09-28T05:11:51.163Z","type":"promote","id":467969531,"u":"RhinoVolaris","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":50.431}
+{"t":"2026-09-28T13:42:09.434Z","type":"promote","id":714846660,"u":"dagrossman","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":53.968}
+{"t":"2026-09-28T13:42:09.434Z","type":"join","id":9058382787,"u":"Baituxuan","to":50,"roleId":135248009,"toName":"Security Sentry"}
