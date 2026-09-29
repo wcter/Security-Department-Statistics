@@ -1127,3 +1127,15 @@
 {"t":"2026-09-28T23:11:16.703Z","type":"promote","id":12201921,"u":"et_3li","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.767}
 {"t":"2026-09-28T23:11:16.703Z","type":"promote","id":127150749,"u":"ExclusionDream","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.288}
 {"t":"2026-09-28T23:11:16.703Z","type":"leave","id":1347053561,"u":"ahhghggz","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":658219324,"u":"Capitan_Cody","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":1996973159,"u":"EggGoober","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":1210080918,"u":"Flas4hPT","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":538128815,"u":"AlexyPalex","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":1246207180,"u":"Noxaeus","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":2608614247,"u":"Amy_Sol280","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":1516298512,"u":"evactie","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":7126919436,"u":"merk_c","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":972972556,"u":"AsrarMyst","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"rejoin","id":2604001206,"u":"Pa_zt","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-09-29T05:34:41.740Z","type":"demote","id":2604001206,"u":"Pa_zt","from":30,"to":1,"fromRoleId":30919798,"roleId":70762197,"fromName":"Security Agent","toName":"Security Intern","heldDays":0}
+{"t":"2026-09-29T05:34:41.740Z","type":"join","id":3175439931,"u":"Thanos13761","to":1,"roleId":70762197,"toName":"Security Intern"}
