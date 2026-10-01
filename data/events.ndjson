@@ -1158,3 +1158,4 @@
 {"t":"2026-09-30T22:09:24.679Z","type":"promote","id":552375439,"u":"Kamikonda07","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.03}
 {"t":"2026-09-30T22:09:24.679Z","type":"promote","id":1996973159,"u":"EggGoober","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.691}
 {"t":"2026-09-30T22:09:24.679Z","type":"promote","id":2604001206,"u":"Pa_zt","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.691}
+{"t":"2026-10-01T05:38:11.121Z","type":"leave","id":5737045777,"u":"Winter_Deletion","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
