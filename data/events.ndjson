@@ -1159,3 +1159,10 @@
 {"t":"2026-09-30T22:09:24.679Z","type":"promote","id":1996973159,"u":"EggGoober","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.691}
 {"t":"2026-09-30T22:09:24.679Z","type":"promote","id":2604001206,"u":"Pa_zt","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.691}
 {"t":"2026-10-01T05:38:11.121Z","type":"leave","id":5737045777,"u":"Winter_Deletion","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-01T13:00:57.307Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":5.344}
+{"t":"2026-10-01T13:00:57.307Z","type":"promote","id":2040721716,"u":"charliecokezero","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":6.832}
+{"t":"2026-10-01T13:00:57.307Z","type":"promote","id":88322389,"u":"Syfriea","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.345}
+{"t":"2026-10-01T13:00:57.307Z","type":"promote","id":3019587152,"u":"LancasterMk3","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":16.345}
+{"t":"2026-10-01T13:00:57.307Z","type":"promote","id":1246207180,"u":"Noxaeus","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.31}
+{"t":"2026-10-01T13:00:57.307Z","type":"promote","id":7126919436,"u":"merk_c","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.31}
+{"t":"2026-10-01T13:00:57.307Z","type":"rejoin","id":7611049308,"u":"jhonnybob58","to":1,"roleId":70762197,"toName":"Security Intern"}
