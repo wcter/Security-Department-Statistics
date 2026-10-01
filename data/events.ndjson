@@ -1166,3 +1166,5 @@
 {"t":"2026-10-01T13:00:57.307Z","type":"promote","id":1246207180,"u":"Noxaeus","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.31}
 {"t":"2026-10-01T13:00:57.307Z","type":"promote","id":7126919436,"u":"merk_c","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.31}
 {"t":"2026-10-01T13:00:57.307Z","type":"rejoin","id":7611049308,"u":"jhonnybob58","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-01T22:36:33.254Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.4}
+{"t":"2026-10-01T22:36:33.254Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.4}
