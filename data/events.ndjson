@@ -1176,3 +1176,8 @@
 {"t":"2026-10-02T05:24:09.885Z","type":"promote","id":12201921,"u":"et_3li","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.259}
 {"t":"2026-10-02T05:24:09.885Z","type":"leave","id":306368360,"u":"Monstervog","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-02T05:24:09.885Z","type":"leave","id":2939365084,"u":"theepicgame222","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-02T22:06:01.486Z","type":"promote","id":7613065447,"u":"DomDos2556","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":12.057}
+{"t":"2026-10-02T22:06:01.486Z","type":"promote","id":1147571195,"u":"Alek1605sander","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":12.723}
+{"t":"2026-10-02T22:06:01.486Z","type":"promote","id":424991534,"u":"NoRyeOrReason","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":9.028}
+{"t":"2026-10-02T22:06:01.486Z","type":"promote","id":658219324,"u":"Capitan_Cody","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.688}
+{"t":"2026-10-02T22:06:01.486Z","type":"promote","id":1516298512,"u":"evactie","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.688}
