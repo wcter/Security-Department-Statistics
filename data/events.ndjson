@@ -1168,3 +1168,11 @@
 {"t":"2026-10-01T13:00:57.307Z","type":"rejoin","id":7611049308,"u":"jhonnybob58","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-01T22:36:33.254Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.4}
 {"t":"2026-10-01T22:36:33.254Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.4}
+{"t":"2026-10-02T05:24:09.885Z","type":"promote","id":1617988029,"u":"Scrappydoo932","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":25.042}
+{"t":"2026-10-02T05:24:09.885Z","type":"promote","id":199570690,"u":"adismax","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":21.546}
+{"t":"2026-10-02T05:24:09.885Z","type":"promote","id":365467407,"u":"JeviI_Jester","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":29.352}
+{"t":"2026-10-02T05:24:09.885Z","type":"promote","id":9156827488,"u":"DerBrosAccount","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":24.042}
+{"t":"2026-10-02T05:24:09.885Z","type":"promote","id":2893782340,"u":"Pollo_orp","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":17.319}
+{"t":"2026-10-02T05:24:09.885Z","type":"promote","id":12201921,"u":"et_3li","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.259}
+{"t":"2026-10-02T05:24:09.885Z","type":"leave","id":306368360,"u":"Monstervog","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-02T05:24:09.885Z","type":"leave","id":2939365084,"u":"theepicgame222","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
