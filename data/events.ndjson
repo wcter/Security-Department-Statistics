@@ -1197,3 +1197,4 @@
 {"t":"2026-10-03T05:07:00.896Z","type":"join","id":3863859031,"u":"qian123guang","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-03T05:07:00.896Z","type":"rejoin","id":869641371,"u":"Jacob_Hallboi","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-03T05:07:00.896Z","type":"demote","id":869641371,"u":"Jacob_Hallboi","from":50,"to":1,"fromRoleId":135248009,"roleId":70762197,"fromName":"Security Sentry","toName":"Security Intern","heldDays":0}
+{"t":"2026-10-03T11:32:54.433Z","type":"leave","id":9441776418,"u":"etrnlruby","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
