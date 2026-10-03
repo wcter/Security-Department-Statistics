@@ -1204,3 +1204,12 @@
 {"t":"2026-10-03T16:08:43.216Z","type":"promote","id":10726720189,"u":"hunntErgate","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":15.971}
 {"t":"2026-10-03T16:08:43.216Z","type":"promote","id":127150749,"u":"ExclusionDream","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.707}
 {"t":"2026-10-03T16:08:43.216Z","type":"promote","id":1210080918,"u":"Flas4hPT","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.44}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":3233260966,"u":"Doctoroofz","from":150,"to":170,"fromRoleId":30919802,"roleId":30919821,"fromName":"Security Officer","toName":"Security Lieutenant","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":38302165,"u":"Operation_Blxckout","from":100,"to":150,"fromRoleId":105852384,"roleId":30919802,"fromName":"Security Corporal","toName":"Security Officer","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":159637993,"u":"schwimbo626","from":100,"to":150,"fromRoleId":105852384,"roleId":30919802,"fromName":"Security Corporal","toName":"Security Officer","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":575571042,"u":"blueberry_crumble","from":100,"to":150,"fromRoleId":105852384,"roleId":30919802,"fromName":"Security Corporal","toName":"Security Officer","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":2005602803,"u":"Sergent_Ali","from":50,"to":60,"fromRoleId":135248009,"roleId":30919801,"fromName":"Security Sentry","toName":"Security Specialist","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":1927324690,"u":"gibberishthenub","from":50,"to":60,"fromRoleId":135248009,"roleId":30919801,"fromName":"Security Sentry","toName":"Security Specialist","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"promote","id":11397443995,"u":"Jow_v3","from":50,"to":60,"fromRoleId":135248009,"roleId":30919801,"fromName":"Security Sentry","toName":"Security Specialist","heldDays":59.277}
+{"t":"2026-10-03T21:06:36.504Z","type":"leave","id":715147040,"u":"Lady_Johanna21","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-10-03T21:06:36.504Z","type":"leave","id":1576349771,"u":"I_Kni","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
