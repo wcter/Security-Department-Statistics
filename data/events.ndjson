@@ -1228,3 +1228,12 @@
 {"t":"2026-10-04T05:40:27.938Z","type":"join","id":1666246563,"u":"LiquidRoachSauce","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-04T05:40:27.938Z","type":"leave","id":115003362,"u":"l_katt","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-04T05:40:27.938Z","type":"leave","id":2608614247,"u":"Amy_Sol280","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":674166621,"u":"wcter","from":180,"to":253,"fromRoleId":30919837,"roleId":668323001,"fromName":"Chief of Security","toName":"Overseer","heldDays":0.273}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":843253320,"u":"pzivex","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":41.731}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":665999040,"u":"fixitjackson","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":24.325}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":372243947,"u":"GAELVIVIEN416","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":13.646}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":454413902,"u":"Velkorin","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.806}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":972972556,"u":"AsrarMyst","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.277}
+{"t":"2026-10-04T12:14:04.687Z","type":"promote","id":413770953,"u":"Benji1210","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.297}
+{"t":"2026-10-04T12:14:04.687Z","type":"join","id":794840445,"u":"Rexythere","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-04T12:14:04.687Z","type":"leave","id":9050963693,"u":"idklol6441","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
