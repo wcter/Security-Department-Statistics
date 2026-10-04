@@ -1237,3 +1237,11 @@
 {"t":"2026-10-04T12:14:04.687Z","type":"promote","id":413770953,"u":"Benji1210","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.297}
 {"t":"2026-10-04T12:14:04.687Z","type":"join","id":794840445,"u":"Rexythere","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-04T12:14:04.687Z","type":"leave","id":9050963693,"u":"idklol6441","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":955038279,"u":"Fanda_2019","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":44.593}
+{"t":"2026-10-04T21:14:46.214Z","type":"rename","id":427749571,"u":"bharricade","from":"Bosco1006"}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":5397821735,"u":"piesek8744v2","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":15.03}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":1323683844,"u":"dylmarshey","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.962}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":7611049308,"u":"jhonnybob58","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.343}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":819406267,"u":"dorito1090","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.672}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":1685312366,"u":"cosmyalix","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.672}
+{"t":"2026-10-04T21:14:46.214Z","type":"promote","id":9399448634,"u":"Orbit_Turbo35","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.672}
