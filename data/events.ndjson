@@ -1256,3 +1256,4 @@
 {"t":"2026-10-05T05:24:11.519Z","type":"join","id":5068198565,"u":"cinnerkus","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-05T05:24:11.519Z","type":"join","id":115307919,"u":"commonbias","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-05T05:24:11.519Z","type":"join","id":513508593,"u":"MrSpaceBo","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-05T14:24:40.285Z","type":"promote","id":3339323935,"u":"Cool_JovGuy07","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":51.804}
