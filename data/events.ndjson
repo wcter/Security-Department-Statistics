@@ -1267,3 +1267,16 @@
 {"t":"2026-10-06T06:09:00.704Z","type":"promote","id":1566220178,"u":"2610Optimus","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":11.058}
 {"t":"2026-10-06T06:09:00.704Z","type":"promote","id":512534573,"u":"bSunix","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":9.578}
 {"t":"2026-10-06T06:09:00.704Z","type":"promote","id":178510436,"u":"IrisOvergrown","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.043}
+{"t":"2026-10-07T05:43:50.740Z","type":"promote","id":1513805785,"u":"bartolomeogar","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":48.456}
+{"t":"2026-10-07T05:43:50.740Z","type":"promote","id":2040721716,"u":"charliecokezero","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":5.297}
+{"t":"2026-10-07T05:43:50.740Z","type":"promote","id":103810815,"u":"Gejmr140","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":39.313}
+{"t":"2026-10-07T05:43:50.740Z","type":"promote","id":2702133654,"u":"Mcslof200","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.535}
+{"t":"2026-10-07T05:43:50.740Z","type":"promote","id":658219324,"u":"Capitan_Cody","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.318}
+{"t":"2026-10-07T05:43:50.740Z","type":"promote","id":1516298512,"u":"evactie","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.318}
+{"t":"2026-10-07T05:43:50.740Z","type":"join","id":2716071435,"u":"Saltypool2alt","to":20,"roleId":30919761,"toName":"Security Cadet"}
+{"t":"2026-10-07T05:43:50.740Z","type":"join","id":237193417,"u":"demmyfelloff","to":20,"roleId":30919761,"toName":"Security Cadet"}
+{"t":"2026-10-07T05:43:50.740Z","type":"rejoin","id":3332091591,"u":"theiklopu","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-07T05:43:50.740Z","type":"rename","id":3332091591,"u":"theiklopu","from":"iklovan2"}
+{"t":"2026-10-07T05:43:50.740Z","type":"join","id":3808864113,"u":"udhdhdgiw","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-07T05:43:50.740Z","type":"join","id":1592376946,"u":"AcidRainbow303","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-07T05:43:50.740Z","type":"join","id":818314384,"u":"PurpleC0nX","to":1,"roleId":70762197,"toName":"Security Intern"}
