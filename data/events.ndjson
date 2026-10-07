@@ -1280,3 +1280,5 @@
 {"t":"2026-10-07T05:43:50.740Z","type":"join","id":3808864113,"u":"udhdhdgiw","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-07T05:43:50.740Z","type":"join","id":1592376946,"u":"AcidRainbow303","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-07T05:43:50.740Z","type":"join","id":818314384,"u":"PurpleC0nX","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-07T13:10:48.009Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.31}
+{"t":"2026-10-07T13:10:48.009Z","type":"leave","id":808726503,"u":"mothiiiiiiiiii","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
