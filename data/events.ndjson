@@ -1298,3 +1298,12 @@
 {"t":"2026-10-08T05:51:06.340Z","type":"promote","id":3332091591,"u":"theiklopu","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.005}
 {"t":"2026-10-08T05:51:06.340Z","type":"promote","id":889574368,"u":"renequr","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.285}
 {"t":"2026-10-08T05:51:06.340Z","type":"leave","id":2302224441,"u":"Theepiccdu","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-08T23:15:49.230Z","type":"promote","id":13264682,"u":"PhiXross","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":26.116}
+{"t":"2026-10-08T23:15:49.230Z","type":"promote","id":674129545,"u":"Alexmd3080","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.003}
+{"t":"2026-10-08T23:15:49.230Z","type":"promote","id":1210080918,"u":"Flas4hPT","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.297}
+{"t":"2026-10-08T23:15:49.230Z","type":"join","id":53294411,"u":"joshuacarter4567890","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-08T23:15:49.230Z","type":"join","id":89777641,"u":"dominikmike","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-08T23:15:49.230Z","type":"rejoin","id":1906159053,"u":"FrostySplyce","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-08T23:15:49.230Z","type":"demote","id":1906159053,"u":"FrostySplyce","from":50,"to":1,"fromRoleId":135248009,"roleId":70762197,"fromName":"Security Sentry","toName":"Security Intern","heldDays":0}
+{"t":"2026-10-08T23:15:49.230Z","type":"join","id":1700765791,"u":"radiationismanmade","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-08T23:15:49.230Z","type":"leave","id":2554509370,"u":"vikky783","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
