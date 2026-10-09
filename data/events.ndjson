@@ -1307,3 +1307,12 @@
 {"t":"2026-10-08T23:15:49.230Z","type":"demote","id":1906159053,"u":"FrostySplyce","from":50,"to":1,"fromRoleId":135248009,"roleId":70762197,"fromName":"Security Sentry","toName":"Security Intern","heldDays":0}
 {"t":"2026-10-08T23:15:49.230Z","type":"join","id":1700765791,"u":"radiationismanmade","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-08T23:15:49.230Z","type":"leave","id":2554509370,"u":"vikky783","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-09T05:56:16.898Z","type":"demote","id":935147631,"u":"matrixplaysrb345","from":100,"to":50,"fromRoleId":105852384,"roleId":135248009,"fromName":"Security Corporal","toName":"Security Sentry","heldDays":3.248}
+{"t":"2026-10-09T05:56:16.898Z","type":"promote","id":199241050,"u":"ahoj18","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":11.544}
+{"t":"2026-10-09T05:56:16.898Z","type":"demote","id":1545985098,"u":"mrbots793","from":100,"to":60,"fromRoleId":105852384,"roleId":30919801,"fromName":"Security Corporal","toName":"Security Specialist","heldDays":64.645}
+{"t":"2026-10-09T05:56:16.898Z","type":"promote","id":156370255,"u":"beratsym1","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":33.064}
+{"t":"2026-10-09T05:56:16.898Z","type":"promote","id":513606917,"u":"v_lusts","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":11.544}
+{"t":"2026-10-09T05:56:16.898Z","type":"promote","id":1246207180,"u":"Noxaeus","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.705}
+{"t":"2026-10-09T05:56:16.898Z","type":"promote","id":7126919436,"u":"merk_c","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.705}
+{"t":"2026-10-09T05:56:16.898Z","type":"promote","id":3175439931,"u":"Thanos13761","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.015}
+{"t":"2026-10-09T05:56:16.898Z","type":"join","id":4172425303,"u":"Bnath0821","to":1,"roleId":70762197,"toName":"Security Intern"}
