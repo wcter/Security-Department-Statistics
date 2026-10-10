@@ -1339,3 +1339,8 @@
 {"t":"2026-10-10T05:38:57.522Z","type":"leave","id":1338732860,"u":"fffdfjkhcdsf","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-10-10T05:38:57.522Z","type":"leave","id":1380199141,"u":"jdal77","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-10T12:21:27.417Z","type":"leave","id":1906159053,"u":"FrostySplyce","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-10T21:32:34.015Z","type":"demote","id":9156827488,"u":"DerBrosAccount","from":50,"to":40,"fromRoleId":135248009,"roleId":135066020,"fromName":"Security Sentry","toName":"Security Guard","heldDays":0.662}
+{"t":"2026-10-10T21:32:34.015Z","type":"promote","id":372243947,"u":"GAELVIVIEN416","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.388}
+{"t":"2026-10-10T21:32:34.015Z","type":"promote","id":1666246563,"u":"FemSauce8","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.654}
+{"t":"2026-10-10T21:32:34.015Z","type":"join","id":103084180,"u":"Betasetic","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-10T21:32:34.015Z","type":"leave","id":2853674638,"u":"Bankii1221112212","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
