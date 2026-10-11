@@ -1344,3 +1344,20 @@
 {"t":"2026-10-10T21:32:34.015Z","type":"promote","id":1666246563,"u":"FemSauce8","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.654}
 {"t":"2026-10-10T21:32:34.015Z","type":"join","id":103084180,"u":"Betasetic","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-10T21:32:34.015Z","type":"leave","id":2853674638,"u":"Bankii1221112212","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"promote","id":117008911,"u":"KittenPixl","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":66.63}
+{"t":"2026-10-11T05:34:42.020Z","type":"demote","id":1545985098,"u":"mrbots793","from":60,"to":1,"fromRoleId":30919801,"roleId":70762197,"fromName":"Security Specialist","toName":"Security Intern","heldDays":1.985}
+{"t":"2026-10-11T05:34:42.020Z","type":"rename","id":4583028332,"u":"LiquidStableSauce","from":"StableRicardo"}
+{"t":"2026-10-11T05:34:42.020Z","type":"promote","id":1661533308,"u":"XxH_DashxX","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":66.088}
+{"t":"2026-10-11T05:34:42.020Z","type":"promote","id":1420166922,"u":"Quint8_2","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.309}
+{"t":"2026-10-11T05:34:42.020Z","type":"promote","id":3114987413,"u":"AgentOxford10","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":31.047}
+{"t":"2026-10-11T05:34:42.020Z","type":"rename","id":1666246563,"u":"LiquidRoachSauce","from":"FemSauce8"}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":953992980,"u":"robloxuser12nn","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":301940588,"u":"JamesNinja202","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":3958578787,"u":"XYZJB8","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":2696273541,"u":"COC0_01","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"rejoin","id":1266262074,"u":"nijaxxe","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"demote","id":1266262074,"u":"nijaxxe","from":20,"to":1,"fromRoleId":30919761,"roleId":70762197,"fromName":"Security Cadet","toName":"Security Intern","heldDays":0}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":7827124575,"u":"Ace213920","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":3406886255,"u":"Bed7722","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"join","id":196331852,"u":"Geodashplayer73","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T05:34:42.020Z","type":"leave","id":161431551,"u":"TruckdriverBubba","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
