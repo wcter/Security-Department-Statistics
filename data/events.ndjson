@@ -1363,3 +1363,13 @@
 {"t":"2026-10-11T05:34:42.020Z","type":"leave","id":161431551,"u":"TruckdriverBubba","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-10-11T12:38:01.545Z","type":"promote","id":905241407,"u":"jurrasicworld19989","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.829}
 {"t":"2026-10-11T12:38:01.545Z","type":"promote","id":237193417,"u":"demmyfelloff","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.288}
+{"t":"2026-10-11T21:47:54.468Z","type":"demote","id":3687130514,"u":"SympathyArabian","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":67.306}
+{"t":"2026-10-11T21:47:54.468Z","type":"promote","id":4583028332,"u":"LiquidStableSauce","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.664}
+{"t":"2026-10-11T21:47:54.468Z","type":"rename","id":1661533308,"u":"John_ScD","from":"XxH_DashxX"}
+{"t":"2026-10-11T21:47:54.468Z","type":"promote","id":1015199485,"u":"corrat0r","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":14.205}
+{"t":"2026-10-11T21:47:54.468Z","type":"promote","id":729230181,"u":"OriginalRy","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":29.725}
+{"t":"2026-10-11T21:47:54.468Z","type":"promote","id":2604001206,"u":"Pa_zt","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":10.985}
+{"t":"2026-10-11T21:47:54.468Z","type":"join","id":1809039673,"u":"wodbf3333","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T21:47:54.468Z","type":"join","id":11596646238,"u":"Roll_aurasRBX","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T21:47:54.468Z","type":"join","id":3059365468,"u":"VGT_AGENT","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-11T21:47:54.468Z","type":"join","id":8777083582,"u":"accountyes1231","to":1,"roleId":70762197,"toName":"Security Intern"}
