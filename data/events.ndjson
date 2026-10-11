@@ -1361,3 +1361,5 @@
 {"t":"2026-10-11T05:34:42.020Z","type":"join","id":3406886255,"u":"Bed7722","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-11T05:34:42.020Z","type":"join","id":196331852,"u":"Geodashplayer73","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-11T05:34:42.020Z","type":"leave","id":161431551,"u":"TruckdriverBubba","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-10-11T12:38:01.545Z","type":"promote","id":905241407,"u":"jurrasicworld19989","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.829}
+{"t":"2026-10-11T12:38:01.545Z","type":"promote","id":237193417,"u":"demmyfelloff","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.288}
