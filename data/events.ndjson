@@ -1373,3 +1373,10 @@
 {"t":"2026-10-11T21:47:54.468Z","type":"join","id":11596646238,"u":"Roll_aurasRBX","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-11T21:47:54.468Z","type":"join","id":3059365468,"u":"VGT_AGENT","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-11T21:47:54.468Z","type":"join","id":8777083582,"u":"accountyes1231","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-12T05:44:43.363Z","type":"join","id":1680123063,"u":"loganr1236","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-12T05:44:43.363Z","type":"join","id":1103462440,"u":"Slimeking12315","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-12T05:44:43.363Z","type":"join","id":3546035886,"u":"Cosinomop","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-12T05:44:43.363Z","type":"join","id":144948218,"u":"Vlad_Nightfall","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-12T05:44:43.363Z","type":"leave","id":595809920,"u":"patatakialays123","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-10-12T05:44:43.363Z","type":"leave","id":3531577212,"u":"Moo_Official26","from":60,"fromRoleId":30919801,"fromName":"Security Specialist"}
+{"t":"2026-10-12T05:44:43.363Z","type":"leave","id":5555498465,"u":"Raktorkl","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
