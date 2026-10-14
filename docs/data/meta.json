@@ -6,7 +6,7 @@
   "group": {
     "id": 4606666,
     "name": "[SCPF - Security Department]",
-    "memberCount": 967,
+    "memberCount": 972,
     "owner": {
       "hasVerifiedBadge": false,
       "userId": 234810404,
@@ -25,7 +25,7 @@
       "tier": 0,
       "base": false,
       "divider": false,
-      "apiCount": 342
+      "apiCount": 348
     },
     {
       "id": 12884901889,
@@ -43,7 +43,7 @@
       "tier": 2,
       "base": false,
       "divider": false,
-      "apiCount": 146
+      "apiCount": 145
     },
     {
       "id": 30919798,
@@ -70,7 +70,7 @@
       "tier": 5,
       "base": false,
       "divider": false,
-      "apiCount": 107
+      "apiCount": 108
     },
     {
       "id": 30919801,
@@ -79,7 +79,7 @@
       "tier": 6,
       "base": false,
       "divider": false,
-      "apiCount": 28
+      "apiCount": 27
     },
     {
       "id": 105852384,
@@ -172,14 +172,14 @@
       "apiCount": 1
     }
   ],
-  "generatedAt": 1791997315513,
+  "generatedAt": 1792013650772,
   "trackingSince": 1785940060717,
-  "trackedDays": 70.1,
-  "snapshotCount": 254,
-  "eventCount": 1402,
-  "trackedMembers": 1108,
-  "activeMembers": 968,
-  "departedMembers": 140,
+  "trackedDays": 70.3,
+  "snapshotCount": 255,
+  "eventCount": 1412,
+  "trackedMembers": 1112,
+  "activeMembers": 973,
+  "departedMembers": 139,
   "bootstrapped": 587,
   "shards": 16
 }

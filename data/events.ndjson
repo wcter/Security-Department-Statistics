@@ -1400,3 +1400,13 @@
 {"t":"2026-10-13T00:32:05.459Z","type":"join","id":2380035119,"u":"evilBunnyFromDaBronx","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-14T04:42:13.645Z","type":"leave","id":947342695,"u":"aroko12","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-10-14T11:40:49.243Z","type":"leave","id":61270163,"u":"BumbuSolace","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"demote","id":608680174,"u":"viktorex55","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":70.296}
+{"t":"2026-10-14T21:34:05.496Z","type":"promote","id":2040721716,"u":"charliecokezero","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":7.35}
+{"t":"2026-10-14T21:34:05.496Z","type":"join","id":94569689,"u":"XDroid12","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"rejoin","id":1903096561,"u":"TDHappySmart","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"demote","id":1903096561,"u":"TDHappySmart","from":30,"to":1,"fromRoleId":30919798,"roleId":70762197,"fromName":"Security Agent","toName":"Security Intern","heldDays":0}
+{"t":"2026-10-14T21:34:05.496Z","type":"join","id":10826101424,"u":"Tyrantois_26","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"rejoin","id":962488756,"u":"Yourfellow_Canadian","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"join","id":1344939669,"u":"gamerthatguy","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"join","id":1915884565,"u":"DollOfMelancholy","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-14T21:34:05.496Z","type":"leave","id":1959939210,"u":"swatboy9765","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
