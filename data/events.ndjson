@@ -1399,3 +1399,4 @@
 {"t":"2026-10-13T00:32:05.459Z","type":"join","id":965481533,"u":"Nebula0933","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-13T00:32:05.459Z","type":"join","id":2380035119,"u":"evilBunnyFromDaBronx","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-14T04:42:13.645Z","type":"leave","id":947342695,"u":"aroko12","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-10-14T11:40:49.243Z","type":"leave","id":61270163,"u":"BumbuSolace","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
