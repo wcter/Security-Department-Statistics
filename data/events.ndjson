@@ -1412,3 +1412,4 @@
 {"t":"2026-10-14T21:34:05.496Z","type":"leave","id":1959939210,"u":"swatboy9765","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-15T04:24:17.675Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.285}
 {"t":"2026-10-15T04:24:17.675Z","type":"leave","id":413770953,"u":"Benji1210","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-10-15T21:16:02.797Z","type":"promote","id":3687130514,"u":"SympathyArabian","from":50,"to":100,"fromRoleId":135248009,"roleId":105852384,"fromName":"Security Sentry","toName":"Security Corporal","heldDays":3.978}
