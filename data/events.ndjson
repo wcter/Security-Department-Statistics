@@ -1410,3 +1410,5 @@
 {"t":"2026-10-14T21:34:05.496Z","type":"join","id":1344939669,"u":"gamerthatguy","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-14T21:34:05.496Z","type":"join","id":1915884565,"u":"DollOfMelancholy","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-14T21:34:05.496Z","type":"leave","id":1959939210,"u":"swatboy9765","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-15T04:24:17.675Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.285}
+{"t":"2026-10-15T04:24:17.675Z","type":"leave","id":413770953,"u":"Benji1210","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
