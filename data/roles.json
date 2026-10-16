@@ -32,21 +32,21 @@
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 185,
+    "memberCount": 183,
     "color": 0
   },
   {
     "id": 135066020,
     "name": "Security Guard",
     "rank": 40,
-    "memberCount": 119,
+    "memberCount": 120,
     "color": 0
   },
   {
     "id": 135248009,
     "name": "Security Sentry",
     "rank": 50,
-    "memberCount": 107,
+    "memberCount": 108,
     "color": 0
   },
   {
@@ -88,7 +88,7 @@
     "id": 30919837,
     "name": "Chief of Security",
     "rank": 180,
-    "memberCount": 1,
+    "memberCount": 0,
     "color": 0
   },
   {

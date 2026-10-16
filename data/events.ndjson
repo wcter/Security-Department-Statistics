@@ -1414,3 +1414,6 @@
 {"t":"2026-10-15T04:24:17.675Z","type":"leave","id":413770953,"u":"Benji1210","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
 {"t":"2026-10-15T21:16:02.797Z","type":"promote","id":3687130514,"u":"SympathyArabian","from":50,"to":100,"fromRoleId":135248009,"roleId":105852384,"fromName":"Security Sentry","toName":"Security Corporal","heldDays":3.978}
 {"t":"2026-10-16T04:19:16.184Z","type":"rejoin","id":7820041650,"u":"YGZSFriztche","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-16T16:31:28.654Z","type":"promote","id":2532519167,"u":"Shadow275685","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.463}
+{"t":"2026-10-16T16:31:28.654Z","type":"promote","id":411145396,"u":"Iliketrains278910","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":25.825}
+{"t":"2026-10-16T16:31:28.654Z","type":"promote","id":1323683844,"u":"dylmarshey","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.803}
