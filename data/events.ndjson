@@ -1417,3 +1417,9 @@
 {"t":"2026-10-16T16:31:28.654Z","type":"promote","id":2532519167,"u":"Shadow275685","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.463}
 {"t":"2026-10-16T16:31:28.654Z","type":"promote","id":411145396,"u":"Iliketrains278910","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":25.825}
 {"t":"2026-10-16T16:31:28.654Z","type":"promote","id":1323683844,"u":"dylmarshey","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.803}
+{"t":"2026-10-16T20:56:32.645Z","type":"join","id":11156538311,"u":"Muadh4ever","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-16T20:56:32.645Z","type":"join","id":3413409535,"u":"BuildIntoCopy10","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-16T20:56:32.645Z","type":"join","id":301375303,"u":"Kaninaa","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-16T20:56:32.645Z","type":"join","id":1767139969,"u":"roblox_user_1767139969","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-16T20:56:32.645Z","type":"join","id":4839023133,"u":"INTELLIGENCE_SPEAR","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-16T20:56:32.645Z","type":"join","id":1858032811,"u":"V_ictis","to":1,"roleId":70762197,"toName":"Security Intern"}
