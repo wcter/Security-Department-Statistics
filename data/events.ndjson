@@ -1433,3 +1433,6 @@
 {"t":"2026-10-17T10:32:00.428Z","type":"promote","id":4142067807,"u":"RuneIndex","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.204}
 {"t":"2026-10-17T10:32:00.428Z","type":"promote","id":962488756,"u":"Yourfellow_Canadian","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.54}
 {"t":"2026-10-17T10:32:00.428Z","type":"leave","id":516354803,"u":"Deathskull20100","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-17T20:28:48.338Z","type":"promote","id":912496365,"u":"894x68","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":73.251}
+{"t":"2026-10-17T20:28:48.338Z","type":"promote","id":103810815,"u":"Gejmr140","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.615}
+{"t":"2026-10-17T20:28:48.338Z","type":"promote","id":612166975,"u":"DAMAC3Real","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.662}
