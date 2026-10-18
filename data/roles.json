@@ -39,14 +39,14 @@
     "id": 135066020,
     "name": "Security Guard",
     "rank": 40,
-    "memberCount": 123,
+    "memberCount": 122,
     "color": 0
   },
   {
     "id": 135248009,
     "name": "Security Sentry",
     "rank": 50,
-    "memberCount": 109,
+    "memberCount": 111,
     "color": 0
   },
   {
@@ -60,7 +60,7 @@
     "id": 105852384,
     "name": "Security Corporal",
     "rank": 100,
-    "memberCount": 22,
+    "memberCount": 21,
     "color": 0
   },
   {

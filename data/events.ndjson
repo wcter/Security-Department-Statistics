@@ -1436,3 +1436,6 @@
 {"t":"2026-10-17T20:28:48.338Z","type":"promote","id":912496365,"u":"894x68","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":73.251}
 {"t":"2026-10-17T20:28:48.338Z","type":"promote","id":103810815,"u":"Gejmr140","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.615}
 {"t":"2026-10-17T20:28:48.338Z","type":"promote","id":612166975,"u":"DAMAC3Real","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.662}
+{"t":"2026-10-18T04:18:07.309Z","type":"demote","id":2242650840,"u":"dhoom598","from":100,"to":50,"fromRoleId":105852384,"roleId":135248009,"fromName":"Security Corporal","toName":"Security Sentry","heldDays":73.577}
+{"t":"2026-10-18T04:18:07.309Z","type":"promote","id":1123750762,"u":"52uj29co42","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.286}
+{"t":"2026-10-18T04:18:07.309Z","type":"leave","id":260594988,"u":"ZeusimusLukey99","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
