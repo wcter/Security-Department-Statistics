@@ -1440,3 +1440,11 @@
 {"t":"2026-10-18T04:18:07.309Z","type":"promote","id":1123750762,"u":"52uj29co42","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":24.286}
 {"t":"2026-10-18T04:18:07.309Z","type":"leave","id":260594988,"u":"ZeusimusLukey99","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-18T10:53:29.562Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":16.512}
+{"t":"2026-10-18T15:46:12.238Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.203}
+{"t":"2026-10-18T15:46:12.238Z","type":"rename","id":2033415853,"u":"Rito_trn","from":"Kapi948284"}
+{"t":"2026-10-18T15:46:12.238Z","type":"join","id":1926499277,"u":"culbc","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-18T15:46:12.238Z","type":"join","id":5768089389,"u":"totallynotsus_08","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-18T15:46:12.238Z","type":"join","id":7229083705,"u":"Lukybear_13","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-18T15:46:12.238Z","type":"join","id":653832391,"u":"ImminentDumbGuy","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-18T15:46:12.238Z","type":"join","id":230451832,"u":"Mellisibarra","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-18T15:46:12.238Z","type":"leave","id":3042789275,"u":"BaconOfTOH23","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
