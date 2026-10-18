@@ -1448,3 +1448,4 @@
 {"t":"2026-10-18T15:46:12.238Z","type":"join","id":653832391,"u":"ImminentDumbGuy","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-18T15:46:12.238Z","type":"join","id":230451832,"u":"Mellisibarra","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-18T15:46:12.238Z","type":"leave","id":3042789275,"u":"BaconOfTOH23","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-18T20:30:56.502Z","type":"leave","id":645199628,"u":"Merseyrail_508","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
