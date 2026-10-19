@@ -1449,3 +1449,7 @@
 {"t":"2026-10-18T15:46:12.238Z","type":"join","id":230451832,"u":"Mellisibarra","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-18T15:46:12.238Z","type":"leave","id":3042789275,"u":"BaconOfTOH23","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-18T20:30:56.502Z","type":"leave","id":645199628,"u":"Merseyrail_508","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-10-19T04:27:00.286Z","type":"promote","id":2716071435,"u":"Saltypool2alt","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":11.947}
+{"t":"2026-10-19T04:27:00.286Z","type":"leave","id":193966587,"u":"exavein","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-19T04:27:00.286Z","type":"leave","id":1915884565,"u":"DollOfMelancholy","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-19T04:27:00.286Z","type":"leave","id":10826101424,"u":"Tyrantois_26","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
