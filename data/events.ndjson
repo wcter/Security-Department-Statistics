@@ -1453,3 +1453,7 @@
 {"t":"2026-10-19T04:27:00.286Z","type":"leave","id":193966587,"u":"exavein","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-19T04:27:00.286Z","type":"leave","id":1915884565,"u":"DollOfMelancholy","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-19T04:27:00.286Z","type":"leave","id":10826101424,"u":"Tyrantois_26","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-19T22:16:00.934Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.271}
+{"t":"2026-10-19T22:16:00.934Z","type":"promote","id":552375439,"u":"Kamikonda07","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":19.005}
+{"t":"2026-10-19T22:16:00.934Z","type":"promote","id":7126919436,"u":"merk_c","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.68}
+{"t":"2026-10-19T22:16:00.934Z","type":"promote","id":1666246563,"u":"LiquidRoachSauce","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.03}
