@@ -1457,3 +1457,9 @@
 {"t":"2026-10-19T22:16:00.934Z","type":"promote","id":552375439,"u":"Kamikonda07","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":19.005}
 {"t":"2026-10-19T22:16:00.934Z","type":"promote","id":7126919436,"u":"merk_c","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.68}
 {"t":"2026-10-19T22:16:00.934Z","type":"promote","id":1666246563,"u":"LiquidRoachSauce","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.03}
+{"t":"2026-10-20T04:37:45.390Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.265}
+{"t":"2026-10-20T04:37:45.390Z","type":"rename","id":1737432080,"u":"ymncookie","from":"chzxjchzjc"}
+{"t":"2026-10-20T04:37:45.390Z","type":"rename","id":818826806,"u":"Nickeyyy200","from":"Nickor200"}
+{"t":"2026-10-20T04:37:45.390Z","type":"rename","id":1666246563,"u":"RoachWithCold","from":"LiquidRoachSauce"}
+{"t":"2026-10-20T04:37:45.390Z","type":"leave","id":493407972,"u":"COMADOEMK","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-10-20T04:37:45.390Z","type":"leave","id":658219324,"u":"Capitan_Cody","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
