@@ -1474,3 +1474,14 @@
 {"t":"2026-10-20T21:31:21.239Z","type":"join","id":8594342386,"u":"Boxer6th","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-20T21:31:21.239Z","type":"join","id":1510613018,"u":"TheEpicNate123","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-20T21:31:21.239Z","type":"join","id":315764216,"u":"Plapi123","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":419357838,"u":"DAMAC4Real","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":46.011}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":3114987413,"u":"AgentOxford10","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.956}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":468260779,"u":"Denisdeile2","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":31.529}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":1522880285,"u":"Cosmic_Milkyway240","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":23.973}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":818826806,"u":"Nickeyyy200","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":29.274}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":372243947,"u":"GAELVIVIEN416","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.29}
+{"t":"2026-10-21T04:30:39.069Z","type":"promote","id":1516298512,"u":"evactie","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":13.949}
+{"t":"2026-10-21T04:30:39.069Z","type":"join","id":3945445794,"u":"Zaerned","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-21T04:30:39.069Z","type":"join","id":1426798912,"u":"wasted_mercy","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-21T04:30:39.069Z","type":"rejoin","id":1576349771,"u":"I_Kni","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-21T04:30:39.069Z","type":"leave","id":1198966470,"u":"MacNicke","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
