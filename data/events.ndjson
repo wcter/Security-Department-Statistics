@@ -1509,3 +1509,12 @@
 {"t":"2026-10-22T21:27:37.666Z","type":"promote","id":1737432080,"u":"ymncookie","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":25.68}
 {"t":"2026-10-22T21:27:37.666Z","type":"join","id":643073522,"u":"Meguuuu1","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-22T21:27:37.666Z","type":"join","id":863041496,"u":"Sebastian_YT0","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-23T04:34:06.585Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":2.997}
+{"t":"2026-10-23T04:34:06.585Z","type":"promote","id":11443493981,"u":"darkninja1384728","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":75.092}
+{"t":"2026-10-23T04:34:06.585Z","type":"promote","id":5408786539,"u":"alqemizst","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":22.267}
+{"t":"2026-10-23T04:34:06.585Z","type":"rename","id":843253320,"u":"har_vestter","from":"pzivex"}
+{"t":"2026-10-23T04:34:06.585Z","type":"promote","id":508262901,"u":"Kalebe730","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":38.284}
+{"t":"2026-10-23T04:34:06.585Z","type":"promote","id":88322389,"u":"Syfriea","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":21.648}
+{"t":"2026-10-23T04:34:06.585Z","type":"promote","id":9156827488,"u":"DerBrosAccount","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":12.293}
+{"t":"2026-10-23T04:34:06.585Z","type":"promote","id":12201921,"u":"et_3li","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":14.947}
+{"t":"2026-10-23T04:34:06.585Z","type":"join","id":1191529704,"u":"KeyonLlywelyn","to":1,"roleId":70762197,"toName":"Security Intern"}
