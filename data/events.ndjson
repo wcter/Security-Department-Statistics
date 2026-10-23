@@ -1526,3 +1526,7 @@
 {"t":"2026-10-23T16:56:41.085Z","type":"join","id":435425001,"u":"Hypnotic_Jayy","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-23T16:56:41.085Z","type":"rejoin","id":2543942480,"u":"GDP12041","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-23T16:56:41.085Z","type":"demote","id":2543942480,"u":"GDP12041","from":20,"to":1,"fromRoleId":30919761,"roleId":70762197,"fromName":"Security Cadet","toName":"Security Intern","heldDays":0}
+{"t":"2026-10-23T21:18:46.297Z","type":"rename","id":7015646915,"u":"roblox_user_7015646915","from":"p8syeter"}
+{"t":"2026-10-23T21:18:46.297Z","type":"promote","id":103084180,"u":"Betasetic","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":12.99}
+{"t":"2026-10-23T21:18:46.297Z","type":"join","id":10206933444,"u":"Neonnov1594","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-23T21:18:46.297Z","type":"leave","id":5444511370,"u":"BasilArsi","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
