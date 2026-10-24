@@ -1543,3 +1543,7 @@
 {"t":"2026-10-24T04:24:33.343Z","type":"promote","id":2543942480,"u":"GDP12041","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.478}
 {"t":"2026-10-24T10:47:38.651Z","type":"leave","id":283164019,"u":"KFN1105","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
 {"t":"2026-10-24T10:47:38.651Z","type":"leave","id":513606917,"u":"v_lusts","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-10-24T15:49:30.238Z","type":"promote","id":5369384309,"u":"mitchell77767","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":33.462}
+{"t":"2026-10-24T15:49:30.238Z","type":"promote","id":1264648403,"u":"ChickenKing1702","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":20.423}
+{"t":"2026-10-24T15:49:30.238Z","type":"promote","id":230451832,"u":"Mellisibarra","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.002}
+{"t":"2026-10-24T15:49:30.238Z","type":"promote","id":5719466964,"u":"rzntify","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.763}
