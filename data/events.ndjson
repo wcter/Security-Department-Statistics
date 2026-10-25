@@ -1564,3 +1564,15 @@
 {"t":"2026-10-25T04:28:12.861Z","type":"promote","id":4677949863,"u":"sweatyboy8888","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.289}
 {"t":"2026-10-25T04:28:12.861Z","type":"leave","id":8142438818,"u":"YoutuberNxxtro","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-25T11:13:31.230Z","type":"leave","id":236703941,"u":"milosz2011krz","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-10-25T20:43:50.520Z","type":"promote","id":1266262074,"u":"nijaxxe","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":14.631}
+{"t":"2026-10-25T20:43:50.520Z","type":"promote","id":2350089074,"u":"piotrek131231","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":12.841}
+{"t":"2026-10-25T20:43:50.520Z","type":"promote","id":965481533,"u":"Nebula0933","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":12.841}
+{"t":"2026-10-25T20:43:50.520Z","type":"promote","id":10206933444,"u":"Neonnov1594","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.976}
+{"t":"2026-10-25T20:43:50.520Z","type":"join","id":9974295964,"u":"corcoseis","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T20:43:50.520Z","type":"rejoin","id":11201979907,"u":"ClearlyKiv","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T20:43:50.520Z","type":"join","id":138176886,"u":"Xansane","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T20:43:50.520Z","type":"join","id":2063081138,"u":"Dartilius_Monkus","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T20:43:50.520Z","type":"rejoin","id":946738760,"u":"Willyrexelpro4","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T20:43:50.520Z","type":"join","id":399941702,"u":"ShirouAjisai","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T20:43:50.520Z","type":"rejoin","id":236703941,"u":"milosz2011krz","to":40,"roleId":135066020,"toName":"Security Guard"}
+{"t":"2026-10-25T20:43:50.520Z","type":"join","id":3338445980,"u":"UnionPato","to":1,"roleId":70762197,"toName":"Security Intern"}
