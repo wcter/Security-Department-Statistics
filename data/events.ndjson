@@ -1555,3 +1555,11 @@
 {"t":"2026-10-24T20:38:28.044Z","type":"promote","id":2266807993,"u":"bretruler","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.673}
 {"t":"2026-10-24T20:38:28.044Z","type":"promote","id":3413409535,"u":"BuildIntoCopy10","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.149}
 {"t":"2026-10-24T20:38:28.044Z","type":"join","id":11733314007,"u":"exxformed","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-25T04:28:12.861Z","type":"rename","id":4583028332,"u":"ymnricardo","from":"LiquidStableSauce"}
+{"t":"2026-10-25T04:28:12.861Z","type":"promote","id":3609332759,"u":"NOTIMETOALT12","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":31.995}
+{"t":"2026-10-25T04:28:12.861Z","type":"promote","id":424991534,"u":"NoRyeOrReason","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":22.265}
+{"t":"2026-10-25T04:28:12.861Z","type":"promote","id":869641371,"u":"Jacob_Hallboi","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":21.973}
+{"t":"2026-10-25T04:28:12.861Z","type":"promote","id":920773325,"u":"hervde","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":17.228}
+{"t":"2026-10-25T04:28:12.861Z","type":"promote","id":4172425303,"u":"Bnath0821","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":15.939}
+{"t":"2026-10-25T04:28:12.861Z","type":"promote","id":4677949863,"u":"sweatyboy8888","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.289}
+{"t":"2026-10-25T04:28:12.861Z","type":"leave","id":8142438818,"u":"YoutuberNxxtro","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
