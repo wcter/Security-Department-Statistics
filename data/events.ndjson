@@ -1563,3 +1563,4 @@
 {"t":"2026-10-25T04:28:12.861Z","type":"promote","id":4172425303,"u":"Bnath0821","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":15.939}
 {"t":"2026-10-25T04:28:12.861Z","type":"promote","id":4677949863,"u":"sweatyboy8888","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":4.289}
 {"t":"2026-10-25T04:28:12.861Z","type":"leave","id":8142438818,"u":"YoutuberNxxtro","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-25T11:13:31.230Z","type":"leave","id":236703941,"u":"milosz2011krz","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
