@@ -1576,3 +1576,8 @@
 {"t":"2026-10-25T20:43:50.520Z","type":"join","id":399941702,"u":"ShirouAjisai","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-25T20:43:50.520Z","type":"rejoin","id":236703941,"u":"milosz2011krz","to":40,"roleId":135066020,"toName":"Security Guard"}
 {"t":"2026-10-25T20:43:50.520Z","type":"join","id":3338445980,"u":"UnionPato","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-26T04:31:19.392Z","type":"promote","id":953712243,"u":"Pure049","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.002}
+{"t":"2026-10-26T04:31:19.392Z","type":"promote","id":11443493981,"u":"darkninja1384728","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.998}
+{"t":"2026-10-26T04:31:19.392Z","type":"promote","id":4888818373,"u":"Meapmr_1","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.002}
+{"t":"2026-10-26T04:31:19.392Z","type":"promote","id":2543942480,"u":"GDP12041","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.005}
+{"t":"2026-10-26T04:31:19.392Z","type":"leave","id":9399448634,"u":"Orbit_Turbo35","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
