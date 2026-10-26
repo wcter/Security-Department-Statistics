@@ -1581,3 +1581,4 @@
 {"t":"2026-10-26T04:31:19.392Z","type":"promote","id":4888818373,"u":"Meapmr_1","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.002}
 {"t":"2026-10-26T04:31:19.392Z","type":"promote","id":2543942480,"u":"GDP12041","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.005}
 {"t":"2026-10-26T04:31:19.392Z","type":"leave","id":9399448634,"u":"Orbit_Turbo35","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-10-26T12:47:01.294Z","type":"leave","id":950019071,"u":"KyloBlue10","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
