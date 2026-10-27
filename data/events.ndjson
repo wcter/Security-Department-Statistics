@@ -1592,3 +1592,8 @@
 {"t":"2026-10-26T22:35:07.090Z","type":"promote","id":130823993,"u":"SparklyFatality","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.044}
 {"t":"2026-10-26T22:35:07.090Z","type":"promote","id":3614371749,"u":"D4RKNE52","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.235}
 {"t":"2026-10-26T22:35:07.090Z","type":"promote","id":3338445980,"u":"UnionPato","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.077}
+{"t":"2026-10-27T04:49:57.755Z","type":"promote","id":7229083705,"u":"Lukybear_13","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":8.544}
+{"t":"2026-10-27T04:49:57.755Z","type":"promote","id":127792987,"u":"Smartguy8529","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.305}
+{"t":"2026-10-27T04:49:57.755Z","type":"promote","id":315764216,"u":"Plapi123","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.305}
+{"t":"2026-10-27T04:49:57.755Z","type":"promote","id":1454789315,"u":"whyme1285","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.015}
+{"t":"2026-10-27T04:49:57.755Z","type":"leave","id":1738310200,"u":"typhoidro","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
