@@ -1601,3 +1601,5 @@
 {"t":"2026-10-27T17:53:42.124Z","type":"promote","id":1652104613,"u":"MasterStreeter","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":37.548}
 {"t":"2026-10-27T17:53:42.124Z","type":"promote","id":2893782340,"u":"Pollo_orp","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":14.723}
 {"t":"2026-10-27T17:53:42.124Z","type":"leave","id":2380035119,"u":"evilBunnyFromDaBronx","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-27T22:05:41.165Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":4.443}
+{"t":"2026-10-27T22:05:41.165Z","type":"promote","id":3808864113,"u":"udhdhdgiw","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":20.682}
