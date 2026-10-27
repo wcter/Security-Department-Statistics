@@ -1597,3 +1597,7 @@
 {"t":"2026-10-27T04:49:57.755Z","type":"promote","id":315764216,"u":"Plapi123","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.305}
 {"t":"2026-10-27T04:49:57.755Z","type":"promote","id":1454789315,"u":"whyme1285","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.015}
 {"t":"2026-10-27T04:49:57.755Z","type":"leave","id":1738310200,"u":"typhoidro","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-27T17:53:42.124Z","type":"promote","id":3412248919,"u":"mra9812","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":52.569}
+{"t":"2026-10-27T17:53:42.124Z","type":"promote","id":1652104613,"u":"MasterStreeter","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":37.548}
+{"t":"2026-10-27T17:53:42.124Z","type":"promote","id":2893782340,"u":"Pollo_orp","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":14.723}
+{"t":"2026-10-27T17:53:42.124Z","type":"leave","id":2380035119,"u":"evilBunnyFromDaBronx","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
