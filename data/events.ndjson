@@ -1609,3 +1609,4 @@
 {"t":"2026-10-28T05:25:17.612Z","type":"promote","id":301940588,"u":"JamesNinja202","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":15.204}
 {"t":"2026-10-28T05:25:17.612Z","type":"promote","id":884187822,"u":"maxliezs","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.042}
 {"t":"2026-10-28T05:25:17.612Z","type":"leave","id":752397955,"u":"R_sxf","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-28T12:40:08.006Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.302}
