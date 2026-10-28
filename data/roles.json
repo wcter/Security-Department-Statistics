@@ -10,7 +10,7 @@
     "id": 12884901889,
     "name": "Member",
     "rank": 1,
-    "memberCount": 1004,
+    "memberCount": 1009,
     "isBase": true,
     "color": 0
   },
@@ -18,49 +18,49 @@
     "id": 70762197,
     "name": "Security Intern",
     "rank": 1,
-    "memberCount": 349,
+    "memberCount": 355,
     "color": 0
   },
   {
     "id": 30919761,
     "name": "Security Cadet",
     "rank": 20,
-    "memberCount": 164,
+    "memberCount": 162,
     "color": 0
   },
   {
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 176,
+    "memberCount": 177,
     "color": 0
   },
   {
     "id": 135066020,
     "name": "Security Guard",
     "rank": 40,
-    "memberCount": 123,
+    "memberCount": 122,
     "color": 0
   },
   {
     "id": 135248009,
     "name": "Security Sentry",
     "rank": 50,
-    "memberCount": 126,
+    "memberCount": 127,
     "color": 0
   },
   {
     "id": 30919801,
     "name": "Security Specialist",
     "rank": 60,
-    "memberCount": 23,
+    "memberCount": 22,
     "color": 0
   },
   {
     "id": 105852384,
     "name": "Security Corporal",
     "rank": 100,
-    "memberCount": 23,
+    "memberCount": 24,
     "color": 0
   },
   {

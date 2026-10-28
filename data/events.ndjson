@@ -1610,3 +1610,13 @@
 {"t":"2026-10-28T05:25:17.612Z","type":"promote","id":884187822,"u":"maxliezs","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.042}
 {"t":"2026-10-28T05:25:17.612Z","type":"leave","id":752397955,"u":"R_sxf","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
 {"t":"2026-10-28T12:40:08.006Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.302}
+{"t":"2026-10-28T22:29:11.256Z","type":"promote","id":2386452198,"u":"KARAM201154","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":53.76}
+{"t":"2026-10-28T22:29:11.256Z","type":"promote","id":4901855977,"u":"J0jesed","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":31.722}
+{"t":"2026-10-28T22:29:11.256Z","type":"promote","id":5369384309,"u":"mitchell77767","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.278}
+{"t":"2026-10-28T22:29:11.256Z","type":"promote","id":130823993,"u":"SparklyFatality","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":1.996}
+{"t":"2026-10-28T22:29:11.256Z","type":"join","id":963494174,"u":"buildercosko4","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-28T22:29:11.256Z","type":"join","id":69016442,"u":"connor02021","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-28T22:29:11.256Z","type":"join","id":80667819,"u":"BatbloxWasTaken","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-28T22:29:11.256Z","type":"join","id":97088096,"u":"Hexarik","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-28T22:29:11.256Z","type":"rejoin","id":11003053907,"u":"Flaskerco","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-28T22:29:11.256Z","type":"join","id":2450491946,"u":"dexter20_17","to":1,"roleId":70762197,"toName":"Security Intern"}
