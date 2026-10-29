@@ -1620,3 +1620,14 @@
 {"t":"2026-10-28T22:29:11.256Z","type":"join","id":97088096,"u":"Hexarik","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-28T22:29:11.256Z","type":"rejoin","id":11003053907,"u":"Flaskerco","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-28T22:29:11.256Z","type":"join","id":2450491946,"u":"dexter20_17","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.704}
+{"t":"2026-10-29T05:34:25.119Z","type":"promote","id":1926499277,"u":"culbc","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.575}
+{"t":"2026-10-29T05:34:25.119Z","type":"promote","id":2450491946,"u":"dexter20_17","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.295}
+{"t":"2026-10-29T05:34:25.119Z","type":"join","id":565577999,"u":"JuliusRegelkrone","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"join","id":706026394,"u":"Huckjusta","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"join","id":182284036,"u":"Apostrasia","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"join","id":5215387070,"u":"superlivia10alt","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"rejoin","id":950019071,"u":"KyloBlue10","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"demote","id":950019071,"u":"KyloBlue10","from":30,"to":1,"fromRoleId":30919798,"roleId":70762197,"fromName":"Security Agent","toName":"Security Intern","heldDays":0}
+{"t":"2026-10-29T05:34:25.119Z","type":"join","id":3100184802,"u":"Fail_kyano","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-29T05:34:25.119Z","type":"leave","id":335117904,"u":"Cody2011Cody","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
