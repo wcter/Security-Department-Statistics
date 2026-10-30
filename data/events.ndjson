@@ -1643,3 +1643,6 @@
 {"t":"2026-10-30T05:33:42.181Z","type":"join","id":518247036,"u":"Sublimality","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-30T05:33:42.181Z","type":"join","id":3134277303,"u":"BornToKill670","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-10-30T05:33:42.181Z","type":"leave","id":3958578787,"u":"XYZJB8","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-30T12:40:51.656Z","type":"promote","id":180494144,"u":"MrJ_Freeze","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":20.293}
+{"t":"2026-10-30T12:40:51.656Z","type":"promote","id":4142067807,"u":"RuneIndex","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":13.089}
+{"t":"2026-10-30T12:40:51.656Z","type":"promote","id":230451832,"u":"Mellisibarra","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.869}
