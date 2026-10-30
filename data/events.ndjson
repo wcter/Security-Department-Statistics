@@ -1633,3 +1633,13 @@
 {"t":"2026-10-29T05:34:25.119Z","type":"leave","id":335117904,"u":"Cody2011Cody","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-10-29T12:48:55.149Z","type":"leave","id":311052828,"u":"LorD_N30","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
 {"t":"2026-10-29T22:40:44.011Z","type":"leave","id":9974295964,"u":"corcoseis","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-10-30T05:33:42.181Z","type":"promote","id":1416222438,"u":"ChristmasChrisman","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":45.035}
+{"t":"2026-10-30T05:33:42.181Z","type":"promote","id":920773325,"u":"hervde","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.045}
+{"t":"2026-10-30T05:33:42.181Z","type":"promote","id":1915884565,"u":"DollOfMelancholy","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.048}
+{"t":"2026-10-30T05:33:42.181Z","type":"promote","id":3338445980,"u":"UnionPato","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.291}
+{"t":"2026-10-30T05:33:42.181Z","type":"join","id":3238246309,"u":"proscp_account","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-30T05:33:42.181Z","type":"join","id":2572646336,"u":"cavemanpolice","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-30T05:33:42.181Z","type":"join","id":1509047607,"u":"gravityguy101iscool","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-30T05:33:42.181Z","type":"join","id":518247036,"u":"Sublimality","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-30T05:33:42.181Z","type":"join","id":3134277303,"u":"BornToKill670","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-10-30T05:33:42.181Z","type":"leave","id":3958578787,"u":"XYZJB8","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
