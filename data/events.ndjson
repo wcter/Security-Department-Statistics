@@ -1646,3 +1646,12 @@
 {"t":"2026-10-30T12:40:51.656Z","type":"promote","id":180494144,"u":"MrJ_Freeze","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":20.293}
 {"t":"2026-10-30T12:40:51.656Z","type":"promote","id":4142067807,"u":"RuneIndex","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":13.089}
 {"t":"2026-10-30T12:40:51.656Z","type":"promote","id":230451832,"u":"Mellisibarra","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.869}
+{"t":"2026-10-31T21:24:09.643Z","type":"demote","id":3580139394,"u":"Viffy_5","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":56.715}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":968429207,"u":"Google0526","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":87.289}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":1319223747,"u":"KubaNowy12","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":28.219}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":1417264589,"u":"sebiapophis","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":30.969}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":1015199485,"u":"corrat0r","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":19.984}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":1366314785,"u":"TaskForce_Delta5","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":40.694}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":1576349771,"u":"I_Kni","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.704}
+{"t":"2026-10-31T21:24:09.643Z","type":"promote","id":11733314007,"u":"exxformed","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.032}
+{"t":"2026-10-31T21:24:09.643Z","type":"rename","id":518247036,"u":"John_DClass","from":"Sublimality"}
