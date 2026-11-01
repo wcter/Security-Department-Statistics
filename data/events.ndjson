@@ -1655,3 +1655,8 @@
 {"t":"2026-10-31T21:24:09.643Z","type":"promote","id":1576349771,"u":"I_Kni","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":10.704}
 {"t":"2026-10-31T21:24:09.643Z","type":"promote","id":11733314007,"u":"exxformed","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":7.032}
 {"t":"2026-10-31T21:24:09.643Z","type":"rename","id":518247036,"u":"John_DClass","from":"Sublimality"}
+{"t":"2026-11-01T05:49:05.845Z","type":"promote","id":454413902,"u":"Velkorin","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":27.733}
+{"t":"2026-11-01T05:49:05.845Z","type":"promote","id":794840445,"u":"Rexythere","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":19.22}
+{"t":"2026-11-01T05:49:05.845Z","type":"promote","id":313122840,"u":"Retreiverblox","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.056}
+{"t":"2026-11-01T05:49:05.845Z","type":"leave","id":478350333,"u":"deadgoalkeeper2","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-01T05:49:05.845Z","type":"leave","id":1767139969,"u":"roblox_user_1767139969","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
