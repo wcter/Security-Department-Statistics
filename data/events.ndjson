@@ -1685,3 +1685,6 @@
 {"t":"2026-11-01T21:56:42.358Z","type":"rejoin","id":346216510,"u":"CrusherVZ","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-01T21:56:42.358Z","type":"join","id":5332995167,"u":"jerpaoli","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-01T21:56:42.358Z","type":"leave","id":418539409,"u":"robuxmaster122221","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-02T05:48:39.571Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.328}
+{"t":"2026-11-02T05:48:39.571Z","type":"promote","id":103810815,"u":"Gejmr140","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":15.389}
+{"t":"2026-11-02T05:48:39.571Z","type":"promote","id":1666246563,"u":"RoachWithCold","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":13.314}
