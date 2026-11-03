@@ -1688,3 +1688,11 @@
 {"t":"2026-11-02T05:48:39.571Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.328}
 {"t":"2026-11-02T05:48:39.571Z","type":"promote","id":103810815,"u":"Gejmr140","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":15.389}
 {"t":"2026-11-02T05:48:39.571Z","type":"promote","id":1666246563,"u":"RoachWithCold","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":13.314}
+{"t":"2026-11-03T00:53:01.721Z","type":"demote","id":234810404,"u":"Toximay","from":255,"to":1,"fromRoleId":30919759,"roleId":12884901889,"fromName":"The Administrator","toName":"Member","heldDays":89.434}
+{"t":"2026-11-03T00:53:01.721Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":89.434}
+{"t":"2026-11-03T00:53:01.721Z","type":"demote","id":24529411,"u":"mario102030405","from":254,"to":1,"fromRoleId":523836081,"roleId":12884901889,"fromName":"Chairman of the Council","toName":"Member","heldDays":89.434}
+{"t":"2026-11-03T00:53:01.721Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":4.805}
+{"t":"2026-11-03T00:53:01.721Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":29.527}
+{"t":"2026-11-03T00:53:01.721Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":87.72}
+{"t":"2026-11-03T00:53:01.721Z","type":"rename","id":1416222438,"u":"DAMAC2Real","from":"ChristmasChrisman"}
+{"t":"2026-11-03T00:53:01.721Z","type":"promote","id":1926499277,"u":"culbc","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":4.805}
