@@ -1706,3 +1706,14 @@
 {"t":"2026-11-03T23:12:25.505Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.93}
 {"t":"2026-11-03T23:12:25.505Z","type":"demote","id":190768137,"u":"Arkzockt","from":30,"to":1,"fromRoleId":30919798,"roleId":70762197,"fromName":"Security Agent","toName":"Security Intern","heldDays":61.095}
 {"t":"2026-11-03T23:12:25.505Z","type":"leave","id":1903096561,"u":"TDHappySmart","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-04T06:01:19.330Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":0.284}
+{"t":"2026-11-04T06:01:19.330Z","type":"promote","id":2345636702,"u":"catgirlisawesome16","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":90.648}
+{"t":"2026-11-04T06:01:19.330Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":0.284}
+{"t":"2026-11-04T06:01:19.330Z","type":"promote","id":11443493981,"u":"darkninja1384728","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.062}
+{"t":"2026-11-04T06:01:19.330Z","type":"rename","id":411145396,"u":"DAMAC1Real","from":"Iliketrains278910"}
+{"t":"2026-11-04T06:01:19.330Z","type":"promote","id":3100184802,"u":"Fail_kyano","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":6.019}
+{"t":"2026-11-04T06:01:19.330Z","type":"join","id":11154827179,"u":"NuggetLT3","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-04T06:01:19.330Z","type":"join","id":1771925058,"u":"PoolsAndPizza","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-04T06:01:19.330Z","type":"join","id":76286614,"u":"LoremV2","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-04T06:01:19.330Z","type":"rejoin","id":1767139969,"u":"roblox_user_1767139969","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-04T06:01:19.330Z","type":"rejoin","id":1959939210,"u":"swatboy9765","to":1,"roleId":70762197,"toName":"Security Intern"}
