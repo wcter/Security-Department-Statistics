@@ -1755,3 +1755,5 @@
 {"t":"2026-11-06T06:22:37.498Z","type":"join","id":138389412,"u":"georgebaltino123","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-06T06:22:37.498Z","type":"rejoin","id":1521920600,"u":"mightysharktwo","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-06T06:22:37.498Z","type":"demote","id":1521920600,"u":"mightysharktwo","from":50,"to":1,"fromRoleId":135248009,"roleId":70762197,"fromName":"Security Sentry","toName":"Security Intern","heldDays":0}
+{"t":"2026-11-06T19:15:40.986Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.537}
+{"t":"2026-11-06T19:15:40.986Z","type":"rename","id":565577999,"u":"Vegasxxmerc","from":"JuliusRegelkrone"}
