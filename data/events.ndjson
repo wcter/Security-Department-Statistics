@@ -1769,3 +1769,9 @@
 {"t":"2026-11-07T12:51:17.230Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.733}
 {"t":"2026-11-07T12:51:17.230Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":1.27}
 {"t":"2026-11-07T12:51:17.230Z","type":"promote","id":190768137,"u":"Arkzockt","from":1,"to":30,"fromRoleId":70762197,"roleId":30919798,"fromName":"Security Intern","toName":"Security Agent","heldDays":3.569}
+{"t":"2026-11-07T21:42:36.171Z","type":"promote","id":96185281,"u":"Dr_Luxxe","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.369}
+{"t":"2026-11-07T21:42:36.171Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.369}
+{"t":"2026-11-07T21:42:36.171Z","type":"promote","id":2350089074,"u":"piotrek131231","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":13.041}
+{"t":"2026-11-07T21:42:36.171Z","type":"promote","id":946738760,"u":"Willyrexelpro4","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":2.923}
+{"t":"2026-11-07T21:42:36.171Z","type":"promote","id":3100184802,"u":"Fail_kyano","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.654}
+{"t":"2026-11-07T21:42:36.171Z","type":"leave","id":1685126150,"u":"Melone44_h3","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
