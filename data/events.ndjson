@@ -1765,3 +1765,7 @@
 {"t":"2026-11-07T05:46:48.824Z","type":"join","id":3639465385,"u":"ZenitsuTheFourth4","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-07T05:46:48.824Z","type":"rejoin","id":518247036,"u":"John_DClass","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-07T05:46:48.824Z","type":"join","id":8070924001,"u":"ploku_jrech10","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-07T12:51:17.230Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":1.27}
+{"t":"2026-11-07T12:51:17.230Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.733}
+{"t":"2026-11-07T12:51:17.230Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":1.27}
+{"t":"2026-11-07T12:51:17.230Z","type":"promote","id":190768137,"u":"Arkzockt","from":1,"to":30,"fromRoleId":70762197,"roleId":30919798,"fromName":"Security Intern","toName":"Security Agent","heldDays":3.569}
