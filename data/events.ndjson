@@ -1788,3 +1788,6 @@
 {"t":"2026-11-08T13:12:51.095Z","type":"promote","id":86217781,"u":"Turntapp","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.308}
 {"t":"2026-11-08T13:12:51.095Z","type":"promote","id":674166621,"u":"wcter","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":0.308}
 {"t":"2026-11-08T13:12:51.095Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.308}
+{"t":"2026-11-08T21:56:37.655Z","type":"promote","id":2484605003,"u":"kfzywy","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":79.622}
+{"t":"2026-11-08T21:56:37.655Z","type":"promote","id":2040721716,"u":"charliecokezero","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":6.672}
+{"t":"2026-11-08T21:56:37.655Z","type":"promote","id":3338445980,"u":"UnionPato","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.683}
