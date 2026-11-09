@@ -1805,3 +1805,4 @@
 {"t":"2026-11-09T06:01:37.865Z","type":"join","id":248482188,"u":"Dr_Rixan","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-09T06:01:37.865Z","type":"join","id":882533427,"u":"KDAredboy_21","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-09T06:01:37.865Z","type":"join","id":2633577959,"u":"BrayThisI","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-09T15:59:33.510Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":1.116}
