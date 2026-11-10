@@ -1811,3 +1811,10 @@
 {"t":"2026-11-10T01:26:18.418Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":1.509}
 {"t":"2026-11-10T01:26:18.418Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":1.509}
 {"t":"2026-11-10T01:26:18.418Z","type":"rename","id":612166975,"u":"LucaBookaPartyPooka","from":"DAMAC3Real"}
+{"t":"2026-11-10T14:44:51.385Z","type":"promote","id":96185281,"u":"Dr_Luxxe","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.555}
+{"t":"2026-11-10T14:44:51.385Z","type":"promote","id":86217781,"u":"Turntapp","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.555}
+{"t":"2026-11-10T14:44:51.385Z","type":"promote","id":674166621,"u":"wcter","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":0.555}
+{"t":"2026-11-10T14:44:51.385Z","type":"rename","id":1745553259,"u":"roblox_user_1745553259","from":"Cracker_Cat0"}
+{"t":"2026-11-10T14:44:51.385Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.555}
+{"t":"2026-11-10T14:44:51.385Z","type":"promote","id":2470108839,"u":"Wraithoxia","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":51.956}
+{"t":"2026-11-10T14:44:51.385Z","type":"leave","id":4187717496,"u":"DankmemeZ2213","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
