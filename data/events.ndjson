@@ -1806,3 +1806,8 @@
 {"t":"2026-11-09T06:01:37.865Z","type":"join","id":882533427,"u":"KDAredboy_21","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-09T06:01:37.865Z","type":"join","id":2633577959,"u":"BrayThisI","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-09T15:59:33.510Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":1.116}
+{"t":"2026-11-10T01:26:18.418Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":1.509}
+{"t":"2026-11-10T01:26:18.418Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":0.394}
+{"t":"2026-11-10T01:26:18.418Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":1.509}
+{"t":"2026-11-10T01:26:18.418Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":1.509}
+{"t":"2026-11-10T01:26:18.418Z","type":"rename","id":612166975,"u":"LucaBookaPartyPooka","from":"DAMAC3Real"}
