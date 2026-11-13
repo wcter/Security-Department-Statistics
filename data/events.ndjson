@@ -1848,3 +1848,5 @@
 {"t":"2026-11-12T15:01:35.783Z","type":"join","id":314360566,"u":"GalacticEggo","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-12T23:29:24.331Z","type":"rename","id":3580139394,"u":"RarelyHades","from":"Viffy_5"}
 {"t":"2026-11-12T23:29:24.331Z","type":"leave","id":463872201,"u":"Arthurfiin","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-11-13T06:24:23.009Z","type":"demote","id":116831941,"u":"thinkabledestroyer1","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":99.664}
+{"t":"2026-11-13T06:24:23.009Z","type":"promote","id":1314949915,"u":"aviatorwashere","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":47.052}
