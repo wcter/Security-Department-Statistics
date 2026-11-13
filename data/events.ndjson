@@ -1850,3 +1850,5 @@
 {"t":"2026-11-12T23:29:24.331Z","type":"leave","id":463872201,"u":"Arthurfiin","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
 {"t":"2026-11-13T06:24:23.009Z","type":"demote","id":116831941,"u":"thinkabledestroyer1","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":99.664}
 {"t":"2026-11-13T06:24:23.009Z","type":"promote","id":1314949915,"u":"aviatorwashere","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":47.052}
+{"t":"2026-11-13T19:32:26.727Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":2.23}
+{"t":"2026-11-13T19:32:26.727Z","type":"promote","id":1495642204,"u":"aducobisou","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":47.6}
