@@ -1862,3 +1862,5 @@
 {"t":"2026-11-14T13:24:32.286Z","type":"promote","id":818826806,"u":"Nickeyyy200","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":24.371}
 {"t":"2026-11-14T13:24:32.286Z","type":"leave","id":729230181,"u":"OriginalRy","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-11-14T13:24:32.286Z","type":"leave","id":1767139969,"u":"roblox_user_1767139969","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-14T22:15:17.778Z","type":"demote","id":10594375372,"u":"pathOS_Admissions","from":185,"to":1,"fromRoleId":30919815,"roleId":12884901889,"fromName":"--------------------","toName":"Member","heldDays":101.325}
+{"t":"2026-11-14T22:15:17.778Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.369}
