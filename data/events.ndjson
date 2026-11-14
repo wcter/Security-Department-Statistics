@@ -1857,3 +1857,8 @@
 {"t":"2026-11-14T06:05:21.160Z","type":"promote","id":953712243,"u":"Pure049","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":19.065}
 {"t":"2026-11-14T06:05:21.160Z","type":"promote","id":1926499277,"u":"culbc","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.217}
 {"t":"2026-11-14T06:05:21.160Z","type":"promote","id":3413409535,"u":"BuildIntoCopy10","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":20.394}
+{"t":"2026-11-14T13:24:32.286Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":0.305}
+{"t":"2026-11-14T13:24:32.286Z","type":"promote","id":334431350,"u":"tiredsanti","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":100.956}
+{"t":"2026-11-14T13:24:32.286Z","type":"promote","id":818826806,"u":"Nickeyyy200","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":24.371}
+{"t":"2026-11-14T13:24:32.286Z","type":"leave","id":729230181,"u":"OriginalRy","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-11-14T13:24:32.286Z","type":"leave","id":1767139969,"u":"roblox_user_1767139969","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
