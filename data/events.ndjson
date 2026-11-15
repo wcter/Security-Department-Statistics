@@ -1892,3 +1892,5 @@
 {"t":"2026-11-15T06:11:41.277Z","type":"join","id":2503439299,"u":"BeanBoi1202","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-15T06:11:41.277Z","type":"join","id":3270618554,"u":"Ghost_rtagu","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-15T06:11:41.277Z","type":"join","id":9442948433,"u":"Duckyyys_Alt","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-15T18:44:46.458Z","type":"rename","id":1143628675,"u":"Gaming_Suchti1337","from":"Suchti_SG"}
+{"t":"2026-11-15T18:44:46.458Z","type":"leave","id":1549190614,"u":"Aleminator200","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
