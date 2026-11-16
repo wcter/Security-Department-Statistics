@@ -1905,3 +1905,10 @@
 {"t":"2026-11-16T06:08:57.292Z","type":"join","id":106311567,"u":"holyisms","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-16T06:08:57.292Z","type":"join","id":939034830,"u":"AlphaTacticalUnit","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-16T06:08:57.292Z","type":"leave","id":3468820211,"u":"ggman3490","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-16T21:55:28.426Z","type":"demote","id":1666732070,"u":"CamBaboo","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":72.737}
+{"t":"2026-11-16T21:55:28.426Z","type":"promote","id":1366314785,"u":"TaskForce_Delta5","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":16.022}
+{"t":"2026-11-16T21:55:28.426Z","type":"promote","id":1576349771,"u":"I_Kni","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.648}
+{"t":"2026-11-16T21:55:28.426Z","type":"promote","id":950019071,"u":"KyloBlue10","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.662}
+{"t":"2026-11-16T21:55:28.426Z","type":"join","id":3409965504,"u":"Footnik17","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-16T21:55:28.426Z","type":"leave","id":1524035615,"u":"BoxBoy7273","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
+{"t":"2026-11-16T21:55:28.426Z","type":"leave","id":2696273541,"u":"COC0_01","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
