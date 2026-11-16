@@ -1894,3 +1894,14 @@
 {"t":"2026-11-15T06:11:41.277Z","type":"join","id":9442948433,"u":"Duckyyys_Alt","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-15T18:44:46.458Z","type":"rename","id":1143628675,"u":"Gaming_Suchti1337","from":"Suchti_SG"}
 {"t":"2026-11-15T18:44:46.458Z","type":"leave","id":1549190614,"u":"Aleminator200","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.998}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":1209850335,"u":"WildZooAnimal","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":56.393}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":1915884565,"u":"DollOfMelancholy","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":17.024}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":3614371749,"u":"D4RKNE52","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":11.275}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":138389412,"u":"georgebaltino123","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":9.991}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":1293929306,"u":"impersistenza","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.998}
+{"t":"2026-11-16T06:08:57.292Z","type":"promote","id":642684635,"u":"vakluc","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.998}
+{"t":"2026-11-16T06:08:57.292Z","type":"join","id":6202029527,"u":"Physiatricz","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-16T06:08:57.292Z","type":"join","id":106311567,"u":"holyisms","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-16T06:08:57.292Z","type":"join","id":939034830,"u":"AlphaTacticalUnit","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-16T06:08:57.292Z","type":"leave","id":3468820211,"u":"ggman3490","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
