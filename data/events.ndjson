@@ -1934,3 +1934,13 @@
 {"t":"2026-11-18T07:09:00.245Z","type":"join","id":5029305993,"u":"centex_robloxia0","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-18T07:09:00.245Z","type":"rejoin","id":1251196762,"u":"kubusiekdudusiek","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-18T07:09:00.245Z","type":"join","id":1908085504,"u":"BasaltOmicron","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":234810404,"u":"Toximay","from":1,"to":255,"fromRoleId":12884901889,"roleId":30919759,"fromName":"Member","toName":"The Administrator","heldDays":1.527}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":96185281,"u":"Dr_Luxxe","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":1.527}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":24529411,"u":"mario102030405","from":1,"to":254,"fromRoleId":12884901889,"roleId":523836081,"fromName":"Member","toName":"Chairman of the Council","heldDays":1.527}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":86217781,"u":"Turntapp","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":1.527}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":674166621,"u":"wcter","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":1.527}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":199241050,"u":"ahoj18","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":40.602}
+{"t":"2026-11-18T20:22:36.097Z","type":"rename","id":11286600963,"u":"Johkhardt","from":"CallmeYohk"}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":1.527}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":2886827984,"u":"i1nvis","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":15.265}
+{"t":"2026-11-18T20:22:36.097Z","type":"promote","id":127792987,"u":"Smartguy8529","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":12.583}
