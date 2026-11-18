@@ -1924,3 +1924,13 @@
 {"t":"2026-11-17T07:44:05.393Z","type":"promote","id":248482188,"u":"Dr_Rixan","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":8.071}
 {"t":"2026-11-17T07:44:05.393Z","type":"promote","id":6202029527,"u":"Physiatricz","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.066}
 {"t":"2026-11-17T20:46:01.493Z","type":"promote","id":3100184802,"u":"Fail_kyano","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.961}
+{"t":"2026-11-18T07:09:00.245Z","type":"promote","id":3230105648,"u":"Viffy_3","from":60,"to":100,"fromRoleId":30919801,"roleId":105852384,"fromName":"Security Specialist","toName":"Security Corporal","heldDays":74.121}
+{"t":"2026-11-18T07:09:00.245Z","type":"promote","id":265953021,"u":"Depaxius1","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":13.316}
+{"t":"2026-11-18T07:09:00.245Z","type":"promote","id":946738760,"u":"Willyrexelpro4","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.393}
+{"t":"2026-11-18T07:09:00.245Z","type":"promote","id":4248756442,"u":"Zfrod6","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.277}
+{"t":"2026-11-18T07:09:00.245Z","type":"join","id":10335113109,"u":"BloxNewsTeams","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-18T07:09:00.245Z","type":"join","id":1970161097,"u":"GammaJack305","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-18T07:09:00.245Z","type":"join","id":2736641404,"u":"vluqqs","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-18T07:09:00.245Z","type":"join","id":5029305993,"u":"centex_robloxia0","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-18T07:09:00.245Z","type":"rejoin","id":1251196762,"u":"kubusiekdudusiek","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-18T07:09:00.245Z","type":"join","id":1908085504,"u":"BasaltOmicron","to":1,"roleId":70762197,"toName":"Security Intern"}
