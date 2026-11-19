@@ -1951,3 +1951,9 @@
 {"t":"2026-11-19T07:10:10.131Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":0.45}
 {"t":"2026-11-19T07:10:10.131Z","type":"promote","id":187631543,"u":"MinorFirebrine123","from":150,"to":170,"fromRoleId":30919802,"roleId":30919821,"fromName":"Security Officer","toName":"Security Lieutenant","heldDays":105.696}
 {"t":"2026-11-19T07:10:10.131Z","type":"join","id":276988590,"u":"crinrly","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-19T20:26:42.586Z","type":"promote","id":234810404,"u":"Toximay","from":1,"to":255,"fromRoleId":12884901889,"roleId":30919759,"fromName":"Member","toName":"The Administrator","heldDays":0.553}
+{"t":"2026-11-19T20:26:42.586Z","type":"promote","id":10594375372,"u":"pathOS_Admissions","from":1,"to":185,"fromRoleId":12884901889,"roleId":30919815,"fromName":"Member","toName":"--------------------","heldDays":0.553}
+{"t":"2026-11-19T20:26:42.586Z","type":"promote","id":24529411,"u":"mario102030405","from":1,"to":254,"fromRoleId":12884901889,"roleId":523836081,"fromName":"Member","toName":"Chairman of the Council","heldDays":0.553}
+{"t":"2026-11-19T20:26:42.586Z","type":"promote","id":674166621,"u":"wcter","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":0.553}
+{"t":"2026-11-19T20:26:42.586Z","type":"promote","id":4677949863,"u":"sweatyboy8888","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":25.666}
+{"t":"2026-11-19T20:26:42.586Z","type":"leave","id":3569958663,"u":"iTapulu","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
