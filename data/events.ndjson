@@ -1977,3 +1977,6 @@
 {"t":"2026-11-21T06:54:29.033Z","type":"promote","id":4902541074,"u":"Midnight44M","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.456}
 {"t":"2026-11-21T06:54:29.033Z","type":"promote","id":202460575,"u":"jerougamer","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.456}
 {"t":"2026-11-21T06:54:29.033Z","type":"join","id":655470198,"u":"proROBROX","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-21T19:04:18.293Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":2.946}
+{"t":"2026-11-21T19:04:18.293Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":2.946}
+{"t":"2026-11-21T19:04:18.293Z","type":"promote","id":98252026,"u":"RiverSoleil","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.537}
