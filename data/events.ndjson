@@ -1968,3 +1968,12 @@
 {"t":"2026-11-20T19:58:27.247Z","type":"promote","id":2040721716,"u":"charliecokezero","from":1,"to":40,"fromRoleId":70762197,"roleId":135066020,"fromName":"Security Intern","toName":"Security Guard","heldDays":11.581}
 {"t":"2026-11-20T19:58:27.247Z","type":"join","id":4902541074,"u":"Midnight44M","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-20T19:58:27.247Z","type":"join","id":202460575,"u":"jerougamer","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-21T06:54:29.033Z","type":"demote","id":2040721716,"u":"charliecokezero","from":40,"to":1,"fromRoleId":135066020,"roleId":70762197,"fromName":"Security Guard","toName":"Security Intern","heldDays":0.456}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":11443493981,"u":"darkninja1384728","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":17.037}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":2318146061,"u":"SHERIFF91178","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":44.044}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":1521920600,"u":"mightysharktwo","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":9.267}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":1940020802,"u":"PENGUIN64021","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":9.267}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":1293929306,"u":"impersistenza","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":5.032}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":4902541074,"u":"Midnight44M","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.456}
+{"t":"2026-11-21T06:54:29.033Z","type":"promote","id":202460575,"u":"jerougamer","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.456}
+{"t":"2026-11-21T06:54:29.033Z","type":"join","id":655470198,"u":"proROBROX","to":1,"roleId":70762197,"toName":"Security Intern"}
