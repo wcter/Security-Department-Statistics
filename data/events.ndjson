@@ -1988,3 +1988,8 @@
 {"t":"2026-11-22T06:30:30.881Z","type":"promote","id":276988590,"u":"crinrly","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.972}
 {"t":"2026-11-22T06:30:30.881Z","type":"promote","id":3238791276,"u":"BeastTheSpacekaden","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.98}
 {"t":"2026-11-22T06:30:30.881Z","type":"leave","id":3270618554,"u":"Ghost_rtagu","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-22T19:26:58.519Z","type":"promote","id":2604001206,"u":"sillyclumsykitty","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":30.104}
+{"t":"2026-11-22T19:26:58.519Z","type":"promote","id":161431551,"u":"TruckdriverBubba","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":7.552}
+{"t":"2026-11-22T19:26:58.519Z","type":"leave","id":2532519167,"u":"Shadow275685","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-11-22T19:26:58.519Z","type":"leave","id":3164721198,"u":"wheelreaches909","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-11-22T19:26:58.519Z","type":"leave","id":11662210822,"u":"VincentHaverut","from":20,"fromRoleId":30919761,"fromName":"Security Cadet"}
