@@ -1980,3 +1980,11 @@
 {"t":"2026-11-21T19:04:18.293Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":2.946}
 {"t":"2026-11-21T19:04:18.293Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":2.946}
 {"t":"2026-11-21T19:04:18.293Z","type":"promote","id":98252026,"u":"RiverSoleil","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":6.537}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":96185281,"u":"Dr_Luxxe","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.477}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.477}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":2561388676,"u":"mlamla_mlawez","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":56.057}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":1266262074,"u":"nijaxxe","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":27.407}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":884187822,"u":"maxliezs","from":40,"to":50,"fromRoleId":135066020,"roleId":135248009,"fromName":"Security Guard","toName":"Security Sentry","heldDays":15.03}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":276988590,"u":"crinrly","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":2.972}
+{"t":"2026-11-22T06:30:30.881Z","type":"promote","id":3238791276,"u":"BeastTheSpacekaden","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":1.98}
+{"t":"2026-11-22T06:30:30.881Z","type":"leave","id":3270618554,"u":"Ghost_rtagu","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
