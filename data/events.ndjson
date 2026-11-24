@@ -2017,3 +2017,14 @@
 {"t":"2026-11-24T09:42:03.822Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":0.414}
 {"t":"2026-11-24T09:42:03.822Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":0.414}
 {"t":"2026-11-24T09:42:03.822Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":0.414}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":234810404,"u":"Toximay","from":1,"to":255,"fromRoleId":12884901889,"roleId":30919759,"fromName":"Member","toName":"The Administrator","heldDays":0.525}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":96185281,"u":"Dr_Luxxe","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.525}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":24529411,"u":"mario102030405","from":1,"to":254,"fromRoleId":12884901889,"roleId":523836081,"fromName":"Member","toName":"Chairman of the Council","heldDays":0.525}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":86217781,"u":"Turntapp","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.525}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":674166621,"u":"wcter","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":0.525}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.525}
+{"t":"2026-11-24T22:17:40.469Z","type":"promote","id":1959939210,"u":"swatboy9765","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":20.678}
+{"t":"2026-11-24T22:17:40.469Z","type":"leave","id":1522880285,"u":"Cosmic_Milkyway240","from":50,"fromRoleId":135248009,"fromName":"Security Sentry"}
+{"t":"2026-11-24T22:17:40.469Z","type":"leave","id":1576349771,"u":"I_Kni","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-11-24T22:17:40.469Z","type":"leave","id":3472546092,"u":"LEOFALLblade","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
+{"t":"2026-11-24T22:17:40.469Z","type":"leave","id":11705774812,"u":"pathosoperatingsyste","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
