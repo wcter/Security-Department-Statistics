@@ -2011,3 +2011,9 @@
 {"t":"2026-11-23T23:45:52.943Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.684}
 {"t":"2026-11-23T23:45:52.943Z","type":"promote","id":1908085504,"u":"BasaltOmicron","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":5.692}
 {"t":"2026-11-23T23:45:52.943Z","type":"join","id":1529454028,"u":"ThaLolMan101","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-24T09:42:03.822Z","type":"demote","id":234810404,"u":"Toximay","from":255,"to":1,"fromRoleId":30919759,"roleId":12884901889,"fromName":"The Administrator","toName":"Member","heldDays":0.414}
+{"t":"2026-11-24T09:42:03.822Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":0.414}
+{"t":"2026-11-24T09:42:03.822Z","type":"demote","id":24529411,"u":"mario102030405","from":254,"to":1,"fromRoleId":523836081,"roleId":12884901889,"fromName":"Chairman of the Council","toName":"Member","heldDays":0.414}
+{"t":"2026-11-24T09:42:03.822Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":0.414}
+{"t":"2026-11-24T09:42:03.822Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":0.414}
+{"t":"2026-11-24T09:42:03.822Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":0.414}
