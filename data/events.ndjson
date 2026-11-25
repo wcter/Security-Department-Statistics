@@ -2028,3 +2028,7 @@
 {"t":"2026-11-24T22:17:40.469Z","type":"leave","id":1576349771,"u":"I_Kni","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
 {"t":"2026-11-24T22:17:40.469Z","type":"leave","id":3472546092,"u":"LEOFALLblade","from":30,"fromRoleId":30919798,"fromName":"Security Agent"}
 {"t":"2026-11-24T22:17:40.469Z","type":"leave","id":11705774812,"u":"pathosoperatingsyste","from":40,"fromRoleId":135066020,"fromName":"Security Guard"}
+{"t":"2026-11-25T08:14:41.537Z","type":"promote","id":86217781,"u":"Turntapp","from":252,"to":253,"fromRoleId":30919760,"roleId":668323001,"fromName":"O5 Council","toName":"Overseer","heldDays":0.415}
+{"t":"2026-11-25T08:14:41.537Z","type":"promote","id":248482188,"u":"Dr_Rixan","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.021}
+{"t":"2026-11-25T08:14:41.537Z","type":"promote","id":276988590,"u":"crinrly","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.072}
+{"t":"2026-11-25T08:14:41.537Z","type":"leave","id":939034830,"u":"AlphaTacticalUnit","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
