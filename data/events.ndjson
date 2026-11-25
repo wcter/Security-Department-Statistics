@@ -2032,3 +2032,7 @@
 {"t":"2026-11-25T08:14:41.537Z","type":"promote","id":248482188,"u":"Dr_Rixan","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":8.021}
 {"t":"2026-11-25T08:14:41.537Z","type":"promote","id":276988590,"u":"crinrly","from":20,"to":30,"fromRoleId":30919761,"roleId":30919798,"fromName":"Security Cadet","toName":"Security Agent","heldDays":3.072}
 {"t":"2026-11-25T08:14:41.537Z","type":"leave","id":939034830,"u":"AlphaTacticalUnit","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
+{"t":"2026-11-25T21:34:30.714Z","type":"demote","id":1417264589,"u":"sebiapophis","from":50,"to":30,"fromRoleId":135248009,"roleId":30919798,"fromName":"Security Sentry","toName":"Security Agent","heldDays":25.007}
+{"t":"2026-11-25T21:34:30.714Z","type":"join","id":104135478,"u":"LunnyOS","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-25T21:34:30.714Z","type":"join","id":4780338141,"u":"Dead_Miless","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-25T21:34:30.714Z","type":"join","id":817863947,"u":"SWATInmates","to":1,"roleId":70762197,"toName":"Security Intern"}
