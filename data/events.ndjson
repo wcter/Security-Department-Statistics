@@ -2038,3 +2038,9 @@
 {"t":"2026-11-25T21:34:30.714Z","type":"join","id":817863947,"u":"SWATInmates","to":1,"roleId":70762197,"toName":"Security Intern"}
 {"t":"2026-11-26T08:01:33.636Z","type":"demote","id":1260609192,"u":"ExclusiveMike_141","from":60,"to":50,"fromRoleId":30919801,"roleId":135248009,"fromName":"Security Specialist","toName":"Security Sentry","heldDays":22.367}
 {"t":"2026-11-26T08:01:33.636Z","type":"promote","id":1417264589,"u":"sebiapophis","from":30,"to":50,"fromRoleId":30919798,"roleId":135248009,"fromName":"Security Agent","toName":"Security Sentry","heldDays":0.435}
+{"t":"2026-11-26T21:23:22.530Z","type":"demote","id":86217781,"u":"Turntapp","from":253,"to":252,"fromRoleId":668323001,"roleId":30919760,"fromName":"Overseer","toName":"O5 Council","heldDays":1.548}
+{"t":"2026-11-26T21:23:22.530Z","type":"promote","id":1366314785,"u":"TaskForce_Delta5","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":9.978}
+{"t":"2026-11-26T21:23:22.530Z","type":"promote","id":230451832,"u":"Mellisibarra","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":27.363}
+{"t":"2026-11-26T21:23:22.530Z","type":"promote","id":698724731,"u":"SageOfEternality","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.585}
+{"t":"2026-11-26T21:23:22.530Z","type":"promote","id":104135478,"u":"LunnyOS","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.992}
+{"t":"2026-11-26T21:23:22.530Z","type":"join","id":7849815745,"u":"angelsaphim","to":1,"roleId":70762197,"toName":"Security Intern"}
