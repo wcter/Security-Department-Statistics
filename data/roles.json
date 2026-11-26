@@ -32,7 +32,7 @@
     "id": 30919798,
     "name": "Security Agent",
     "rank": 30,
-    "memberCount": 173,
+    "memberCount": 172,
     "color": 0
   },
   {
@@ -46,14 +46,14 @@
     "id": 135248009,
     "name": "Security Sentry",
     "rank": 50,
-    "memberCount": 128,
+    "memberCount": 130,
     "color": 0
   },
   {
     "id": 30919801,
     "name": "Security Specialist",
     "rank": 60,
-    "memberCount": 25,
+    "memberCount": 24,
     "color": 0
   },
   {
