@@ -2044,3 +2044,12 @@
 {"t":"2026-11-26T21:23:22.530Z","type":"promote","id":698724731,"u":"SageOfEternality","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":3.585}
 {"t":"2026-11-26T21:23:22.530Z","type":"promote","id":104135478,"u":"LunnyOS","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":0.992}
 {"t":"2026-11-26T21:23:22.530Z","type":"join","id":7849815745,"u":"angelsaphim","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-27T08:06:13.099Z","type":"demote","id":234810404,"u":"Toximay","from":255,"to":1,"fromRoleId":30919759,"roleId":12884901889,"fromName":"The Administrator","toName":"Member","heldDays":2.409}
+{"t":"2026-11-27T08:06:13.099Z","type":"demote","id":96185281,"u":"Dr_Luxxe","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":2.409}
+{"t":"2026-11-27T08:06:13.099Z","type":"demote","id":24529411,"u":"mario102030405","from":254,"to":1,"fromRoleId":523836081,"roleId":12884901889,"fromName":"Chairman of the Council","toName":"Member","heldDays":2.409}
+{"t":"2026-11-27T08:06:13.099Z","type":"demote","id":86217781,"u":"Turntapp","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":0.446}
+{"t":"2026-11-27T08:06:13.099Z","type":"demote","id":674166621,"u":"wcter","from":253,"to":1,"fromRoleId":668323001,"roleId":12884901889,"fromName":"Overseer","toName":"Member","heldDays":2.409}
+{"t":"2026-11-27T08:06:13.099Z","type":"promote","id":2357188397,"u":"aqauaboi122","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":113.735}
+{"t":"2026-11-27T08:06:13.099Z","type":"demote","id":927075105,"u":"Valklist","from":252,"to":1,"fromRoleId":30919760,"roleId":12884901889,"fromName":"O5 Council","toName":"Member","heldDays":2.409}
+{"t":"2026-11-27T08:06:13.099Z","type":"promote","id":4888818373,"u":"Meapmr_1","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":32.149}
+{"t":"2026-11-27T08:06:13.099Z","type":"promote","id":950019071,"u":"KyloBlue10","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":10.424}
