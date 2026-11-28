@@ -2059,3 +2059,14 @@
 {"t":"2026-11-27T21:03:13.860Z","type":"promote","id":24529411,"u":"mario102030405","from":1,"to":254,"fromRoleId":12884901889,"roleId":523836081,"fromName":"Member","toName":"Chairman of the Council","heldDays":0.54}
 {"t":"2026-11-27T21:03:13.860Z","type":"promote","id":86217781,"u":"Turntapp","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.54}
 {"t":"2026-11-27T21:03:13.860Z","type":"promote","id":927075105,"u":"Valklist","from":1,"to":252,"fromRoleId":12884901889,"roleId":30919760,"fromName":"Member","toName":"O5 Council","heldDays":0.54}
+{"t":"2026-11-28T07:32:42.043Z","type":"promote","id":10594375372,"u":"pathOS_Admissions","from":1,"to":185,"fromRoleId":12884901889,"roleId":30919815,"fromName":"Member","toName":"--------------------","heldDays":0.437}
+{"t":"2026-11-28T07:32:42.043Z","type":"promote","id":674166621,"u":"wcter","from":1,"to":253,"fromRoleId":12884901889,"roleId":668323001,"fromName":"Member","toName":"Overseer","heldDays":0.977}
+{"t":"2026-11-28T07:32:42.043Z","type":"promote","id":406460057,"u":"TheMusicProVIP","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":99.022}
+{"t":"2026-11-28T07:32:42.043Z","type":"promote","id":427749571,"u":"bharricade","from":30,"to":40,"fromRoleId":30919798,"roleId":135066020,"fromName":"Security Agent","toName":"Security Guard","heldDays":69.117}
+{"t":"2026-11-28T07:32:42.043Z","type":"promote","id":8428206559,"u":"armoredghost1337","from":1,"to":20,"fromRoleId":70762197,"roleId":30919761,"fromName":"Security Intern","toName":"Security Cadet","heldDays":8.024}
+{"t":"2026-11-28T07:32:42.043Z","type":"join","id":552556730,"u":"xfudexx","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-28T07:32:42.043Z","type":"join","id":347120948,"u":"vevovevo_vevovevo","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-28T07:32:42.043Z","type":"join","id":11407207986,"u":"67MangoJockey","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-28T07:32:42.043Z","type":"join","id":4428575194,"u":"xrz_iviv","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-28T07:32:42.043Z","type":"join","id":1121393997,"u":"Esix_x","to":1,"roleId":70762197,"toName":"Security Intern"}
+{"t":"2026-11-28T07:32:42.043Z","type":"leave","id":3733322994,"u":"Erikwarior0411","from":1,"fromRoleId":70762197,"fromName":"Security Intern"}
